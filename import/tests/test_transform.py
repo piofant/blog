@@ -20,3 +20,29 @@ def test_empty_text_fallback_to_russian_date():
 def test_only_emoji_fallback():
     dt = datetime(2024, 6, 15, tzinfo=timezone.utc)
     assert extract_title("🐳 👀", fallback_date=dt) == "Запись от 15 июня 2024"
+
+from lib.transform import html_to_markdown
+
+def test_bold_italic_link():
+    assert html_to_markdown("<strong>жирный</strong>") == "**жирный**"
+    assert html_to_markdown("<em>курсив</em>") == "*курсив*"
+    assert html_to_markdown('<a href="https://x.com">link</a>') == "[link](https://x.com)"
+
+def test_br_becomes_newline():
+    assert html_to_markdown("line1<br>line2") == "line1\nline2"
+
+def test_code_and_blockquote():
+    assert html_to_markdown("<code>x</code>") == "`x`"
+    assert html_to_markdown("<blockquote>quoted</blockquote>").strip().startswith(">")
+
+def test_hashtag_link_becomes_plain_tag():
+    html = '<a href="" onclick="return ShowHashtag(&quot;рефлексия&quot;)">#рефлексия</a>'
+    assert html_to_markdown(html).strip() == "#рефлексия"
+
+def test_emoji_preserved():
+    assert html_to_markdown("текст 🐳 текст") == "текст 🐳 текст"
+
+def test_preserves_external_link_with_bold_inside():
+    html = '<a href="https://x.com"><strong>link</strong></a>'
+    md = html_to_markdown(html)
+    assert "[**link**](https://x.com)" in md or "**[link](https://x.com)**" in md

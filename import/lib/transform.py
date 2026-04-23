@@ -33,3 +33,36 @@ def extract_title(text_html: str, fallback_date: datetime | None = None) -> str:
         m = RU_MONTHS[fallback_date.month]
         return f"Запись от {fallback_date.day} {m} {fallback_date.year}"
     return _truncate_at_word(first, TITLE_MAX_CHARS)
+
+
+from markdownify import markdownify as _md
+from bs4 import NavigableString
+
+
+def _preprocess_hashtags(html: str) -> str:
+    """Replace TG hashtag anchors with plain text #tag."""
+    soup = BeautifulSoup(html, "html.parser")
+    for a in soup.find_all("a"):
+        onclick = a.get("onclick", "")
+        if "ShowHashtag" in onclick:
+            tag_text = a.get_text().strip()
+            a.replace_with(NavigableString(tag_text))
+    return str(soup)
+
+
+def html_to_markdown(html: str) -> str:
+    """Convert TG message HTML → Markdown."""
+    if not html:
+        return ""
+    html = _preprocess_hashtags(html)
+    md = _md(
+        html,
+        heading_style="ATX",
+        bullets="-",
+        strip=["script", "style"],
+    )
+    # markdownify leaves excessive blank lines; collapse 3+
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    # markdownify uses trailing double-space for <br>; strip trailing whitespace per line
+    md = "\n".join(line.rstrip() for line in md.split("\n"))
+    return md.strip()
