@@ -46,3 +46,28 @@ def test_preserves_external_link_with_bold_inside():
     html = '<a href="https://x.com"><strong>link</strong></a>'
     md = html_to_markdown(html)
     assert "[**link**](https://x.com)" in md or "**[link](https://x.com)**" in md
+
+from lib.transform import rewrite_pioblog_links
+
+def test_rewrite_known_link():
+    link_map = {10: "/blog/first-post/", 14: "/blog/later-post/"}
+    md = "Смотри [прошлый](https://t.me/pioblog/10) и [ещё](https://t.me/pioblog/14)."
+    out = rewrite_pioblog_links(md, link_map)
+    assert "(/blog/first-post/)" in out
+    assert "(/blog/later-post/)" in out
+    assert "t.me/pioblog" not in out
+
+def test_unknown_id_preserved():
+    link_map = {10: "/blog/x/"}
+    md = "[удалённый](https://t.me/pioblog/999)"
+    assert "https://t.me/pioblog/999" in rewrite_pioblog_links(md, link_map)
+
+def test_preserves_other_tg_channels():
+    link_map = {}
+    md = "[отсюда](https://t.me/not_tldr/5)"
+    assert rewrite_pioblog_links(md, link_map) == md
+
+def test_also_rewrites_in_html_anchor_forms():
+    link_map = {10: "/blog/x/"}
+    md = 'Ссылка: <a href="https://t.me/pioblog/10">link</a>'
+    assert "/blog/x/" in rewrite_pioblog_links(md, link_map)

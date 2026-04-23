@@ -66,3 +66,12 @@ def html_to_markdown(html: str) -> str:
     # markdownify uses trailing double-space for <br>; strip trailing whitespace per line
     md = "\n".join(line.rstrip() for line in md.split("\n"))
     return md.strip()
+
+
+def rewrite_pioblog_links(md: str, link_map: dict[int, str]) -> str:
+    """Replace t.me/pioblog/N links with local permalinks where known."""
+    pattern = re.compile(r"https?://t\.me/pioblog/(\d+)")
+    def repl(m: re.Match) -> str:
+        n = int(m.group(1))
+        return link_map.get(n, m.group(0))
+    return pattern.sub(repl, md)
