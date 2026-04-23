@@ -108,6 +108,8 @@ article.blog-post h1,
 article.blog-post h2,
 article.blog-post h3 {
   font-family: 'Play', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
 }
 .post-preview .post-meta { font-size: 0.875rem !important; }
 .post-preview .post-entry {
