@@ -105,6 +105,11 @@ article.blog-post pre {
   color: #555;
 }
 
+/* компактнее вертикальные отступы между карточками
+   (дефолт темы 2.1875rem на десктопе — слишком воздушно
+   для коротких excerpt'ов) */
+.post-preview { padding: 1rem 0 !important; }
+
 /* теги под карточкой на главной скрываем (заголовка + превью достаточно) */
 .post-preview .blog-tags { display: none !important; }
 
