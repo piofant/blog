@@ -138,3 +138,40 @@ article.blog-post pre {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
 }
+
+/* =======================================
+   ARCHIVE — страница /archive/
+   ======================================= */
+.archive-page {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.archive-year {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+  margin: 2rem 0 0.75rem;
+  color: #222;
+}
+.archive-page .archive-year:first-of-type { margin-top: 0; }
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.archive-list li {
+  padding: 4px 0;
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+}
+.archive-list .d {
+  color: #999;
+  font-size: 0.8125rem;
+  min-width: 110px;
+  flex-shrink: 0;
+}
+.archive-list a {
+  font-size: 0.9375rem;
+  line-height: 1.3;
+}
