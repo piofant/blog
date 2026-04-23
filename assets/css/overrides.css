@@ -126,3 +126,15 @@ article.blog-post pre {
 }
 .post-preview .post-read-more { display: none !important; }
 .post-preview .blog-tags { display: none !important; }
+
+/* =======================================
+   HOME — ссылка «Все посты →»
+   ======================================= */
+.all-posts-link {
+  max-width: 680px;
+  margin: 1.5rem auto 0;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9375rem;
+}

@@ -89,6 +89,10 @@ layout: page
   {% endfor %}
 </div>
 
+<p class="all-posts-link">
+  <a href="{{ '/archive/' | relative_url }}">Все посты &rarr;</a>
+</p>
+
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
