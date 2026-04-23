@@ -85,7 +85,10 @@ article.blog-post pre {
 .callout > p:last-child { margin-bottom: 0; }
 
 /* =======================================
-   HOME — ужали колонку feed-а
+   HOME — H1 layout (как в превью)
+   - колонка 680px
+   - grid: дата → заголовок → subtitle → excerpt слева
+   - thumbnail 7rem × 7rem справа, спанит по вертикали
    ======================================= */
 .posts-list {
   max-width: 680px;
@@ -93,15 +96,76 @@ article.blog-post pre {
   margin-right: auto;
 }
 
-/* =======================================
-   HOME — шрифты в карточках чуть меньше
-   (размеры картинки, паддинги, границы — дефолт темы)
-   ======================================= */
-.post-preview .post-title { font-size: 1.375rem !important; }
-.post-preview .post-subtitle { font-size: 1rem !important; font-weight: 400 !important; }
+.post-preview {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 7rem;
+  column-gap: 1rem;
+  row-gap: 4px;
+  align-items: start;
+  padding: 1.25rem 0 !important;
+  border-bottom: 1px solid #eee !important;
+}
+.post-preview:last-of-type { border-bottom: 0 !important; }
 
-/* шрифт «Play» для всех заголовков постов */
-.post-preview .post-title,
+.post-preview > * {
+  grid-column: 1;
+  min-width: 0;
+}
+
+/* порядок строк в левой колонке: дата, заголовок+subtitle, excerpt */
+.post-preview .post-meta   { grid-row: 1; order: 1; }
+.post-preview > a          { grid-row: 2; order: 2; }
+.post-preview .post-entry  { grid-row: 3; order: 3; display: block !important; }
+
+/* картинка справа, спанит все строки */
+.post-preview .post-image {
+  display: block !important;
+  grid-column: 2 !important;
+  grid-row: 1 / span 3 !important;
+  width: 7rem !important;
+  height: 7rem !important;
+  max-width: 7rem !important;
+  float: none !important;
+  margin: 0 !important;
+  filter: none !important;
+  align-self: start;
+  border-radius: 2px;
+}
+
+/* типографика */
+.post-preview .post-meta {
+  color: #999 !important;
+  font-size: 0.8125rem !important;
+  margin: 0 !important;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+.post-preview .post-title {
+  font-size: 1.25rem !important;
+  margin: 2px 0 2px !important;
+  color: #222 !important;
+}
+.post-preview .post-subtitle {
+  font-weight: 400 !important;
+  font-size: 0.9375rem !important;
+  color: #777 !important;
+  margin: 0 !important;
+}
+.post-preview .post-entry {
+  font-size: 0.9375rem !important;
+  color: #555 !important;
+  line-height: 1.55 !important;
+  margin: 6px 0 0 !important;
+}
+
+.post-preview a,
+.post-preview .post-title { color: #222 !important; }
+.post-preview a:hover,
+.post-preview a:focus { color: #FF8c00 !important; }
+
+.post-preview .post-read-more { display: none !important; }
+.post-preview .blog-tags { display: none !important; }
+
+/* шрифт «Play» для заголовков постов (внутри постов) — но НЕ на главной */
 .post-heading .post-title,
 .intro-header .post-heading h1,
 article.blog-post h1,
@@ -111,27 +175,27 @@ article.blog-post h3 {
   font-weight: 400 !important;
   font-style: normal !important;
 }
-.post-preview .post-meta { font-size: 0.875rem !important; }
-.post-preview .post-entry {
-  font-size: 0.9375rem;
-  line-height: 1.6;
-  color: #555;
-}
-
-/* компактнее вертикальные отступы между карточками */
-.post-preview { padding: 1.25rem 0 !important; }
-
-/* картинок в feed'е нет — живут внутри самих постов */
-.post-preview .post-image { display: none !important; }
-
-/* excerpt + [Read More] прячем — остаются заголовок, subtitle, дата */
-.post-preview .post-entry { display: none !important; }
-
-/* теги под карточкой на главной скрываем (заголовка + превью достаточно) */
-.post-preview .blog-tags { display: none !important; }
 
 /* прячем пагинацию-дубль — /archive её заменяет */
-.pagination.main-pager { display: none; }
+.pagination.main-pager { display: none !important; }
+
+/* мобильное — картинка сверху, одна колонка */
+@media (max-width: 640px) {
+  .post-preview {
+    grid-template-columns: 1fr;
+  }
+  .post-preview .post-image {
+    grid-column: 1 !important;
+    grid-row: 1 !important;
+    width: 100% !important;
+    height: 10rem !important;
+    max-width: none !important;
+    margin: 0 0 0.5rem 0 !important;
+  }
+  .post-preview .post-meta   { grid-row: 2; }
+  .post-preview > a          { grid-row: 3; }
+  .post-preview .post-entry  { grid-row: 4; }
+}
 
 /* =======================================
    HOME — ссылка «Все посты →»
