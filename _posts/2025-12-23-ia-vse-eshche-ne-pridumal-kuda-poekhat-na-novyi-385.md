@@ -1,0 +1,18 @@
+---
+layout: post
+title: "я всё ещё не придумал, куда поехать на новый год. может, у вас есть спальное"
+date: 2025-12-23 21:52:50 +0300
+thumbnail-img: /assets/img/posts/2025-12-23-ia-vse-eshche-ne-pridumal-kuda-poekhat-na-novyi-385/photo_236@23-12-2025_21-52-50.jpg
+telegram_id: 385
+telegram_url: https://t.me/pioblog/385
+---
+
+я всё ещё не придумал, куда поехать на новый год. может, у вас есть спальное местечко в какой-то тусовке?
+
+я могу показать лайнап с контактных танцев, рассказать кучу [лайфсторей](/blog/2025-10-28-zapis-ot-28-oktiabria-2025-373/) из автостопа и жизни на 2 города,
+
+порешать с вами задачки по систем дизайну, порешать продуктовые задачи или просто травить байки про corporate ⟷ unemployed lifestyle
+
+[@piofant](https://t.me/piofant)
+
+![](/assets/img/posts/2025-12-23-ia-vse-eshche-ne-pridumal-kuda-poekhat-na-novyi-385/photo_236@23-12-2025_21-52-50.jpg)
