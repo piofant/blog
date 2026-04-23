@@ -15,3 +15,6 @@ beautiful-jekyll-theme-*.gem
 # Telegram export dump (not for git — too large, photos/videos served from /assets/)
 ChatExport_*/
 import/staging/
+
+# Notion sync script deps
+scripts/node_modules/

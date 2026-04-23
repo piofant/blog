@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "d0d67ebeb5504322b875bf22dac51e56": {
+      "target": "pages/about.md",
+      "slug": "about",
+      "title": "Чем могу быть полезен",
+      "permalink": "/about/"
+    },
+    "b9e7ade0f6844fe1b91079390c0119b4": {
+      "target": "pages/portfolio.md",
+      "slug": "portfolio",
+      "title": "Портфолио кейсов",
+      "permalink": "/portfolio/"
+    },
+    "3118a5b81e9d469183c26a8b0aa96ad8": {
+      "target": "pages/mentoring.md",
+      "slug": "mentoring",
+      "title": "Менторство по продакт менеджменту",
+      "permalink": "/mentoring/"
+    }
+  },
+  "options": {
+    "imageDir": "assets/images/notion",
+    "subPagesDir": "pages/cases",
+    "subPagesPermalinkPrefix": "/cases/"
+  }
+}

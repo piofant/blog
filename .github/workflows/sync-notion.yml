@@ -1,0 +1,80 @@
+name: Sync Notion → Jekyll
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sync-notion
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install dependencies
+        # npm ci: fail-fast if lockfile drift detected (supply chain guard)
+        working-directory: ./scripts
+        run: npm ci
+
+      - name: Sync Notion (with retry)
+        uses: nick-fields/retry@v4
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          retry_wait_seconds: 30
+          command: cd scripts && node sync-notion.js
+
+      - name: Commit changes (conditional)
+        run: |
+          git config user.name "notion-sync-bot"
+          git config user.email "notion-sync-bot@users.noreply.github.com"
+          git add pages/ assets/images/notion/
+          if git diff --cached --quiet; then
+            echo "::notice::No Notion changes to commit"
+            exit 0
+          fi
+          git commit -m "sync: notion $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin ${GITHUB_REF_NAME:-master}
+          git push
+
+      - name: Healthcheck ping
+        if: success() && env.HEALTHCHECK_URL != ''
+        env:
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: curl -fsS --retry 3 "$HEALTHCHECK_URL"
+
+  notify-failure:
+    if: failure()
+    needs: sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Telegram
+        if: env.TG_BOT_TOKEN != '' && env.TG_CHAT_ID != ''
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TG_CHAT_ID }}
+          token: ${{ secrets.TG_BOT_TOKEN }}
+          message: |
+            ❌ notion-sync failed
+            Repo: ${{ github.repository }}
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
