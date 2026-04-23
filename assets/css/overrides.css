@@ -105,10 +105,32 @@ article.blog-post pre {
   color: #555;
 }
 
-/* компактнее вертикальные отступы между карточками
-   (дефолт темы 2.1875rem на десктопе — слишком воздушно
-   для коротких excerpt'ов) */
-.post-preview { padding: 1rem 0 !important; }
+/* компактнее вертикальные отступы между карточками */
+.post-preview { padding: 1.25rem 0 !important; }
+
+/* карточка — grid с картинкой 14rem × 8rem справа,
+   текст не заходит под картинку (≥768px) */
+@media (min-width: 768px) {
+  .post-preview {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 14rem;
+    column-gap: 1rem;
+    align-items: start;
+  }
+  .post-preview > * {
+    grid-column: 1;
+    min-width: 0;
+  }
+  .post-preview .post-image.post-image-short {
+    grid-column: 2;
+    grid-row: 1 / span 999;
+    width: 14rem !important;
+    height: 8rem !important;
+    float: none !important;
+    margin: 0 !important;
+    align-self: start;
+  }
+}
 
 /* теги под карточкой на главной скрываем (заголовка + превью достаточно) */
 .post-preview .blog-tags { display: none !important; }
