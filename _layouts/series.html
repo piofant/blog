@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<div class="container-md">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <h1>{{ page.title }}</h1>
+      {% assign series = site.data.series[page.series_id] %}
+      <p class="series-meta">Серия из {{ series.total }} частей</p>
+      <ol class="series-parts">
+        {% for part in series.parts %}
+          <li>
+            <a href="{{ part.permalink | relative_url }}">{{ part.title }}</a>
+            <time>{{ part.date | date: "%d.%m.%Y" }}</time>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</div>

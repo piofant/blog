@@ -1,0 +1,24 @@
+{% if page.series_id %}
+  {% assign series = site.data.series[page.series_id] %}
+  <nav class="series-nav">
+    <div class="series-nav-title">
+      <a href="{{ '/series/' | append: page.series_id | relative_url }}">{{ series.title }}</a>
+      — часть {{ page.series_part }} из {{ page.series_total }}
+    </div>
+    <div class="series-nav-links">
+      {% assign prev_part = page.series_part | minus: 1 %}
+      {% assign next_part = page.series_part | plus: 1 %}
+      {% for part in series.parts %}
+        {% if part.part == prev_part %}
+          <a href="{{ part.permalink | relative_url }}">← Часть {{ prev_part }}</a>
+        {% endif %}
+      {% endfor %}
+      <a href="{{ '/series/' | append: page.series_id | relative_url }}">Оглавление</a>
+      {% for part in series.parts %}
+        {% if part.part == next_part %}
+          <a href="{{ part.permalink | relative_url }}">Часть {{ next_part }} →</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+{% endif %}
