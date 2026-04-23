@@ -36,3 +36,44 @@ def test_no_media_in_photo_only_no_text():
     items = extract_media(_msg(13))
     assert len(items) == 1
     assert items[0].kind == MediaKind.PHOTO
+
+import tempfile
+from lib.media import copy_media, MediaCopyResult
+
+def test_copy_small_video_goes_to_staging_and_backup(tmp_path):
+    dump = tmp_path / "dump"
+    staging = tmp_path / "staging"
+    backup = tmp_path / "backup"
+    (dump / "video_files").mkdir(parents=True)
+    f = dump / "video_files" / "v.mp4"
+    f.write_bytes(b"\0" * (5 * 1024 * 1024))  # 5 MB
+    item = MediaItem(MediaKind.VIDEO, "video_files/v.mp4", declared_mb=5.0)
+    r = copy_media(item, dump, staging, backup, slug="my-post", tg_id=42)
+    assert r.in_staging is True
+    assert r.embed is False
+    assert (staging / "assets" / "video" / "posts" / "my-post").exists()
+    assert (backup / "my-post").exists()
+
+def test_copy_large_video_only_backup_and_embed(tmp_path):
+    dump = tmp_path / "dump"
+    staging = tmp_path / "staging"
+    backup = tmp_path / "backup"
+    (dump / "video_files").mkdir(parents=True)
+    f = dump / "video_files" / "big.mp4"
+    f.write_bytes(b"\0" * (30 * 1024 * 1024))  # 30 MB
+    item = MediaItem(MediaKind.VIDEO, "video_files/big.mp4", declared_mb=30.0)
+    r = copy_media(item, dump, staging, backup, slug="lecture", tg_id=100)
+    assert r.in_staging is False
+    assert r.embed is True
+    assert not (staging / "assets" / "video" / "posts" / "lecture").exists()
+    assert (backup / "lecture" / "big.mp4").exists()
+
+def test_photo_always_copied(tmp_path):
+    dump = tmp_path / "dump"
+    staging = tmp_path / "staging"
+    (dump / "photos").mkdir(parents=True)
+    (dump / "photos" / "p.jpg").write_bytes(b"x" * 1000)
+    item = MediaItem(MediaKind.PHOTO, "photos/p.jpg")
+    r = copy_media(item, dump, staging, tmp_path / "backup", slug="post", tg_id=1)
+    assert r.in_staging is True
+    assert (staging / "assets" / "img" / "posts" / "post" / "p.jpg").exists()

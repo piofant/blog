@@ -69,3 +69,64 @@ def extract_media(msg: Tag) -> list[MediaItem]:
             fn = orig.get_text().strip() if orig else Path(href).name
             out.append(MediaItem(MediaKind.FILE, href, declared_mb=_declared_mb(a), orig_filename=fn))
     return out
+
+
+from lib.config import VIDEO_EMBED_THRESHOLD_BYTES, FILE_EMBED_THRESHOLD_BYTES
+
+
+@dataclass
+class MediaCopyResult:
+    item: MediaItem
+    in_staging: bool        # copied to assets under staging_dir?
+    embed: bool             # render as TG-embed iframe instead of inline?
+    staging_path: Path | None   # absolute path in staging
+    backup_path: Path | None    # absolute path in backup
+
+
+_SUBDIRS = {
+    MediaKind.PHOTO: ("img", "posts"),
+    MediaKind.VIDEO: ("video", "posts"),
+    MediaKind.ROUND_VIDEO: ("video", "posts"),
+    MediaKind.VOICE: ("audio", "posts"),
+    MediaKind.FILE: ("files", "posts"),
+}
+
+
+def copy_media(
+    item: MediaItem,
+    dump_dir: Path,
+    staging_dir: Path,
+    backup_dir: Path,
+    slug: str,
+    tg_id: int,
+) -> MediaCopyResult:
+    src = dump_dir / item.rel_path
+    actual_size = src.stat().st_size if src.exists() else 0
+
+    should_embed = False
+    if item.kind == MediaKind.VIDEO:
+        should_embed = actual_size >= VIDEO_EMBED_THRESHOLD_BYTES
+    elif item.kind == MediaKind.FILE:
+        should_embed = actual_size >= FILE_EMBED_THRESHOLD_BYTES
+
+    # backup ALL videos + files (offline copy, outside repo)
+    backup_path = None
+    if item.kind in (MediaKind.VIDEO, MediaKind.FILE):
+        bdir = backup_dir / slug
+        bdir.mkdir(parents=True, exist_ok=True)
+        backup_path = bdir / src.name
+        if src.exists():
+            shutil.copy2(src, backup_path)
+
+    if should_embed:
+        return MediaCopyResult(item, in_staging=False, embed=True,
+                               staging_path=None, backup_path=backup_path)
+
+    sub = _SUBDIRS[item.kind]
+    dest_dir = staging_dir / "assets" / sub[0] / sub[1] / slug
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / src.name
+    if src.exists():
+        shutil.copy2(src, dest)
+    return MediaCopyResult(item, in_staging=True, embed=False,
+                           staging_path=dest, backup_path=backup_path)
