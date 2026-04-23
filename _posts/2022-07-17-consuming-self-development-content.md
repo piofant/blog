@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 109
+telegram_url: https://t.me/pioblog/109
 title: 'Как я потребляю контент по саморазвитию'
 subtitle: 'Или история создания проекта Edulix'
 thumbnail-img: /assets/img/edulix_logo.png

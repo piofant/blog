@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 76
+telegram_url: https://t.me/pioblog/76
 title: 'Сходил на нетворкинг-тусу'
 tags: [жизнипост]
 thumbnail-img: /assets/img/sns.jpg

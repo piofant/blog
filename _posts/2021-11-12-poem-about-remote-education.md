@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 67
+telegram_url: https://t.me/pioblog/67
 title: 'Написал стихотворение про учёбу на дистанте'
 tags: [жизнипост]
 ---

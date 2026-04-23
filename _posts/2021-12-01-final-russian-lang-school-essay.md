@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 68
+telegram_url: https://t.me/pioblog/68
 title: 'Написал про сильное чувство любви на итоговом сочинении'
 tags: [история]
 ---

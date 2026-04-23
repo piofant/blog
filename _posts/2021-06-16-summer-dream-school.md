@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 47
+telegram_url: https://t.me/pioblog/47
 title: 'Как, кажется, сбылась моя мечта о летней школе'
 tags: [жизнипост]
 thumbnail-img: /assets/img/summer_dream1.jpg

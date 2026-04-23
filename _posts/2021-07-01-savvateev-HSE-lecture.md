@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 52
+telegram_url: https://t.me/pioblog/52
 title: 'Как я сходил на ФКН ВШЭ на лекцию к Савватееву'
 tags: [жизнипост]
 cover-img: https://telegra.ph/file/d6e7b0af9d9e2941e819d.jpg

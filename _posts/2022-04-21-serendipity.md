@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 98
+telegram_url: https://t.me/pioblog/98
 title: 'Серендипность aka сверх-удача как образ жизни'
 tags: [мысли]
 ---

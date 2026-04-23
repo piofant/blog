@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 78
+telegram_url: https://t.me/pioblog/78
 title: 'Навестил парней из Underground Robotics с ПМ МИСиС'
 tags: [жизнипост]
 thumbnail-img: /assets/img/UR2.jpg

@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 85
+telegram_url: https://t.me/pioblog/85
 title: 'Открыл для себя регулярные физтеховские english meetup-ы '
 tags: [жизнипост]
 thumbnail-img: https://telegra.ph/file/4bf4286daa72f6c8dd635.png

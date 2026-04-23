@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 64
+telegram_url: https://t.me/pioblog/64
 title: 'Прожил один вечер светской жизни'
 tags: [жизнипост]
 cover-img: /assets/img/secular_evening.jpg

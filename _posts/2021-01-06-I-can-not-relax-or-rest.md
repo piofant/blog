@@ -1,5 +1,7 @@
 ---
 layout: post
+telegram_id: 33
+telegram_url: https://t.me/pioblog/33
 title: 'Отдыхать не получается'
 tags: [история]
 ---
