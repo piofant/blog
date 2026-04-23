@@ -111,6 +111,9 @@ article.blog-post pre {
 /* картинок в feed'е нет — живут внутри самих постов */
 .post-preview .post-image { display: none !important; }
 
+/* excerpt + [Read More] прячем — остаются заголовок, subtitle, дата */
+.post-preview .post-entry { display: none !important; }
+
 /* теги под карточкой на главной скрываем (заголовка + превью достаточно) */
 .post-preview .blog-tags { display: none !important; }
 
