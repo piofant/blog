@@ -131,9 +131,6 @@ footer-hover-col: "#0085A1"
 site-css:
   - "/assets/css/overrides.css"
 
-# How many words to show in post excerpts on the feed page
-excerpt_length: 20
-
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 #  - "/assets/js/custom-script.js"
