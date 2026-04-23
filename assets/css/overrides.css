@@ -3,3 +3,22 @@
    Spec: docs/superpowers/specs/2026-04-24-blog-style-refresh-design.md
    Подключается через site-css в _config.yml
    ============================================================= */
+
+/* =======================================
+   POST — narrow column (620px) + type scale
+   Использует :has() для скоупа «только на странице поста»
+   ======================================= */
+.container-md .row > div:has(> article.blog-post) {
+  max-width: 620px;
+  flex: 0 0 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+article.blog-post {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+article.blog-post h1 { font-size: 1.75rem; }
+article.blog-post h2 { font-size: 1.375rem; margin-top: 2rem; }
+article.blog-post h3 { font-size: 1.125rem; margin-top: 1.5rem; }
