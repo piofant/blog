@@ -75,3 +75,18 @@ def rewrite_pioblog_links(md: str, link_map: dict[int, str]) -> str:
         n = int(m.group(1))
         return link_map.get(n, m.group(0))
     return pattern.sub(repl, md)
+
+
+def extract_hashtags(text_html: str) -> list[str]:
+    """Extract hashtag names from TG ShowHashtag anchors, preserving order, deduped."""
+    soup = BeautifulSoup(text_html, "html.parser")
+    seen: list[str] = []
+    for a in soup.find_all("a"):
+        onclick = a.get("onclick", "")
+        m = re.search(r'ShowHashtag\(&quot;([^&]+)&quot;\)', onclick) \
+            or re.search(r'ShowHashtag\("([^"]+)"\)', onclick)
+        if m:
+            tag = m.group(1)
+            if tag not in seen:
+                seen.append(tag)
+    return seen

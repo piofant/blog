@@ -71,3 +71,16 @@ def test_also_rewrites_in_html_anchor_forms():
     link_map = {10: "/blog/x/"}
     md = 'Ссылка: <a href="https://t.me/pioblog/10">link</a>'
     assert "/blog/x/" in rewrite_pioblog_links(md, link_map)
+
+from lib.transform import extract_hashtags
+
+def test_extract_multiple_hashtags():
+    html = '<a onclick="return ShowHashtag(&quot;whois&quot;)">#whois</a> <a onclick="return ShowHashtag(&quot;intro&quot;)">#intro</a>'
+    assert extract_hashtags(html) == ["whois", "intro"]
+
+def test_deduplicates_preserving_order():
+    html = '<a onclick="ShowHashtag(&quot;a&quot;)">#a</a> <a onclick="ShowHashtag(&quot;b&quot;)">#b</a> <a onclick="ShowHashtag(&quot;a&quot;)">#a</a>'
+    assert extract_hashtags(html) == ["a", "b"]
+
+def test_empty_when_none():
+    assert extract_hashtags("<p>plain text</p>") == []
