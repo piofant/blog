@@ -77,3 +77,42 @@ def test_photo_always_copied(tmp_path):
     r = copy_media(item, dump, staging, tmp_path / "backup", slug="post", tg_id=1)
     assert r.in_staging is True
     assert (staging / "assets" / "img" / "posts" / "post" / "p.jpg").exists()
+
+from lib.media import render_media_markdown
+
+def test_render_photo():
+    item = MediaItem(MediaKind.PHOTO, "photos/p.jpg")
+    r = MediaCopyResult(item, True, False,
+                        Path("/stub/assets/img/posts/post/p.jpg"), None)
+    md = render_media_markdown(r, slug="post", tg_id=1)
+    assert md == "![](/assets/img/posts/post/p.jpg)"
+
+def test_render_video_selfhosted():
+    item = MediaItem(MediaKind.VIDEO, "video_files/v.mp4", declared_mb=5.0)
+    r = MediaCopyResult(item, True, False,
+                        Path("/stub/assets/video/posts/post/v.mp4"), None)
+    md = render_media_markdown(r, slug="post", tg_id=10)
+    assert '<video controls' in md
+    assert 'src="/assets/video/posts/post/v.mp4"' in md
+    assert 'https://t.me/pioblog/10' in md  # "Оригинал"
+
+def test_render_video_embed_for_large():
+    item = MediaItem(MediaKind.VIDEO, "video_files/big.mp4", declared_mb=50.0)
+    r = MediaCopyResult(item, False, True, None, Path("/backup/big.mp4"))
+    md = render_media_markdown(r, slug="lecture", tg_id=100)
+    assert 'data-telegram-post="pioblog/100"' in md
+    assert 'telegram-widget.js' in md
+
+def test_render_voice():
+    item = MediaItem(MediaKind.VOICE, "voice_messages/v.ogg")
+    r = MediaCopyResult(item, True, False,
+                        Path("/stub/assets/audio/posts/post/v.ogg"), None)
+    assert '<audio controls' in render_media_markdown(r, slug="post", tg_id=1)
+
+def test_render_file_attachment():
+    item = MediaItem(MediaKind.FILE, "files/doc.pdf", orig_filename="doc.pdf")
+    r = MediaCopyResult(item, True, False,
+                        Path("/stub/assets/files/posts/post/doc.pdf"), None)
+    md = render_media_markdown(r, slug="post", tg_id=1)
+    assert "📎" in md
+    assert "(/assets/files/posts/post/doc.pdf)" in md

@@ -130,3 +130,42 @@ def copy_media(
         shutil.copy2(src, dest)
     return MediaCopyResult(item, in_staging=True, embed=False,
                            staging_path=dest, backup_path=backup_path)
+
+
+def render_media_markdown(r: MediaCopyResult, slug: str, tg_id: int) -> str:
+    """Produce the Markdown/HTML fragment to embed this media in a post."""
+    kind = r.item.kind
+    if kind == MediaKind.PHOTO:
+        fname = r.staging_path.name
+        return f"![](/assets/img/posts/{slug}/{fname})"
+    if kind == MediaKind.VIDEO:
+        if r.embed:
+            return (
+                f'<script async src="https://telegram.org/js/telegram-widget.js?22"\n'
+                f'        data-telegram-post="pioblog/{tg_id}" data-width="100%"></script>\n\n'
+                f'[Оригинал в Telegram →](https://t.me/pioblog/{tg_id})'
+            )
+        fname = r.staging_path.name
+        return (
+            f'<video controls preload="metadata" style="width:100%;max-width:620px">\n'
+            f'  <source src="/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
+            f'</video>\n\n'
+            f'[Оригинал в Telegram →](https://t.me/pioblog/{tg_id})'
+        )
+    if kind == MediaKind.ROUND_VIDEO:
+        fname = r.staging_path.name
+        return (
+            f'<video controls preload="metadata" style="width:240px;border-radius:50%">\n'
+            f'  <source src="/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
+            f'</video>'
+        )
+    if kind == MediaKind.VOICE:
+        fname = r.staging_path.name
+        return f'<audio controls src="/assets/audio/posts/{slug}/{fname}"></audio>'
+    if kind == MediaKind.FILE:
+        if r.embed:
+            return f'📎 [Файл в Telegram →](https://t.me/pioblog/{tg_id})'
+        fname = r.staging_path.name
+        name = r.item.orig_filename or fname
+        return f'📎 [{name}](/assets/files/posts/{slug}/{fname})'
+    raise ValueError(f"Unknown kind {kind}")
