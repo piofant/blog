@@ -97,12 +97,18 @@ article.blog-post pre {
    (размеры картинки, паддинги, границы — дефолт темы)
    ======================================= */
 .post-preview .post-title { font-size: 1.375rem !important; }
-/* заголовки карточек в акцентный цвет (site.link-col) */
-.post-preview a,
-.post-preview .post-title { color: #FF4200 !important; }
-.post-preview a:hover,
-.post-preview a:focus { color: #FF8c00 !important; }
 .post-preview .post-subtitle { font-size: 1rem !important; font-weight: 400 !important; }
+
+/* моноширинный шрифт для всех заголовков постов
+   (как у sereja.tech) — body остаётся Lora */
+.post-preview .post-title,
+.post-heading .post-title,
+.intro-header .post-heading h1,
+article.blog-post h1 {
+  font-family: 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Courier New', ui-monospace, monospace !important;
+  letter-spacing: -0.01em;
+  font-weight: 600 !important;
+}
 .post-preview .post-meta { font-size: 0.875rem !important; }
 .post-preview .post-entry {
   font-size: 0.9375rem;
