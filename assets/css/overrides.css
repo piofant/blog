@@ -125,6 +125,16 @@ article.blog-post pre {
   filter: none !important;
   height: 14rem !important;
   width: 14rem !important;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.post-preview .post-image img {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: cover !important;
+  display: block;
 }
 @media (max-width: 767px) {
   .post-preview .post-image {
