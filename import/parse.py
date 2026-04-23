@@ -52,18 +52,24 @@ def main(id_map: dict[int, str] | None = None,
         for i, part in enumerate(g["parts"], start=1):
             series_map[part["id"]] = (sid, i, g["total"])
 
-    # build link_map: all imported + id_map
-    link_map: dict[int, str] = dict(id_map or {})
+    # build link_map: id_map is authoritative; generated slugs fill in the rest
+    id_map = id_map or {}
+    link_map: dict[int, str] = dict(id_map)
 
-    # second pass: generate slugs, register in link_map
+    # second pass: generate slugs, register in link_map ONLY for non-existing posts
     posts: list[tuple[dict, Post]] = []
     for m in pre:
+        if m["id"] in id_map:
+            m["slug"] = None  # flag: do not write, do not copy media
+            continue
         slug = _build_slug(m["title"], m["date"].date(), m["id"])
         link_map[m["id"]] = f"/blog/{slug}/"
         m["slug"] = slug
 
-    # third pass: transform + copy media + assemble Post
+    # third pass: transform + copy media + assemble Post (skip existing posts)
     for m in pre:
+        if m["slug"] is None:
+            continue  # existing post — left untouched, already mapped via id_map
         body_html = m["text_html"]
         body_md = html_to_markdown(body_html)
         body_md = rewrite_pioblog_links(body_md, link_map)

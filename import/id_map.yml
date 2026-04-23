@@ -1,0 +1,21 @@
+# telegram_id → existing jekyll permalink
+# 12 of 15 existing posts mapped to TG sources.
+#
+# Unmapped (hand-authored, no TG counterpart):
+#   - 2022-01-03-define-self-reflexion.md
+#   - 2022-01-17-gratitude-practice.md
+#
+# Also: _22-11-10-random-coffee.md is underscore-prefixed, Jekyll ignores it.
+
+33:  /blog/I-can-not-relax-or-rest/
+47:  /blog/summer-dream-school/
+52:  /blog/savvateev-HSE-lecture/
+64:  /blog/secular-evening/
+67:  /blog/poem-about-remote-education/
+68:  /blog/final-russian-lang-school-essay/
+76:  /blog/networking-party/
+78:  /blog/underground-robotics/
+85:  /blog/eng-meetup/
+86:  /blog/ingress/
+98:  /blog/serendipity/
+109: /blog/consuming-self-development-content/
