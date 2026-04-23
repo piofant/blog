@@ -3,6 +3,7 @@
    Spec: docs/superpowers/specs/2026-04-24-blog-style-refresh-design.md
    Подключается через site-css в _config.yml
    ============================================================= */
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 
 /* =======================================
    POST — narrow column (620px) + type scale
@@ -98,6 +99,16 @@ article.blog-post pre {
    ======================================= */
 .post-preview .post-title { font-size: 1.375rem !important; }
 .post-preview .post-subtitle { font-size: 1rem !important; font-weight: 400 !important; }
+
+/* шрифт «Play» для всех заголовков постов */
+.post-preview .post-title,
+.post-heading .post-title,
+.intro-header .post-heading h1,
+article.blog-post h1,
+article.blog-post h2,
+article.blog-post h3 {
+  font-family: 'Play', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
 .post-preview .post-meta { font-size: 0.875rem !important; }
 .post-preview .post-entry {
   font-size: 0.9375rem;
