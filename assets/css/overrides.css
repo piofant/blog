@@ -84,6 +84,22 @@ article.blog-post pre {
 .callout > p:last-child { margin-bottom: 0; }
 
 /* =======================================
+   HOME — шрифты в карточках чуть меньше
+   (размеры картинки, паддинги, границы — дефолт темы)
+   ======================================= */
+.post-preview .post-title { font-size: 1.375rem !important; }
+.post-preview .post-subtitle { font-size: 1rem !important; font-weight: 400 !important; }
+.post-preview .post-meta { font-size: 0.875rem !important; }
+.post-preview .post-entry {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+/* прячем пагинацию-дубль — /archive её заменяет */
+.pagination.main-pager { display: none; }
+
+/* =======================================
    HOME — ссылка «Все посты →»
    ======================================= */
 .all-posts-link {
