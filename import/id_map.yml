@@ -1,4 +1,5 @@
 # telegram_id → existing jekyll permalink
+# Jekyll permalink format (from _config.yml): /:title-:year-:month-:day/
 # 12 of 15 existing posts mapped to TG sources.
 #
 # Unmapped (hand-authored, no TG counterpart):
@@ -7,15 +8,15 @@
 #
 # Also: _22-11-10-random-coffee.md is underscore-prefixed, Jekyll ignores it.
 
-33:  /blog/I-can-not-relax-or-rest/
-47:  /blog/summer-dream-school/
-52:  /blog/savvateev-HSE-lecture/
-64:  /blog/secular-evening/
-67:  /blog/poem-about-remote-education/
-68:  /blog/final-russian-lang-school-essay/
-76:  /blog/networking-party/
-78:  /blog/underground-robotics/
-85:  /blog/eng-meetup/
-86:  /blog/ingress/
-98:  /blog/serendipity/
-109: /blog/consuming-self-development-content/
+33:  /blog/I-can-not-relax-or-rest-2021-01-06/
+47:  /blog/summer-dream-school-2021-06-16/
+52:  /blog/savvateev-HSE-lecture-2021-07-01/
+64:  /blog/secular-evening-2021-10-03/
+67:  /blog/poem-about-remote-education-2021-11-12/
+68:  /blog/final-russian-lang-school-essay-2021-12-01/
+76:  /blog/networking-party-2022-01-09/
+78:  /blog/underground-robotics-2022-02-02/
+85:  /blog/eng-meetup-2022-02-12/
+86:  /blog/ingress-2022-03-12/
+98:  /blog/serendipity-2022-04-21/
+109: /blog/consuming-self-development-content-2022-07-17/

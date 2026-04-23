@@ -10,7 +10,7 @@ telegram_url: https://t.me/pioblog/114
 
 🎈 Люди из random-coffee ботов чаще всего *лёгкие*, потому что те, кто не хочет\не умеет знакомиться, на random-coffee не ходят. Как правило, встречаются м*ягкие* ребята, которые сами идут на контакт, задают вопросы и рассказывают о себе.
 
-Кажется, что random-coffee — это территория с хорошо заданным [контекстом знакомства](/blog/networking-party/).
+Кажется, что random-coffee — это территория с хорошо заданным [контекстом знакомства](/blog/networking-party-2022-01-09/).
 
 🤔 О чём говорить? — о чём угодно. Можно рассказать о своих текущих проектах, целях, направлениях развития, планах-амбициях, и о прошлом опыте.
 
@@ -28,7 +28,7 @@ telegram_url: https://t.me/pioblog/114
 • [@ODS\_RCbot](http://t.me/ODS_RCbot?start=ODScommunity) — тут всякие около-дата-сайтентисты
 • [@HSEINC\_RCbot](https://t.me/HSEINC_RCbot) и [@spbstartups\_bot](https://t.me/spbstartups_bot) — тут стартаперы, предприниматели
 • [@RandomCoffee\_PrM\_Bot](https://t.me/RandomCoffee_PrM_Bot) — тут продакт-менеджеры, а в [@RandomCoffee\_Project\_Manager\_bot](https://t.me/RandomCoffee_Project_Manager_bot) — проджекты
-• [@LshMeetingsBot](https://t.me/LshMeetingsBot) — тут самые разные интересные люди, участники [летней школы](/blog/2022-05-23-go-na-letniuiu-shkolu-ostalas-nedelia-do-dedlaina-106/)• <lunchclub.com> — на английском
+• [@LshMeetingsBot](https://t.me/LshMeetingsBot) — тут самые разные интересные люди, участники [летней школы](/blog/go-na-letniuiu-shkolu-ostalas-nedelia-do-dedlaina-106-2022-05-23/)• <lunchclub.com> — на английском
 
 💪 Участие в random-coffee прокачивает:
 
@@ -38,6 +38,6 @@ telegram_url: https://t.me/pioblog/114
 
 Делитесь мыслями и random-coffee ботами в комментариях,
 
-и пишите мне [@piofant](https://t.me/piofant), если хотите сходить на не-особо-random-coffee со мной — вот [#whois про меня](/blog/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/)
+и пишите мне [@piofant](https://t.me/piofant), если хотите сходить на не-особо-random-coffee со мной — вот [#whois про меня](/blog/davaite-znakomitsia-ia-vova-i-ia-meniaius-177-2024-08-10/)
 
 [@pioblog](https://t.me/pioblog)

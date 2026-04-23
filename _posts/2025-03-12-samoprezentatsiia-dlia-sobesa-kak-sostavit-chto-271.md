@@ -28,7 +28,7 @@ telegram_url: https://t.me/pioblog/271
 Я обычно спрашиваю *«Есть ли среди вас визуалы? Если да, у меня есть картинка»* и шерю экран при положительном ответе (это примерно 60% случаев, в остальных отвечают «неважно» или «давай без»)
 
 **Примеры през**
-- мое [видео](/blog/2025-03-04-vova-ishchet-rabotu-prodaktom-i-budet-rad-vashim-268/)
+- мое [видео](/blog/vova-ishchet-rabotu-prodaktom-i-budet-rad-vashim-268-2025-03-04/)
 - [преза](https://docs.google.com/presentation/d/1thyyialS-mv7HLU2z33-uCPSmPQidKwT/) лид-аналитика [Вовы Камчаткина](https://t.me/data_new_gold)
 - [преза](https://t.me/beginner_fintech/189?comment=656) аналитика [Паши Литвинова](https://t.me/beginner_fintech)
 
@@ -37,7 +37,7 @@ telegram_url: https://t.me/pioblog/271
 - какой фидбек вы получали про них
 
 *Во 2 части расскажу про результаты видео-самопрезентации, прикрепляемой к отклику*
-Upd: написал </blog/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/>
+Upd: написал </blog/ia-prikrepil-video-samoprezentatsiiu-k-100-272-2025-03-13/>
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
   <source src="/assets/video/posts/2025-03-12-samoprezentatsiia-dlia-sobesa-kak-sostavit-chto-271/11.03.2025 (6) .mp4" type="video/mp4">

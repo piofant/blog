@@ -31,14 +31,14 @@ telegram_url: https://t.me/pioblog/184
 
 **Примеры моих трипов:**
 В бесконечный контекст знакомства 🌐
-→ снс-[тусы-про-знакомство](/blog/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/)
-→ продукт [кемп](/blog/2023-08-21-produkt-kemp-leto-2023-eto-kakoi-to-trip-na-2-dnia-130/)
+→ снс-[тусы-про-знакомство](/blog/ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120-2023-03-12/)
+→ продукт [кемп](/blog/produkt-kemp-leto-2023-eto-kakoi-to-trip-na-2-dnia-130-2023-08-21/)
 → [физтех](https://t.me/not_tldr/367)
 
 В контакт с природой & с собой 🏕
 → летняя [школа](https://t.me/not_tldr/440)
 → [велопрогулки](https://t.me/fiveAMwalk/18) в пять утра
-→ [практики](/blog/2023-08-27-freimvork-khoroshego-sostoianiia-i-kucha-ssylok-na-131/) ННО
+→ [практики](/blog/freimvork-khoroshego-sostoianiia-i-kucha-ssylok-na-131-2023-08-27/) ННО
 → [кафе](https://t.me/not_tldr/293) эмпатии
 
 🔻 А какой последний трип сильно изменил вас и как? Поделитесь в комментах

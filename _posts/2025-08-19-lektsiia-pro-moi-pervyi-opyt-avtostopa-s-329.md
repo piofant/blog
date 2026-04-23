@@ -20,7 +20,7 @@ telegram_url: https://t.me/pioblog/329
 14:41 принципы, помогающие в автостопе
 19:10 3 результата автостопа
 
-[аудиоверсия](/blog/2025-08-19-audiversiia-poslushat-kak-podkastik-331/) **•** [презентация](/blog/2025-08-19-pdf-prezentashka-s-lektsii-332/)
+[аудиоверсия](/blog/audiversiia-poslushat-kak-podkastik-331-2025-08-19/) **•** [презентация](/blog/pdf-prezentashka-s-lektsii-332-2025-08-19/)
 
 <script async src="https://telegram.org/js/telegram-widget.js?22"
         data-telegram-post="pioblog/329" data-width="100%"></script>

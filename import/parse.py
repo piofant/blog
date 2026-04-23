@@ -22,6 +22,18 @@ def _build_slug(title: str, post_date: date, tg_id: int) -> str:
     return f"{post_date.isoformat()}-{base}-{tg_id}"
 
 
+def _slug_to_url(slug: str) -> str:
+    """Jekyll permalink format is /:title-:year-:month-:day/.
+    Our filename is YYYY-MM-DD-title-tgid.md; Jekyll strips the date
+    prefix and uses the rest as :title, resulting in /title-tgid-YYYY-MM-DD/.
+    """
+    # slug = "YYYY-MM-DD-title-tgid"
+    assert len(slug) >= 11 and slug[4] == "-" and slug[7] == "-" and slug[10] == "-"
+    date_part = slug[:10]
+    title_part = slug[11:]
+    return f"/blog/{title_part}-{date_part}/"
+
+
 def main(id_map: dict[int, str] | None = None,
          existing_posts_dir: Path | None = None):
     cfg.STAGING_DIR.mkdir(parents=True, exist_ok=True)
@@ -63,7 +75,7 @@ def main(id_map: dict[int, str] | None = None,
             m["slug"] = None  # flag: do not write, do not copy media
             continue
         slug = _build_slug(m["title"], m["date"].date(), m["id"])
-        link_map[m["id"]] = f"/blog/{slug}/"
+        link_map[m["id"]] = _slug_to_url(slug)
         m["slug"] = slug
 
     # third pass: transform + copy media + assemble Post (skip existing posts)
@@ -120,7 +132,7 @@ def main(id_map: dict[int, str] | None = None,
                 series_data[post.series_id]["parts"].append({
                     "part": post.series_part,
                     "telegram_id": post.telegram_id,
-                    "permalink": f"/blog/{post.slug}/",
+                    "permalink": _slug_to_url(post.slug),
                     "title": post.title,
                     "date": post.date.isoformat(),
                 })

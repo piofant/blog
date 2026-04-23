@@ -6,7 +6,7 @@ telegram_id: 409
 telegram_url: https://t.me/pioblog/409
 ---
 
-Знаете, в чем прикол танцевать [контактную импровизацию](/blog/2025-11-17-moi-put-k-kontaktnoi-improvizatsii-380/) с мужчинами?
+Знаете, в чем прикол танцевать [контактную импровизацию](/blog/moi-put-k-kontaktnoi-improvizatsii-380-2025-11-17/) с мужчинами?
 rejection rate невероятно низкий, ~5%
 
 мужчины на КИ почти никогда не отказывают и идут в контакт

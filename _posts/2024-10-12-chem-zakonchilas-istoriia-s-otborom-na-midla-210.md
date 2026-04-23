@@ -7,7 +7,7 @@ telegram_id: 210
 telegram_url: https://t.me/pioblog/210
 ---
 
-**Чем закончилась** [история](/blog/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/) **с отбором на мидла продакта в Доставку**
+**Чем закончилась** [история](/blog/kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207-2024-10-09/) **с отбором на мидла продакта в Доставку**
 
 Дальнейший таймлайн был такой: защита тестового → реджект
 
