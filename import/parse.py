@@ -64,8 +64,16 @@ def _extract_subtitle_and_body(body_md: str, title: str) -> tuple[str | None, st
     plain = _markdown_to_plain(first_line)
     if not plain:
         return None, remainder
+    truncated = False
     if len(plain) > SUBTITLE_MAX_CHARS:
         plain = plain[:SUBTITLE_MAX_CHARS].rsplit(" ", 1)[0].rstrip(",.;: ")
+        truncated = True
+    # Only drop the line from the body when subtitle captures it losslessly.
+    # Lines with inline markdown links, images, or over the subtitle length
+    # must stay in the body or we'd lose real content (anchor URLs, etc).
+    has_links = bool(re.search(r"!?\[[^\]]+\]\([^)]+\)", first_line))
+    if has_links or truncated:
+        return plain, remainder  # subtitle is a preview; body keeps the line
     return plain, rest.lstrip("\n")
 
 

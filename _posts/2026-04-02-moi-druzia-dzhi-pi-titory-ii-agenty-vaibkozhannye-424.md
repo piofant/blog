@@ -8,6 +8,8 @@ telegram_id: 424
 telegram_url: https://t.me/pioblog/424
 ---
 
+(✦) [Лёша Остриков](https://t.me/aostrikov_ai_agents) – друллега из Яндекса, вместе запустили голосовых ии-агентов в Такси; Лёша занял 1 место в ERC3 (аля хак по агентам), пишет про разработку агентов и ведет комьюнити стримы – [ближайший](https://t.me/aostrikov_ai_agents/62) в эту субботу!
+
 (✦) [vlad bit by bit](https://t.me/vladbitbybit) – продакт, физтех, я позвал его на зум-кофе год назад; мне у него нравятся [видосы](https://t.me/vladbitbybit/1215) про создание сайтов
 
 (✦) [Алек Алибутаев](https://t.me/alek_dev) – уже [светился](/blog/proiti-pervyi-v-zhizni-keis-sobes-i-otobratsia-v-280-2025-04-08/) в этом канале, пишет и про свои проектики и [запуски в энтерпрайзе](https://t.me/alek_dev/273)

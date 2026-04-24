@@ -8,6 +8,7 @@ telegram_id: 248
 telegram_url: https://t.me/pioblog/248
 ---
 
+Часть 1. [Persistence + въедливость](/blog/moi-silnye-storony-i-chem-oni-polezny-248-2025-01-06/)
 Часть 2. [Живой ум + чуткость](/blog/2-zhivoi-um-chutkost-client-problem-definition-250-2025-01-07/)
 Часть 3. [Рефлексия + сбор фидбека + тяга к структуре](/blog/3-refleksiia-sbor-fidbeka-tiaga-k-strukture-vyvody-252-2025-01-10/)
 

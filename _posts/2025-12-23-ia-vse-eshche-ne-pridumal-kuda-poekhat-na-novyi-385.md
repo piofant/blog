@@ -8,6 +8,8 @@ telegram_id: 385
 telegram_url: https://t.me/pioblog/385
 ---
 
+я могу показать лайнап с контактных танцев, рассказать кучу [лайфсторей](/blog/puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372-2025-10-28/) из автостопа и жизни на 2 города,
+
 порешать с вами задачки по систем дизайну, порешать продуктовые задачи или просто травить байки про corporate ⟷ unemployed lifestyle
 
 [@piofant](https://t.me/piofant)
