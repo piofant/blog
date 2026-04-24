@@ -27,22 +27,23 @@ def _build_slug(title: str, post_date: date, tg_id: int) -> str:
 def _strip_title_from_body(body_md: str, title: str) -> str:
     """If the body's first non-empty line is (or embeds) the title, drop it.
 
-    Title is already shown by the theme from frontmatter, so keeping it at
-    the top of the body makes the home-feed excerpt repeat the title.
+    Title comes from the plain-text decoding of the first TG line, while
+    body_md keeps markdown (links as [text](url), bold as **x**, etc). To
+    compare them reliably we strip both to pure display text.
     """
     if not body_md.strip():
         return body_md
     lines = body_md.split("\n")
-    # find first non-empty line
     for i, line in enumerate(lines):
-        if line.strip():
-            first_text = re.sub(r"[*_`~]", "", line).strip()
-            title_text = re.sub(r"[*_`~]", "", title).strip()
-            # title is derived from the first line truncated to 80 chars,
-            # so first-line → title prefix match or equality
-            if first_text == title_text or first_text.startswith(title_text):
-                return "\n".join(lines[i + 1:]).lstrip("\n")
-            break
+        if not line.strip():
+            continue
+        first_text = _markdown_to_plain(line)
+        title_text = _markdown_to_plain(title)
+        # title is the first TG line truncated to 80 chars, so the body's
+        # first line either equals it or starts with it
+        if first_text == title_text or first_text.startswith(title_text):
+            return "\n".join(lines[i + 1:]).lstrip("\n")
+        break
     return body_md
 
 
