@@ -46,3 +46,9 @@ telegram_url: https://t.me/pioblog/184
 📞 [Зовите](http://t.me/piofant) в трипы
 
 ![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_82@18-08-2024_20-16-30.jpg)
+
+![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_83@18-08-2024_20-16-30.jpg)
+
+![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_84@18-08-2024_20-16-30.jpg)
+
+![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_85@18-08-2024_20-16-30.jpg)

@@ -26,3 +26,7 @@ telegram_url: https://t.me/pioblog/299
 **как придти**: написать [@piofant](https://t.me/piofant) → добавиться в чат → прислать хуиз → опционально взять плюсодина
 
 ![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_164@04-06-2025_16-26-11.jpg)
+
+![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_165@04-06-2025_16-26-11.jpg)
+
+![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_166@04-06-2025_16-26-11.jpg)

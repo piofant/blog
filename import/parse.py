@@ -42,9 +42,20 @@ def main(id_map: dict[int, str] | None = None,
 
     raw = parse_dump(cfg.DUMP_DIR / "messages.html")
 
-    # first pass: build minimal message dicts with titles + markers for series
+    # album merge: TG Desktop marks album continuation messages with
+    # the "joined" CSS class. Merge each follower into its preceding head:
+    # - the head keeps text + title, absorbs follower media
+    # - the follower is dropped from the post list
+    # - the follower's tg_id maps to the head's URL (so any t.me/pioblog/{follower}
+    #   links from elsewhere resolve to the head post)
     pre: list[dict] = []
+    absorbed_map: dict[int, int] = {}  # follower_id → head_id
     for m in raw:
+        if m.get("is_album_follower") and pre:
+            head = pre[-1]
+            head.setdefault("album_follower_tags", []).append(m["msg_tag"])
+            absorbed_map[m["id"]] = head["id"]
+            continue
         title = extract_title(m["text_html"], fallback_date=m["date"])
         marker = detect_series_marker(title)
         pre.append({**m, "title": title, "marker": marker})
@@ -78,6 +89,11 @@ def main(id_map: dict[int, str] | None = None,
         link_map[m["id"]] = _slug_to_url(slug)
         m["slug"] = slug
 
+    # also route any absorbed follower ids to their head's URL
+    for follower_id, head_id in absorbed_map.items():
+        if head_id in link_map:
+            link_map[follower_id] = link_map[head_id]
+
     # third pass: transform + copy media + assemble Post (skip existing posts)
     for m in pre:
         if m["slug"] is None:
@@ -87,8 +103,10 @@ def main(id_map: dict[int, str] | None = None,
         body_md = rewrite_pioblog_links(body_md, link_map)
         tags = extract_hashtags(body_html)
 
-        # media
+        # media from head + any absorbed album followers
         media_items = extract_media(m["msg_tag"])
+        for follower_tag in m.get("album_follower_tags", []):
+            media_items.extend(extract_media(follower_tag))
         thumbnail = None
         media_md_blocks: list[str] = []
         for idx, item in enumerate(media_items):

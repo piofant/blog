@@ -29,7 +29,7 @@ telegram_url: https://t.me/pioblog/177
 **(3) Чем могу быть полезен**
 
 🥕 Продуктовое
-→ создал комьюнити/кейс-клуб для начинающих продактов — туда можно [бесплатно вступить](/blog/kak-ia-sobral-svoi-keis-klub-dlia-podgotovki-k-147-2024-04-15/)
+→ создал комьюнити/кейс-клуб для начинающих продактов — туда можно [бесплатно вступить](/blog/zapis-ot-15-aprelia-2024-146-2024-04-15/)
 → [менторю](https://online-qr.ru/vova_mentor?utm_source=pioblog_whois) entry-lvl продактов за донат — помогаю с карьерными вопросами и решением кейсов
 → [подборка постов](/blog/chem-ia-mogu-byt-polezen-prodaktam-262-2025-02-01/) для начинающих продактов
 → ищу новые челленджи в роли продакта — [CV и портфолио](/blog/vova-ishchet-rabotu-prodaktom-i-budet-rad-vashim-268-2025-03-04/)
@@ -48,3 +48,13 @@ telegram_url: https://t.me/pioblog/177
 [💬 Чат канала](https://t.me/+RyFr2H70oImq2wP3)
 
 ![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_76@10-08-2024_13-52-57.jpg)
+
+![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_77@10-08-2024_13-52-58.jpg)
+
+![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_78@10-08-2024_13-52-58.jpg)
+
+![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_79@10-08-2024_13-52-58.jpg)
+
+![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_80@10-08-2024_13-52-58.jpg)
+
+![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_81@10-08-2024_13-52-58.jpg)

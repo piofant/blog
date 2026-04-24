@@ -16,7 +16,7 @@ telegram_url: https://t.me/pioblog/262
 `-` Как найти стажировку продактом (2 способа) → [link](/blog/kak-naiti-rabotu-stazherom-dzhunom-prodaktom-142-2024-03-01/)
 `-` Как подготовиться к кейс-интервью → [link](/blog/podgotovka-k-keis-sektsii-interviu-na-prodakta-145-2024-04-12/)
 `-` Как подготовиться к оценке софтов → [link](/blog/kak-v-avito-i-ozon-otsenivaiut-softy-pri-naime-243-2024-12-15/)
-`-` Как превратить монолог в диалог на собесе → [link](/blog/kak-ia-pomogaiu-sebe-na-sobesedovanii-na-prodakta-149-2024-05-16/)
+`-` Как превратить монолог в диалог на собесе → [link](/blog/zapis-ot-16-maia-2024-148-2024-05-16/)
 
 **Как решать тестовые**`-` Подход «Как на работе» → [link](/blog/kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202-2024-10-04/)
 `-` На чем важно сделать фокус в решении → [link](/blog/kak-ia-reshaiu-testovye-na-prodakta-2-chast-235-2024-11-13/)

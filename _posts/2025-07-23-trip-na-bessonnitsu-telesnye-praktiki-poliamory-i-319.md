@@ -28,3 +28,13 @@ telegram_url: https://t.me/pioblog/319
 NPS фестика 4\5, за изобилием практик и знакомых вокруг можно возвращаться
 
 ![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_182@23-07-2025_18-25-07.jpg)
+
+![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_183@23-07-2025_18-25-07.jpg)
+
+![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_184@23-07-2025_18-25-07.jpg)
+
+![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_185@23-07-2025_18-25-07.jpg)
+
+![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_186@23-07-2025_18-25-07.jpg)
+
+![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_187@23-07-2025_18-25-07.jpg)

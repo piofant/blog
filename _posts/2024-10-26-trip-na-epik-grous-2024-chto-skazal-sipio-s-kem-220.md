@@ -25,3 +25,13 @@ telegram_url: https://t.me/pioblog/220
 How to попасть на эпик → либо волонтёришь, либо участвуешь от компании, либо как спикер, либо по билету; у меня было первое, я помогал тудым-сюдым в зале стартап-трека
 
 ![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_104@26-10-2024_20-03-58.jpg)
+
+![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_105@26-10-2024_20-03-58.jpg)
+
+![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_106@26-10-2024_20-03-58.jpg)
+
+![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_107@26-10-2024_20-03-58.jpg)
+
+![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_108@26-10-2024_20-03-58.jpg)
+
+![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_109@26-10-2024_20-03-58.jpg)

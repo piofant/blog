@@ -40,3 +40,9 @@ telegram_url: https://t.me/pioblog/380
 еще один мой пост про КИ: </blog/znaete-v-chem-prikol-tantsevat-kontaktnuiu-409-2026-03-19/>
 
 ![](/assets/img/posts/2025-11-17-moi-put-k-kontaktnoi-improvizatsii-380/photo_231@17-11-2025_20-40-59.jpg)
+
+![](/assets/img/posts/2025-11-17-moi-put-k-kontaktnoi-improvizatsii-380/photo_232@17-11-2025_20-40-59.jpg)
+
+![](/assets/img/posts/2025-11-17-moi-put-k-kontaktnoi-improvizatsii-380/photo_233@17-11-2025_20-40-59.jpg)
+
+![](/assets/img/posts/2025-11-17-moi-put-k-kontaktnoi-improvizatsii-380/photo_234@17-11-2025_20-40-59.jpg)

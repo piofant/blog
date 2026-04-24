@@ -22,3 +22,7 @@ telegram_url: https://t.me/pioblog/375
 - хочу ли я жить по-другому
 
 ![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_226@29-10-2025_17-19-01.jpg)
+
+![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_227@29-10-2025_17-19-01.jpg)
+
+![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_228@29-10-2025_17-19-01.jpg)

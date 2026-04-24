@@ -28,3 +28,13 @@ telegram_url: https://t.me/pioblog/363
 Прикиньте вот это контраст эмоций, да ещё и с такой скоростью смены, как будто короткометражку посмотрел
 
 ![](/assets/img/posts/2025-10-11-u-menia-est-liubimyi-stolb-v-tsentre-pitera-363/photo_218@11-10-2025_18-49-14.jpg)
+
+![](/assets/img/posts/2025-10-11-u-menia-est-liubimyi-stolb-v-tsentre-pitera-363/photo_219@11-10-2025_18-49-14.jpg)
+
+<video controls preload="metadata" style="width:100%;max-width:620px">
+  <source src="/assets/video/posts/2025-10-11-u-menia-est-liubimyi-stolb-v-tsentre-pitera-363/video_5@11-10-2025_18-49-14.mp4" type="video/mp4">
+</video>
+
+[Оригинал в Telegram →](https://t.me/pioblog/363)
+
+![](/assets/img/posts/2025-10-11-u-menia-est-liubimyi-stolb-v-tsentre-pitera-363/photo_220@11-10-2025_18-49-14.jpg)

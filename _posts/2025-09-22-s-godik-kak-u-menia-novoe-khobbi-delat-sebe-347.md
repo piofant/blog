@@ -18,3 +18,9 @@ telegram_url: https://t.me/pioblog/347
 каждая отражает проживаемое состояние души, ну и содержит частичку души, конечно же! ведь не один час был проведен в фигме за подбором шрифтов или цветов
 
 ![](/assets/img/posts/2025-09-22-s-godik-kak-u-menia-novoe-khobbi-delat-sebe-347/photo_206@22-09-2025_22-34-59.jpg)
+
+![](/assets/img/posts/2025-09-22-s-godik-kak-u-menia-novoe-khobbi-delat-sebe-347/photo_207@22-09-2025_22-34-59.jpg)
+
+![](/assets/img/posts/2025-09-22-s-godik-kak-u-menia-novoe-khobbi-delat-sebe-347/photo_208@22-09-2025_22-34-59.jpg)
+
+![](/assets/img/posts/2025-09-22-s-godik-kak-u-menia-novoe-khobbi-delat-sebe-347/photo_209@22-09-2025_22-34-59.jpg)

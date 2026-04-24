@@ -85,3 +85,7 @@ telegram_url: https://t.me/pioblog/405
 ps [Миша](https://t.me/misha_light_xx), с др
 
 ![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_254@11-02-2026_13-53-49.jpg)
+
+![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_255@11-02-2026_13-53-49.jpg)
+
+![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_256@11-02-2026_13-53-49.jpg)

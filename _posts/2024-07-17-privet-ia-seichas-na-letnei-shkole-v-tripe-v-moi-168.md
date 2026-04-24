@@ -16,3 +16,5 @@ telegram_url: https://t.me/pioblog/168
 Подробнее делюсь мыслями и фоточками в лайфстайл бложике [@not\_tldr](https://t.me/not_tldr/431?single) — заходите, там посты чаще
 
 ![](/assets/img/posts/2024-07-17-privet-ia-seichas-na-letnei-shkole-v-tripe-v-moi-168/photo_69@17-07-2024_17-32-41.jpg)
+
+![](/assets/img/posts/2024-07-17-privet-ia-seichas-na-letnei-shkole-v-tripe-v-moi-168/photo_70@17-07-2024_17-32-41.jpg)

@@ -48,3 +48,7 @@ so, на ВМ почти наверняка был компрометирова�
 а какой у вас опыт с проактивными ии-ассистентами? [😊](video_files/sticker.webm)
 
 ![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_266@31-03-2026_14-08-48.jpg)
+
+![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_267@31-03-2026_14-08-48.jpg)
+
+![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_268@31-03-2026_14-08-48.jpg)

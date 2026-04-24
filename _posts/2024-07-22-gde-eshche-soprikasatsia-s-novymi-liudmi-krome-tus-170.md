@@ -14,7 +14,7 @@ telegram_url: https://t.me/pioblog/170
 
 9 месяцев назад я создал чат [@sns\_go](https://t.me/+H9uEkK8pUf9lZTUy) — там мы делимся ссылками на околойтишные\продуктовые\кейсовые эвенты в Москве, коннектимся и ходим вместе, присоединяйтесь
 
-2) random coffee в разных комьюнити — про это у меня есть отдельный [пост](/blog/random-coffee-boty-kak-sposob-znakomitsia-s-114-2022-12-09/) с 9-ю бесплатными ботами
+2) random coffee в разных комьюнити — про это у меня есть отдельный [пост](/blog/zapis-ot-9-dekabria-2022-113-2022-12-09/) с 9-ю бесплатными ботами
 
 3) daily standup'ы в конце дня в коворкинге\библиотеке, когда люди садятся в кружок,
 и каждый рассказывает, как ему сегодня (ра)боталось, что сегодня получилось, что будет делать завтра
@@ -24,3 +24,9 @@ telegram_url: https://t.me/pioblog/170
 4) Поделитесь в комментах, а где вы соприкасаетесь с новыми людьми и часто ли потом сближаетесь?
 
 ![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_71@22-07-2024_17-59-36.jpg)
+
+![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_72@22-07-2024_17-59-36.jpg)
+
+![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_73@22-07-2024_17-59-36.jpg)
+
+![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_74@22-07-2024_17-59-36.jpg)

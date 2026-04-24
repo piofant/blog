@@ -29,3 +29,7 @@ telegram_url: https://t.me/pioblog/326
 Я уже сейчас чувствую, как зеркальными нейронами осознанно и не осознанно забираю в себя кусочки этих принципов, — и мне нравится, как я меняюсь
 
 ![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_189@05-08-2025_20-28-41.jpg)
+
+![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_190@05-08-2025_20-28-41.jpg)
+
+![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_191@05-08-2025_20-28-41.jpg)

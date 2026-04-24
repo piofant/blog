@@ -34,3 +34,5 @@ telegram_url: https://t.me/pioblog/199
 Предлагайте ваши варианты мемных формулировок в комменты!
 
 ![](/assets/img/posts/2024-09-15-futbolka-kak-marker-bezumiia-i-atenshen-magnit-199/photo_88@15-09-2024_16-07-06.jpg)
+
+![](/assets/img/posts/2024-09-15-futbolka-kak-marker-bezumiia-i-atenshen-magnit-199/photo_89@15-09-2024_16-07-06.jpg)

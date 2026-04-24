@@ -27,3 +27,5 @@ telegram_url: https://t.me/pioblog/272
 *\*1 часть поста про самопрезентацию:* </blog/samoprezentatsiia-dlia-sobesa-kak-sostavit-chto-271-2025-03-12/>
 
 ![](/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_142@13-03-2025_18-00-48.jpg)
+
+![](/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_143@13-03-2025_18-00-48.jpg)

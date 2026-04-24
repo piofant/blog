@@ -2,6 +2,7 @@
 layout: post
 title: "Лекция про мой первый опыт автостопа: с результатами и впечатлениями"
 date: 2025-08-19 20:26:14 +0300
+thumbnail-img: /assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg
 telegram_id: 329
 telegram_url: https://t.me/pioblog/329
 ---
@@ -20,9 +21,11 @@ telegram_url: https://t.me/pioblog/329
 14:41 принципы, помогающие в автостопе
 19:10 3 результата автостопа
 
-[аудиоверсия](/blog/audiversiia-poslushat-kak-podkastik-331-2025-08-19/) **•** [презентация](/blog/pdf-prezentashka-s-lektsii-332-2025-08-19/)
+[аудиоверсия](/blog/lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329-2025-08-19/) **•** [презентация](/blog/lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329-2025-08-19/)
 
 <script async src="https://telegram.org/js/telegram-widget.js?22"
         data-telegram-post="pioblog/329" data-width="100%"></script>
 
 [Оригинал в Telegram →](https://t.me/pioblog/329)
+
+![](/assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg)

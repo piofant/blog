@@ -43,3 +43,9 @@ telegram_url: https://t.me/pioblog/414
 Итого, ухожу с намерением записаться на 0 тур отбора – творческую консультацию в апреле, чтобы вообще попробовать себя, что там да как
 
 ![](/assets/img/posts/2026-03-24-trip-v-teatralnyi-vuzik-skhodil-na-dod-v-rgisi-i-414/photo_260@24-03-2026_10-03-14.jpg)
+
+![](/assets/img/posts/2026-03-24-trip-v-teatralnyi-vuzik-skhodil-na-dod-v-rgisi-i-414/photo_261@24-03-2026_10-03-14.jpg)
+
+![](/assets/img/posts/2026-03-24-trip-v-teatralnyi-vuzik-skhodil-na-dod-v-rgisi-i-414/photo_262@24-03-2026_10-03-14.jpg)
+
+![](/assets/img/posts/2026-03-24-trip-v-teatralnyi-vuzik-skhodil-na-dod-v-rgisi-i-414/photo_263@24-03-2026_10-03-14.jpg)

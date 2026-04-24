@@ -32,3 +32,7 @@ telegram_url: https://t.me/pioblog/207
 Какой был результат, что сказал нанимающий и чо там с оффером — давайте напишу в следующем [посте](/blog/chem-zakonchilas-istoriia-s-otborom-na-midla-210-2024-10-12/), а то чот уже многобукв тут получилось 🙂
 
 ![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_94@09-10-2024_15-22-47.jpg)
+
+![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_95@09-10-2024_15-22-47.jpg)
+
+![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_96@09-10-2024_15-22-47.jpg)

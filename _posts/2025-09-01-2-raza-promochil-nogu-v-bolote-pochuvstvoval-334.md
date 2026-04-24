@@ -22,3 +22,13 @@ telegram_url: https://t.me/pioblog/334
 Если и тебе хочется такого — пиши Ване [@KotKamar](https://t.me/KotKamar), а за фотки спасибо Лене [@bezdna\_slov](https://t.me/bezdna_slov)
 
 ![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_194@01-09-2025_15-57-30.jpg)
+
+![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_195@01-09-2025_15-57-30.jpg)
+
+![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_196@01-09-2025_15-57-30.jpg)
+
+![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_197@01-09-2025_15-57-30.jpg)
+
+![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_198@01-09-2025_15-57-30.jpg)
+
+![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_199@01-09-2025_15-57-30.jpg)

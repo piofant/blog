@@ -30,3 +30,9 @@ telegram_url: https://t.me/pioblog/202
 [Часть 2](/blog/kak-ia-reshaiu-testovye-na-prodakta-2-chast-235-2024-11-13/)
 
 ![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_90@04-10-2024_18-01-07.jpg)
+
+![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_91@04-10-2024_18-01-07.jpg)
+
+![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_92@04-10-2024_18-01-07.jpg)
+
+![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_93@04-10-2024_18-01-07.jpg)

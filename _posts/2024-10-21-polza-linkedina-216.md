@@ -22,3 +22,5 @@ telegram_url: https://t.me/pioblog/216
 часть 2 — </blog/polza-linkedina-chast-2-internet-friends-i-240-2024-12-03/>
 
 ![](/assets/img/posts/2024-10-21-polza-linkedina-216/photo_102@21-10-2024_12-27-49.jpg)
+
+![](/assets/img/posts/2024-10-21-polza-linkedina-216/photo_103@21-10-2024_12-27-49.jpg)

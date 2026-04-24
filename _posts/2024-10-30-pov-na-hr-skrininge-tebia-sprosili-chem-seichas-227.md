@@ -13,7 +13,7 @@ pov: на hr-скрининге тебя спросили "чем сейчас �
 
 `-` пишу посты на линке и тг
 `-` генерю и тестирую с менти уже которую по счёту гипотезу по монетизации [@dogpsybot](https://t.me/dogpsybot)
-`-` решаю кейсы, флужу в чат своего [кейс-клуба](/blog/kak-ia-sobral-svoi-keis-klub-dlia-podgotovki-k-147-2024-04-15/)
+`-` решаю кейсы, флужу в чат своего [кейс-клуба](/blog/zapis-ot-15-aprelia-2024-146-2024-04-15/)
 `-` ору на театральных тренингах
 `-` читаю зумерам доклады про тусы
 `-` волонтёрю на конфах, кадлах
@@ -22,3 +22,17 @@ pov: на hr-скрининге тебя спросили "чем сейчас �
 `-` изредка думаю о том, что все-таки стоило принять офер в тот межнар клаудтех стартап месяц назад
 
 ![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_110@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_111@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_112@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_113@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_114@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_115@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_116@30-10-2024_15-04-49.jpg)
+
+![](/assets/img/posts/2024-10-30-pov-na-hr-skrininge-tebia-sprosili-chem-seichas-227/photo_117@30-10-2024_15-04-49.jpg)

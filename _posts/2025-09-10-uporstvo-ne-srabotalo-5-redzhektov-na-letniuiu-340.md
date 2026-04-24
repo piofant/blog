@@ -30,3 +30,9 @@ telegram_url: https://t.me/pioblog/340
 Вместо ЛШ июль провел в автостопе и фестивалях, где конечно отсутствовал *эффект групповой динамики* и *очередь за шоколадной манной кашей по утрам*, но это подарило мне немного иной опыт, местами любимо безумный и свободный
 
 ![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_200@10-09-2025_13-44-58.jpg)
+
+![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_201@10-09-2025_13-44-58.jpg)
+
+![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_202@10-09-2025_13-44-58.jpg)
+
+![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_203@10-09-2025_13-44-58.jpg)

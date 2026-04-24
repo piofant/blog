@@ -25,3 +25,7 @@ telegram_url: https://t.me/pioblog/372
 [2 часть](/blog/puteshestviia-v-rezhime-nabliudatelia-chast-2-375-2025-10-29/)
 
 ![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_223@28-10-2025_17-41-01.jpg)
+
+![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_224@28-10-2025_17-41-01.jpg)
+
+![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_225@28-10-2025_17-41-01.jpg)

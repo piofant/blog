@@ -51,10 +51,12 @@ def parse_dump(html_path: Path) -> list[dict]:
         date = _parse_date(date_div["title"])
         text_div = msg.find("div", class_="text")
         text_html = text_div.decode_contents().strip() if text_div else ""
+        is_album_follower = "joined" in classes
         out.append({
             "id": mid,
             "date": date,
             "text_html": text_html,
             "msg_tag": msg,  # keep for later media extraction
+            "is_album_follower": is_album_follower,
         })
     return out

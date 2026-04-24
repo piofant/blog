@@ -24,3 +24,19 @@ telegram_url: https://t.me/pioblog/395
 Кажца, что такой метод shot-term способ помогает, но глобально кажца темка не самая лучшая, не буду ж я всю жизнь так бегать от трудностей?
 
 ![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_244@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_245@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_246@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_247@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_248@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_249@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_250@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_251@08-02-2026_16-05-49.jpg)
+
+![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_252@08-02-2026_16-05-49.jpg)

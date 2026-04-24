@@ -32,3 +32,11 @@ telegram_url: https://t.me/pioblog/387
 А какие места с безусловным принятием есть в вашей жизни?
 
 ![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_238@07-01-2026_22-28-29.jpg)
+
+![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_239@07-01-2026_22-28-29.jpg)
+
+![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_240@07-01-2026_22-28-29.jpg)
+
+![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_241@07-01-2026_22-28-29.jpg)
+
+![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_242@07-01-2026_22-28-29.jpg)

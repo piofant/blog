@@ -21,3 +21,9 @@ telegram_url: https://t.me/pioblog/211
 Upd. Написал: </blog/kak-ia-reshaiu-testovye-na-prodakta-2-chast-235-2024-11-13/>
 
 ![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_98@14-10-2024_19-52-58.jpg)
+
+![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_99@14-10-2024_19-52-58.jpg)
+
+![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_100@14-10-2024_19-52-58.jpg)
+
+![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_101@14-10-2024_19-52-58.jpg)
