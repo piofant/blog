@@ -2,12 +2,11 @@
 layout: post
 title: "🗺 Зарешать кейс и отобраться на джуна продакта в MIRO — результаты моих менти"
 date: 2025-05-14 19:08:55 +0300
-thumbnail-img: /assets/img/posts/2025-05-14-zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/photo_158@14-05-2025_19-08-55.jpg
+subtitle: "🗺.webp) Зарешать кейс и отобраться на джуна продакта в MIRO — результаты моих менти часть 3"
+thumbnail-img: /blog/assets/img/posts/2025-05-14-zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/photo_158@14-05-2025_19-08-55.jpg
 telegram_id: 293
 telegram_url: https://t.me/pioblog/293
 ---
-
-[🗺](stickers/sticker (1).webp) **Зарешать кейс и отобраться на джуна продакта в MIRO — результаты моих менти** [часть 3]
 
 Миша пришёл с запросом лучше засолвить тестовое на 2х-годичную ротационную программу в Miro
 
@@ -26,4 +25,4 @@ telegram_url: https://t.me/pioblog/293
 
 📍 Подробнее про менторство у меня и как записаться на [страничке 🔗](https://online-qr.ru/vova_mentor?utm_source=pioblog_misha_miro)
 
-![](/assets/img/posts/2025-05-14-zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/photo_158@14-05-2025_19-08-55.jpg)
+![](/blog/assets/img/posts/2025-05-14-zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/photo_158@14-05-2025_19-08-55.jpg)

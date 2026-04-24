@@ -2,11 +2,10 @@
 layout: post
 title: "Это самое, продукт кемп лето 2023?"
 date: 2023-08-15 20:10:48 +0300
+subtitle: "Это самое, продукт кемп лето 2023?"
 telegram_id: 129
 telegram_url: https://t.me/pioblog/129
 ---
-
-Это самое, [продукт кемп](https://productcamp.ru/pcleto23) лето 2023?
 
 Я еду с [докладом](/blog/ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120-2023-03-12/) про нетворк тусы в группе волонтёров по нетворкингу, мы будем:
 

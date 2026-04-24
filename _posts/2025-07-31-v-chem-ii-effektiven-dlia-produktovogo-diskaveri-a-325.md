@@ -2,14 +2,12 @@
 layout: post
 title: "В чем ИИ эффективен для продуктового дискавери, а в чем не очень? Результаты"
 date: 2025-07-31 20:27:52 +0300
-thumbnail-img: /assets/img/posts/2025-07-31-v-chem-ii-effektiven-dlia-produktovogo-diskaveri-a-325/photo_188@31-07-2025_20-27-52.jpg
+subtitle: "Коротко, что сделал"
+thumbnail-img: /blog/assets/img/posts/2025-07-31-v-chem-ii-effektiven-dlia-produktovogo-diskaveri-a-325/photo_188@31-07-2025_20-27-52.jpg
 telegram_id: 325
 telegram_url: https://t.me/pioblog/325
 ---
 
-**В чем ИИ эффективен для продуктового дискавери, а в чем не очень? Результаты моих pop-it'ок**
-
-**Коротко, что сделал**
 взял ЦА старшеклассников и для всех этапов продуктового дискавери (от поиска проблемы до выбора и теста решения) применил ИИ, в том числе навайбкодил конечный прототип решения и налил [бесплатный траффик школьников](/blog/open-call-edtekham-i-vsem-ostalnym-go-dadim-306-2025-06-13/) для быстрой проверки гипотезы
 
 **Что получилось хорошо**
@@ -27,4 +25,4 @@ telegram_url: https://t.me/pioblog/325
 
 ❓ А как вы делаете продуктовое дискавери с помощью ИИ: для чего и как используете ИИ, а что делаете по-старинке?
 
-![](/assets/img/posts/2025-07-31-v-chem-ii-effektiven-dlia-produktovogo-diskaveri-a-325/photo_188@31-07-2025_20-27-52.jpg)
+![](/blog/assets/img/posts/2025-07-31-v-chem-ii-effektiven-dlia-produktovogo-diskaveri-a-325/photo_188@31-07-2025_20-27-52.jpg)

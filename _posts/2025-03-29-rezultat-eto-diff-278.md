@@ -2,14 +2,11 @@
 layout: post
 title: "Результат — это diff"
 date: 2025-03-29 11:56:47 +0300
-thumbnail-img: /assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_146@29-03-2025_11-56-47.jpg
+subtitle: "Давеча обсуждали с Даней (21 год, лид b2c продукта в Инвитро) любимые вопросы с собесов, Даня назвал «Что для тебя результат?»"
+thumbnail-img: /blog/assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_146@29-03-2025_11-56-47.jpg
 telegram_id: 278
 telegram_url: https://t.me/pioblog/278
 ---
-
-**Результат — это diff**
-
-Давеча обсуждали с Даней (21 год, лид b2c продукта в Инвитро) любимые вопросы с собесов, Даня назвал «Что для тебя результат?»
 
 Я ответил, что для меня это про **diff изменений a→b, 0→1, 1→10 и время, за которое он был достигнут**, например:
 
@@ -27,6 +24,6 @@ telegram_url: https://t.me/pioblog/278
 
 **Го делиться примерами ваших дифов в комментариях!**
 
-![](/assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_146@29-03-2025_11-56-47.jpg)
+![](/blog/assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_146@29-03-2025_11-56-47.jpg)
 
-![](/assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_147@29-03-2025_11-56-47.jpg)
+![](/blog/assets/img/posts/2025-03-29-rezultat-eto-diff-278/photo_147@29-03-2025_11-56-47.jpg)

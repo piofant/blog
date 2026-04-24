@@ -15,6 +15,12 @@ BACKUP_DIR = Path.home() / "piofant-media"
 VIDEO_EMBED_THRESHOLD_BYTES = 25 * 1024 * 1024  # 25 MB
 FILE_EMBED_THRESHOLD_BYTES = 25 * 1024 * 1024
 TITLE_MAX_CHARS = 80
+SUBTITLE_MAX_CHARS = 180
+
+# Jekyll is served at piofant.github.io/blog/ — no baseurl in _config.yml,
+# so all absolute paths emitted into post markdown must carry this prefix
+# (kramdown does not process Liquid inside markdown images).
+SITE_BASEURL = "/blog"
 
 # Channel
 TG_CHANNEL = "pioblog"

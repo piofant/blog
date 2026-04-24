@@ -2,12 +2,11 @@
 layout: post
 title: "Я сделал презентацию про нетворкинг тусы: как перезнакомить группу людей, что"
 date: 2023-03-12 18:23:11 +0300
-thumbnail-img: /assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_37@12-03-2023_18-23-11.jpg
+subtitle: "Я сделал презентацию про нетворкинг тусы: как перезнакомить группу людей, что такое контекст знакомства и как его создавать, и где ещё соприкасаться с интересными людьми"
+thumbnail-img: /blog/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_37@12-03-2023_18-23-11.jpg
 telegram_id: 120
 telegram_url: https://t.me/pioblog/120
 ---
-
-**Я сделал** [презентацию](https://docs.google.com/presentation/d/1qZTjkXzEI71DS-xRjUyOwCUxneD2lRuS01ARNtuzPKY/edit?usp=sharing) **про нетворкинг тусы: как перезнакомить группу людей, что такое контекст знакомства и как его создавать**, и где ещё соприкасаться с интересными людьми
 
 Вышло 30 слайдов про:
 
@@ -31,10 +30,10 @@ telegram_url: https://t.me/pioblog/120
 
 p. s. меня также можно пригласить на тусу про знакомство и попросить помочь организовать тусу про знакомство 🌱
 
-![](/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_37@12-03-2023_18-23-11.jpg)
+![](/blog/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_37@12-03-2023_18-23-11.jpg)
 
-![](/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_38@12-03-2023_18-23-11.jpg)
+![](/blog/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_38@12-03-2023_18-23-11.jpg)
 
-![](/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_39@12-03-2023_18-23-11.jpg)
+![](/blog/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_39@12-03-2023_18-23-11.jpg)
 
-![](/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_40@12-03-2023_18-23-11.jpg)
+![](/blog/assets/img/posts/2023-03-12-ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/photo_40@12-03-2023_18-23-11.jpg)

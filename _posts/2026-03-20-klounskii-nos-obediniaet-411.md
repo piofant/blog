@@ -2,14 +2,11 @@
 layout: post
 title: "Клоунский нос объединяет"
 date: 2026-03-20 16:56:20 +0300
-thumbnail-img: /assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_258@20-03-2026_16-56-20.jpg
+subtitle: "Спускаюсь значит в метро на Петроградской, подъезжает поезд, захожу в первый вагон: сидит девушка, и я сел cправа от неё"
+thumbnail-img: /blog/assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_258@20-03-2026_16-56-20.jpg
 telegram_id: 411
 telegram_url: https://t.me/pioblog/411
 ---
-
-**Клоунский нос объединяет**
-
-Спускаюсь значит в метро на Петроградской, подъезжает поезд, захожу в первый вагон: сидит девушка, и я сел cправа от неё
 
 Смотрю, залипает в какие-то телеграм блоги что-то там про кукольный театр. Ещё секунд 15 краем глаза подсматриваю, как она думскроллит один за другим фоточки кукол
 
@@ -32,6 +29,6 @@ telegram_url: https://t.me/pioblog/411
 --
 Я представился Вовой, но она ещё не знает, что моего клоуна зовут *Игрушечный*
 
-![](/assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_258@20-03-2026_16-56-20.jpg)
+![](/blog/assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_258@20-03-2026_16-56-20.jpg)
 
-![](/assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_259@20-03-2026_16-56-21.jpg)
+![](/blog/assets/img/posts/2026-03-20-klounskii-nos-obediniaet-411/photo_259@20-03-2026_16-56-21.jpg)

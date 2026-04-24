@@ -2,14 +2,11 @@
 layout: post
 title: "👀 занял 14 из 420 место в решении кейса от Avito Product Bootcamp, попав в"
 date: 2024-10-14 19:52:58 +0300
-thumbnail-img: /assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_98@14-10-2024_19-52-58.jpg
+subtitle: "Кейс был от рок-стара финтеха Саши Капустина, нужно было (1) увеличить кол-во выдаваемых кредитов на покупку товаров на Авито и (2) увеличить GMV товаров в кредит"
+thumbnail-img: /blog/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_98@14-10-2024_19-52-58.jpg
 telegram_id: 211
 telegram_url: https://t.me/pioblog/211
 ---
-
-👀 **занял 14 из 420 место в решении кейса от Avito Product Bootcamp,** попав в ТОП-15 лучших работ, ну ваще!
-
-Кейс был от рок-стара финтеха Саши Капустина, нужно было (1) увеличить кол-во выдаваемых кредитов на покупку товаров на Авито и (2) увеличить GMV товаров в кредит
 
 Теперь шарю за кредиты, рассрочки, bnpl, как это всё работает, кто кому комиссию платит и какую пользу это несет пользователю, селлеру и бизнесу
 
@@ -20,10 +17,10 @@ telegram_url: https://t.me/pioblog/211
 В следующем посте поделюсь, что мне помогло в решении кейса и на чем фокусировался, а под этим шерю само решение кейса
 Upd. Написал: </blog/kak-ia-reshaiu-testovye-na-prodakta-2-chast-235-2024-11-13/>
 
-![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_98@14-10-2024_19-52-58.jpg)
+![](/blog/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_98@14-10-2024_19-52-58.jpg)
 
-![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_99@14-10-2024_19-52-58.jpg)
+![](/blog/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_99@14-10-2024_19-52-58.jpg)
 
-![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_100@14-10-2024_19-52-58.jpg)
+![](/blog/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_100@14-10-2024_19-52-58.jpg)
 
-![](/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_101@14-10-2024_19-52-58.jpg)
+![](/blog/assets/img/posts/2024-10-14-zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211/photo_101@14-10-2024_19-52-58.jpg)

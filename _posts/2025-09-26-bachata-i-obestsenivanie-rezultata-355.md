@@ -2,13 +2,10 @@
 layout: post
 title: "Бачата и обесценивание результата"
 date: 2025-09-26 21:23:36 +0300
+subtitle: "Еще в школе старина физтех Ваня Глушенков советовал мне ходить на социальные танцы"
 telegram_id: 355
 telegram_url: https://t.me/pioblog/355
 ---
-
-**Бачата и обесценивание результата**
-
-Еще в школе старина физтех Ваня Глушенков советовал мне [ходить на социальные танцы](https://telegra.ph/Tancy-15-chasov-tancev-v-nedelyu-02-09)
 
 **Сторителл**
 одним вечером в коворке ИТМО спонтанно увязался за аспирантом на тренировку по бачате; класс длился 2ч, это был мой первый раз в бачате, я изучил несколько движений и после класса ребята поехали на open air, я за ними
@@ -28,7 +25,7 @@ telegram_url: https://t.me/pioblog/355
 p. s. когда-нибудь расскажу про контактную импровизацию — она мне нравится тем, что в ней не нужно учить никакую технику, можно *свободно проявляться*, отчего легко расслабиться даже без опыта
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
-  <source src="/assets/video/posts/2025-09-26-bachata-i-obestsenivanie-rezultata-355/video_4@26-09-2025_21-23-36.mp4" type="video/mp4">
+  <source src="/blog/assets/video/posts/2025-09-26-bachata-i-obestsenivanie-rezultata-355/video_4@26-09-2025_21-23-36.mp4" type="video/mp4">
 </video>
 
 [Оригинал в Telegram →](https://t.me/pioblog/355)

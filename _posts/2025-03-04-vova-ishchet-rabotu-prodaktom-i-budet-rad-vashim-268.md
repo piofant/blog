@@ -2,13 +2,11 @@
 layout: post
 title: "Вова ищет работу продактом и будет рад вашим рекомендациям 👀"
 date: 2025-03-04 11:19:05 +0300
+subtitle: "Коротко обо мне"
 telegram_id: 268
 telegram_url: https://t.me/pioblog/268
 ---
 
-**Вова ищет работу продактом** и будет рад вашим рекомендациям 👀
-
-**Коротко обо мне**
 2+ лет продуктового опыта: B2C ЧатРулете, B2Employee в Яндексе, технический бекграунд после разработки на Python, SQL. Умею работать с дискавери и деливери, активацией и удержанием юзеров
 
 **Топ Результаты**
@@ -34,7 +32,7 @@ telegram_url: https://t.me/pioblog/268
 Напишите мне [@piofant](https://t.me/piofant), если создается ощущение, что мы можем заколлаборировать + буду рад реферам
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
-  <source src="/assets/video/posts/2025-03-04-vova-ishchet-rabotu-prodaktom-i-budet-rad-vashim-268/video_1@04-03-2025_11-19-05.mp4" type="video/mp4">
+  <source src="/blog/assets/video/posts/2025-03-04-vova-ishchet-rabotu-prodaktom-i-budet-rad-vashim-268/video_1@04-03-2025_11-19-05.mp4" type="video/mp4">
 </video>
 
 [Оригинал в Telegram →](https://t.me/pioblog/268)

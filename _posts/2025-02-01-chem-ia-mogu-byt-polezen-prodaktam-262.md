@@ -2,14 +2,11 @@
 layout: post
 title: "Чем я могу быть полезен продактам"
 date: 2025-02-01 13:44:35 +0300
-thumbnail-img: /assets/img/posts/2025-02-01-chem-ia-mogu-byt-polezen-prodaktam-262/photo_136@01-02-2025_13-44-35.jpg
+subtitle: "Кучу всего накопилось уже, давайте соберу все, чем могу помочь, в один постик 🙂"
+thumbnail-img: /blog/assets/img/posts/2025-02-01-chem-ia-mogu-byt-polezen-prodaktam-262/photo_136@01-02-2025_13-44-35.jpg
 telegram_id: 262
 telegram_url: https://t.me/pioblog/262
 ---
-
-**Чем я могу быть полезен продактам**
-
-Кучу всего накопилось уже, давайте соберу все, чем могу помочь, в один постик 🙂
 
 **Шеринг моего опыта про карьеру продакта**
 `-` Почему я решил стать продакт-менеджером? → [link](/blog/pochemu-ia-reshil-stat-prodakt-menedzherom-pm-126-2023-04-19/)
@@ -35,4 +32,4 @@ telegram_url: https://t.me/pioblog/262
 
 [@pioblog](https://t.me/pioblog)
 
-![](/assets/img/posts/2025-02-01-chem-ia-mogu-byt-polezen-prodaktam-262/photo_136@01-02-2025_13-44-35.jpg)
+![](/blog/assets/img/posts/2025-02-01-chem-ia-mogu-byt-polezen-prodaktam-262/photo_136@01-02-2025_13-44-35.jpg)

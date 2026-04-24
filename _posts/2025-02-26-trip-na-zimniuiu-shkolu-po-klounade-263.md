@@ -2,13 +2,12 @@
 layout: post
 title: "трип на зимнюю школу по клоунаде"
 date: 2025-02-26 22:18:58 +0300
-thumbnail-img: /assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_137@26-02-2025_22-18-58.jpg
+subtitle: "4 дня под Зеленоградом, 6 часов ношения клоунского носа в день, очередь за манной кашей, лифт из fallout и куча игр на импровизацию"
+thumbnail-img: /blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_137@26-02-2025_22-18-58.jpg
 telegram_id: 263
 telegram_url: https://t.me/pioblog/263
 ---
 
-**трип на зимнюю школу по клоунаде**
-*4 дня под Зеленоградом, 6 часов ношения клоунского носа в день, очередь за манной кашей, лифт из fallout и куча игр на импровизацию*
 **[творческий рук и visioner]**
 прекрасная Катя с большим сердцем, искренностью и нескончаемым задором, по профессии настоящий медицинский клоун (!)
 
@@ -31,12 +30,12 @@ as always, на таких эвентах фокус на исследовани
 **[gratitudes]**
 эта лаба — некоммерческая, спасибо [Кате Мироновой](https://t.me/clown_s_diplomom), [мастерской живого театра](https://t.me/zhivoyteatr) и [ЛШ](https://t.me/lsh_potok)
 
-![](/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_137@26-02-2025_22-18-58.jpg)
+![](/blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_137@26-02-2025_22-18-58.jpg)
 
-![](/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_138@26-02-2025_22-18-58.jpg)
+![](/blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_138@26-02-2025_22-18-58.jpg)
 
-![](/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_139@26-02-2025_22-18-58.jpg)
+![](/blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_139@26-02-2025_22-18-58.jpg)
 
-![](/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_140@26-02-2025_22-18-58.jpg)
+![](/blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_140@26-02-2025_22-18-58.jpg)
 
-![](/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_141@26-02-2025_22-18-58.jpg)
+![](/blog/assets/img/posts/2025-02-26-trip-na-zimniuiu-shkolu-po-klounade-263/photo_141@26-02-2025_22-18-58.jpg)

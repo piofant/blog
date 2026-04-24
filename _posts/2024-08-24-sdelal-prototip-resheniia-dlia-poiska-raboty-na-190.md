@@ -2,14 +2,11 @@
 layout: post
 title: "Сделал прототип решения для поиска работы на оффлайн конференции [до прода за"
 date: 2024-08-24 09:40:28 +0300
-thumbnail-img: /assets/img/posts/2024-08-24-sdelal-prototip-resheniia-dlia-poiska-raboty-na-190/photo_86@24-08-2024_09-40-28.jpg
+subtitle: "Сегодня еду на ProductCamp, и поскольку сейчас ищу работу продактом ищу вдохновляющий продукт и новые челленджи, решил попробовать поместить call to action об этом прямо на себя"
+thumbnail-img: /blog/assets/img/posts/2024-08-24-sdelal-prototip-resheniia-dlia-poiska-raboty-na-190/photo_86@24-08-2024_09-40-28.jpg
 telegram_id: 190
 telegram_url: https://t.me/pioblog/190
 ---
-
-**Сделал прототип решения для поиска работы на оффлайн конференции [до прода за 2 дня] — футболку с принтом и бота с резюме**
-
-Сегодня еду на ProductCamp, и поскольку сейчас ~~ищу работу продактом~~ ищу вдохновляющий продукт и новые челленджи, решил попробовать поместить call to action об этом прямо на себя, для этого сделал:
 
 (1) Футболку с call to action и ключевыми моментами в опыте
 (2) Telegram-бот [@hire\_vova\_bot](https://t.me/hire_vova_bot) с резюме, кейсами и целеполаганием
@@ -26,4 +23,4 @@ telegram_url: https://t.me/pioblog/190
 
 🔻 Поделитесь в комментариях, как вам UX/UI футболки и бота [@hire\_vova\_bot](https://t.me/hire_vova_bot)? Что хочется изменить\убрать\добавить?
 
-![](/assets/img/posts/2024-08-24-sdelal-prototip-resheniia-dlia-poiska-raboty-na-190/photo_86@24-08-2024_09-40-28.jpg)
+![](/blog/assets/img/posts/2024-08-24-sdelal-prototip-resheniia-dlia-poiska-raboty-na-190/photo_86@24-08-2024_09-40-28.jpg)

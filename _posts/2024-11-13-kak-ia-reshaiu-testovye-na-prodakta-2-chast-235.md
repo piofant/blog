@@ -2,14 +2,12 @@
 layout: post
 title: "Как я решаю тестовые на продакта [2 часть]"
 date: 2024-11-13 13:27:32 +0300
-thumbnail-img: /assets/img/posts/2024-11-13-kak-ia-reshaiu-testovye-na-prodakta-2-chast-235/photo_118@13-11-2024_13-27-32.jpg
+subtitle: "Как себе помочь и на чем сделать фокус в решении?"
+thumbnail-img: /blog/assets/img/posts/2024-11-13-kak-ia-reshaiu-testovye-na-prodakta-2-chast-235/photo_118@13-11-2024_13-27-32.jpg
 telegram_id: 235
 telegram_url: https://t.me/pioblog/235
 ---
 
-**Как я решаю тестовые на продакта [2 часть]
-
-Как себе помочь и на чем сделать фокус в решении?**
 *на примере кейса от Avito Product Bootcamp (14/420 место)*
 **→ В решении кейса сделал фокус на:**
 
@@ -31,4 +29,4 @@ telegram_url: https://t.me/pioblog/235
 
 [Часть 1](/blog/kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202-2024-10-04/)
 
-![](/assets/img/posts/2024-11-13-kak-ia-reshaiu-testovye-na-prodakta-2-chast-235/photo_118@13-11-2024_13-27-32.jpg)
+![](/blog/assets/img/posts/2024-11-13-kak-ia-reshaiu-testovye-na-prodakta-2-chast-235/photo_118@13-11-2024_13-27-32.jpg)

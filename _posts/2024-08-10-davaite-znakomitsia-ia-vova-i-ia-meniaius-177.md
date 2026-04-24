@@ -2,15 +2,13 @@
 layout: post
 title: "Давайте знакомиться — я Вова, и я меняюсь ☀️"
 date: 2024-08-10 13:52:57 +0300
+subtitle: "whois #intro"
 tags: [whois, intro]
-thumbnail-img: /assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_76@10-08-2024_13-52-57.jpg
+thumbnail-img: /blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_76@10-08-2024_13-52-57.jpg
 telegram_id: 177
 telegram_url: https://t.me/pioblog/177
 ---
 
-Давайте знакомиться — я Вова, и я меняюсь ☀️
-
-#whois #intro
 21 y.o, Москва ⟷ СПб, продакт в Яндексе, ex-ChatRoulette, CS бакалавриат ITMO.STARS
 
 **(1) Два года писал на C++, Python и перешёл в продакты по** [5-ти причинам](/blog/pochemu-ia-reshil-stat-prodakt-menedzherom-pm-126-2023-04-19/), по пути:
@@ -47,14 +45,14 @@ telegram_url: https://t.me/pioblog/177
 [🧃 Картинки](https://www.instagram.com/piofant/)
 [💬 Чат канала](https://t.me/+RyFr2H70oImq2wP3)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_76@10-08-2024_13-52-57.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_76@10-08-2024_13-52-57.jpg)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_77@10-08-2024_13-52-58.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_77@10-08-2024_13-52-58.jpg)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_78@10-08-2024_13-52-58.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_78@10-08-2024_13-52-58.jpg)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_79@10-08-2024_13-52-58.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_79@10-08-2024_13-52-58.jpg)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_80@10-08-2024_13-52-58.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_80@10-08-2024_13-52-58.jpg)
 
-![](/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_81@10-08-2024_13-52-58.jpg)
+![](/blog/assets/img/posts/2024-08-10-davaite-znakomitsia-ia-vova-i-ia-meniaius-177/photo_81@10-08-2024_13-52-58.jpg)

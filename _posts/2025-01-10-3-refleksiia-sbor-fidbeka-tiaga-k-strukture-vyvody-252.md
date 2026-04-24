@@ -2,14 +2,12 @@
 layout: post
 title: "(3) рефлексия + сбор фидбека + тяга к структуре = выводы на будущее"
 date: 2025-01-10 21:28:22 +0300
-thumbnail-img: /assets/img/posts/2025-01-10-3-refleksiia-sbor-fidbeka-tiaga-k-strukture-vyvody-252/photo_127@10-01-2025_21-28-22.jpg
+subtitle: "Процесс рефлексии у меня автоматически запускается после завершения эпика\\задачи, в нём я:"
+thumbnail-img: /blog/assets/img/posts/2025-01-10-3-refleksiia-sbor-fidbeka-tiaga-k-strukture-vyvody-252/photo_127@10-01-2025_21-28-22.jpg
 telegram_id: 252
 telegram_url: https://t.me/pioblog/252
 ---
 
-**(3) рефлексия + сбор фидбека + тяга к структуре = выводы на будущее**
-
-Процесс рефлексии у меня автоматически запускается после завершения эпика\задачи, в нём я:
 — смотрю сверху на storyline по выполненной работе
 — оцениваю полезность результата своей работы
 — собираю с коллег ОС про комфортность взаимодействия
@@ -27,4 +25,4 @@ telegram_url: https://t.me/pioblog/252
 
 поделитесь в комментах, а как вы отвечаете на вопрос про *сильные стороны*?
 
-![](/assets/img/posts/2025-01-10-3-refleksiia-sbor-fidbeka-tiaga-k-strukture-vyvody-252/photo_127@10-01-2025_21-28-22.jpg)
+![](/blog/assets/img/posts/2025-01-10-3-refleksiia-sbor-fidbeka-tiaga-k-strukture-vyvody-252/photo_127@10-01-2025_21-28-22.jpg)

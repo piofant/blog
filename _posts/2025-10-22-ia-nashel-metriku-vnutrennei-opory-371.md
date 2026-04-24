@@ -2,13 +2,11 @@
 layout: post
 title: "Я нашёл метрику внутренней опоры"
 date: 2025-10-22 00:28:04 +0300
-thumbnail-img: /assets/img/posts/2025-10-22-ia-nashel-metriku-vnutrennei-opory-371/photo_222@22-10-2025_00-28-04.jpg
+subtitle: "это моё отношение к записям в КПТ-дневнике"
+thumbnail-img: /blog/assets/img/posts/2025-10-22-ia-nashel-metriku-vnutrennei-opory-371/photo_222@22-10-2025_00-28-04.jpg
 telegram_id: 371
 telegram_url: https://t.me/pioblog/371
 ---
-
-**Я нашёл метрику внутренней опоры**
-это моё отношение к записям в КПТ-дневнике
 
 Внутренняя опора и как её построить — для меня один из главных вопросов вселенной. Почти каждый [мужской круг](/blog/muzhskie-krugi-stali-chastiu-moei-zhizni-i-vot-333-2025-08-28/) проскакивает эта тема
 
@@ -25,4 +23,4 @@ telegram_url: https://t.me/pioblog/371
 
 🏗 а как вы строите внутреннюю опору и измеряете результаты этой стройки?
 
-![](/assets/img/posts/2025-10-22-ia-nashel-metriku-vnutrennei-opory-371/photo_222@22-10-2025_00-28-04.jpg)
+![](/blog/assets/img/posts/2025-10-22-ia-nashel-metriku-vnutrennei-opory-371/photo_222@22-10-2025_00-28-04.jpg)

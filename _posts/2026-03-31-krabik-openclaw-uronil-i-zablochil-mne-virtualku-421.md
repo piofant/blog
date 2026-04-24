@@ -2,13 +2,12 @@
 layout: post
 title: "💀 крабик openclaw уронил и заблочил мне виртуалку на 20-й день // лонгрид ~3мин"
 date: 2026-03-31 14:08:48 +0300
-thumbnail-img: /assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_266@31-03-2026_14-08-48.jpg
+subtitle: "что за крабик"
+thumbnail-img: /blog/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_266@31-03-2026_14-08-48.jpg
 telegram_id: 421
 telegram_url: https://t.me/pioblog/421
 ---
 
-💀 **крабик openclaw уронил и заблочил мне виртуалку на 20-й день** // *лонгрид ~3мин*
-**[что за крабик**]
 наверное много кто слышал про это проактивное чудо <openclaw.ai> – ии-агент личный ассистент с доступом к твоей операционке, вот и я хотел поиграться;
 
 сначала думал поднять на старом ноуте виндовом, потом просто купил виртуалку на 2 ядра 4 гига ОЗУ за 500р\мес и поднял на ней, шоб по-безопаснее
@@ -47,8 +46,8 @@ so, на ВМ почти наверняка был компрометирова�
 
 а какой у вас опыт с проактивными ии-ассистентами? [😊](video_files/sticker.webm)
 
-![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_266@31-03-2026_14-08-48.jpg)
+![](/blog/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_266@31-03-2026_14-08-48.jpg)
 
-![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_267@31-03-2026_14-08-48.jpg)
+![](/blog/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_267@31-03-2026_14-08-48.jpg)
 
-![](/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_268@31-03-2026_14-08-48.jpg)
+![](/blog/assets/img/posts/2026-03-31-krabik-openclaw-uronil-i-zablochil-mne-virtualku-421/photo_268@31-03-2026_14-08-48.jpg)

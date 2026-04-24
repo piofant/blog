@@ -2,14 +2,11 @@
 layout: post
 title: "Как в Авито и Ozon оценивают софты при найме джунов менеджеров — делюсь опытом"
 date: 2024-12-15 20:28:52 +0300
-thumbnail-img: /assets/img/posts/2024-12-15-kak-v-avito-i-ozon-otsenivaiut-softy-pri-naime-243/photo_120@15-12-2024_20-28-52.jpg
+subtitle: "Этой весной я сходил на:"
+thumbnail-img: /blog/assets/img/posts/2024-12-15-kak-v-avito-i-ozon-otsenivaiut-softy-pri-naime-243/photo_120@15-12-2024_20-28-52.jpg
 telegram_id: 243
 telegram_url: https://t.me/pioblog/243
 ---
-
-**Как в Авито и Ozon оценивают софты при найме джунов менеджеров — делюсь опытом и хинтами как это пройти**
-
-Этой весной я сходил на:
 
 1) оффлайн бизнес-игру в Ozon [часть отбора на стажировку продактом в Ozon]
 2) онлайн ассесмент в Авито [часть отбора на лидерскую программу]
@@ -38,4 +35,4 @@ telegram_url: https://t.me/pioblog/243
 
 🔻 Расскажите ваш опыт участия в подобных движухах в комментах!
 
-![](/assets/img/posts/2024-12-15-kak-v-avito-i-ozon-otsenivaiut-softy-pri-naime-243/photo_120@15-12-2024_20-28-52.jpg)
+![](/blog/assets/img/posts/2024-12-15-kak-v-avito-i-ozon-otsenivaiut-softy-pri-naime-243/photo_120@15-12-2024_20-28-52.jpg)

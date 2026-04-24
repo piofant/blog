@@ -2,14 +2,11 @@
 layout: post
 title: "Путешествия в режиме наблюдателя, часть 2"
 date: 2025-10-29 17:19:01 +0300
-thumbnail-img: /assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_226@29-10-2025_17-19-01.jpg
+subtitle: "Дальнобойщик-семьянин из народа Дунгановподвозил меня до Ульяновска и рассказывал, как он был раздолбаем в школе, а потом родители женили → позворослел; отношения с женой на"
+thumbnail-img: /blog/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_226@29-10-2025_17-19-01.jpg
 telegram_id: 375
 telegram_url: https://t.me/pioblog/375
 ---
-
-**Путешествия в режиме наблюдателя**, часть 2
-
-> **Дальнобойщик-семьянин из народа Дунганов**подвозил меня до Ульяновска и рассказывал, как он был раздолбаем в школе, а потом родители женили → позворослел; отношения с женой *на доверии*, ведь с детства знают друг друга; катает межнар рейсы с прицепом с холодильной установкой на лухари volvo
 
 > **Работяга с вахты в Мурманске**
 детство в Архангельске, переезд в Питер, женился и развёлся, беспомощность, рейсы на вахту по рефлексу, в выходные пишет репчик и вообще на самом деле творческий человек!
@@ -21,8 +18,8 @@ telegram_url: https://t.me/pioblog/375
 - что я хочу поменять в своей жизни,
 - хочу ли я жить по-другому
 
-![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_226@29-10-2025_17-19-01.jpg)
+![](/blog/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_226@29-10-2025_17-19-01.jpg)
 
-![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_227@29-10-2025_17-19-01.jpg)
+![](/blog/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_227@29-10-2025_17-19-01.jpg)
 
-![](/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_228@29-10-2025_17-19-01.jpg)
+![](/blog/assets/img/posts/2025-10-29-puteshestviia-v-rezhime-nabliudatelia-chast-2-375/photo_228@29-10-2025_17-19-01.jpg)

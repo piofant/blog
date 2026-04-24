@@ -2,14 +2,11 @@
 layout: post
 title: "Упорство не сработало: 5 реджектов на летнюю школу"
 date: 2025-09-10 13:44:58 +0300
-thumbnail-img: /assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_200@10-09-2025_13-44-58.jpg
+subtitle: "Вот говорят, что получается у тех, кто не сдаётся, вот и я весь май тщательно отбирался летнюю школу, потому что в прошлом году классно себя там чувствовал и хотел приехать вновь"
+thumbnail-img: /blog/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_200@10-09-2025_13-44-58.jpg
 telegram_id: 340
 telegram_url: https://t.me/pioblog/340
 ---
-
-**Упорство не сработало: 5 реджектов на летнюю школу**
-
-Вот говорят, что получается у тех, кто не сдаётся, вот и я весь май тщательно отбирался летнюю школу, потому что в прошлом году [классно себя там чувствовал](/blog/privet-ia-seichas-na-letnei-shkole-v-tripe-v-moi-168-2024-07-17/) и хотел приехать вновь
 
 Подавался в мастерские, и после каждого отказа бежал перезаполнять свою анкету, выбирал другую мастерскую, определял, что смогу там взять для себя, и делал тестовое с мотивашкой
 
@@ -29,10 +26,10 @@ telegram_url: https://t.me/pioblog/340
 
 Вместо ЛШ июль провел в автостопе и фестивалях, где конечно отсутствовал *эффект групповой динамики* и *очередь за шоколадной манной кашей по утрам*, но это подарило мне немного иной опыт, местами любимо безумный и свободный
 
-![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_200@10-09-2025_13-44-58.jpg)
+![](/blog/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_200@10-09-2025_13-44-58.jpg)
 
-![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_201@10-09-2025_13-44-58.jpg)
+![](/blog/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_201@10-09-2025_13-44-58.jpg)
 
-![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_202@10-09-2025_13-44-58.jpg)
+![](/blog/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_202@10-09-2025_13-44-58.jpg)
 
-![](/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_203@10-09-2025_13-44-58.jpg)
+![](/blog/assets/img/posts/2025-09-10-uporstvo-ne-srabotalo-5-redzhektov-na-letniuiu-340/photo_203@10-09-2025_13-44-58.jpg)

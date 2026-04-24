@@ -1,9 +1,11 @@
 """Orchestrator: dump → staging/."""
 from __future__ import annotations
+import re
 import yaml
 from pathlib import Path
 from datetime import date
 from lib import config as cfg
+from lib.config import SUBTITLE_MAX_CHARS
 from lib.html_parser import parse_dump
 from lib.transform import (
     extract_title, html_to_markdown, rewrite_pioblog_links, extract_hashtags,
@@ -20,6 +22,66 @@ def _build_slug(title: str, post_date: date, tg_id: int) -> str:
     if not base:
         base = f"post"
     return f"{post_date.isoformat()}-{base}-{tg_id}"
+
+
+def _strip_title_from_body(body_md: str, title: str) -> str:
+    """If the body's first non-empty line is (or embeds) the title, drop it.
+
+    Title is already shown by the theme from frontmatter, so keeping it at
+    the top of the body makes the home-feed excerpt repeat the title.
+    """
+    if not body_md.strip():
+        return body_md
+    lines = body_md.split("\n")
+    # find first non-empty line
+    for i, line in enumerate(lines):
+        if line.strip():
+            first_text = re.sub(r"[*_`~]", "", line).strip()
+            title_text = re.sub(r"[*_`~]", "", title).strip()
+            # title is derived from the first line truncated to 80 chars,
+            # so first-line → title prefix match or equality
+            if first_text == title_text or first_text.startswith(title_text):
+                return "\n".join(lines[i + 1:]).lstrip("\n")
+            break
+    return body_md
+
+
+def _extract_subtitle_and_body(body_md: str, title: str) -> tuple[str | None, str]:
+    """Split body_md into (subtitle, remaining_body).
+
+    - First non-empty line (after title-strip) → subtitle (stripped of
+      markdown decoration), up to SUBTITLE_MAX_CHARS.
+    - That same line is then removed from the body, so the rendered post
+      page doesn't echo the subtitle immediately below its title.
+    - Returns (None, original_body) if there is no meaningful line to use.
+    """
+    remainder = _strip_title_from_body(body_md, title)
+    stripped = remainder.lstrip("\n")
+    if not stripped.strip():
+        return None, remainder
+    first_line, _, rest = stripped.partition("\n")
+    plain = _markdown_to_plain(first_line)
+    if not plain:
+        return None, remainder
+    if len(plain) > SUBTITLE_MAX_CHARS:
+        plain = plain[:SUBTITLE_MAX_CHARS].rsplit(" ", 1)[0].rstrip(",.;: ")
+    return plain, rest.lstrip("\n")
+
+
+def _markdown_to_plain(s: str) -> str:
+    """Drop markdown decoration from a short line for frontmatter display."""
+    # [text](url) → text
+    s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
+    # ![alt](url) → alt (fallback "")
+    s = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", s)
+    # strip heading markers, list bullets, blockquotes, code fences, emphasis
+    s = re.sub(r"^[#>\-*]+\s*", "", s)
+    s = re.sub(r"[*_`~]", "", s)
+    # bare [section-heading] → section-heading (TG author convention)
+    s = re.sub(r"\[([^\[\]]+)\]", r"\1", s)
+    # collapse whitespace
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
 
 def _slug_to_url(slug: str) -> str:
@@ -103,6 +165,11 @@ def main(id_map: dict[int, str] | None = None,
         body_md = rewrite_pioblog_links(body_md, link_map)
         tags = extract_hashtags(body_html)
 
+        # Split title (line 1) and subtitle (line 2) out of the body so
+        # home-feed cards don't echo them and so the post page doesn't
+        # repeat the title-subtitle pair right above its own content.
+        subtitle, body_md = _extract_subtitle_and_body(body_md, m["title"])
+
         # media from head + any absorbed album followers
         media_items = extract_media(m["msg_tag"])
         for follower_tag in m.get("album_follower_tags", []):
@@ -113,7 +180,7 @@ def main(id_map: dict[int, str] | None = None,
             r = copy_media(item, cfg.DUMP_DIR, cfg.STAGING_DIR, cfg.BACKUP_DIR,
                            slug=m["slug"], tg_id=m["id"])
             if item.kind == MediaKind.PHOTO and thumbnail is None and r.in_staging:
-                thumbnail = f"/assets/img/posts/{m['slug']}/{r.staging_path.name}"
+                thumbnail = f"{cfg.SITE_BASEURL}/assets/img/posts/{m['slug']}/{r.staging_path.name}"
             media_md_blocks.append(render_media_markdown(r, slug=m["slug"], tg_id=m["id"]))
 
         if media_md_blocks:
@@ -125,6 +192,7 @@ def main(id_map: dict[int, str] | None = None,
             telegram_url=f"https://t.me/pioblog/{m['id']}",
             date=m["date"],
             title=m["title"],
+            subtitle=subtitle,
             slug=m["slug"],
             tags=tags,
             body_md=body_md,

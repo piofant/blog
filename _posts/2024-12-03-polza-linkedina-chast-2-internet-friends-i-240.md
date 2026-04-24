@@ -2,13 +2,11 @@
 layout: post
 title: "польза линкедина [часть 2] — internet friends и visibility"
 date: 2024-12-03 23:15:43 +0300
-thumbnail-img: /assets/img/posts/2024-12-03-polza-linkedina-chast-2-internet-friends-i-240/photo_119@03-12-2024_23-15-43.jpg
+subtitle: "заметил, что помимо прочего «постерство» в линк кажется правда создает visibility и, внезапно, даже сближает!"
+thumbnail-img: /blog/assets/img/posts/2024-12-03-polza-linkedina-chast-2-internet-friends-i-240/photo_119@03-12-2024_23-15-43.jpg
 telegram_id: 240
 telegram_url: https://t.me/pioblog/240
 ---
-
-**польза линкедина [часть 2] — internet friends и visibility**
-заметил, что помимо прочего «постерство» в линк кажется правда создает visibility и, внезапно, даже сближает!
 
 несколько примеров:
 
@@ -24,4 +22,4 @@ telegram_url: https://t.me/pioblog/240
 
 законнектиться на линке со мной [можно тут](https://www.linkedin.com/in/lutsenko-vladimir/), если мы ещё не
 
-![](/assets/img/posts/2024-12-03-polza-linkedina-chast-2-internet-friends-i-240/photo_119@03-12-2024_23-15-43.jpg)
+![](/blog/assets/img/posts/2024-12-03-polza-linkedina-chast-2-internet-friends-i-240/photo_119@03-12-2024_23-15-43.jpg)

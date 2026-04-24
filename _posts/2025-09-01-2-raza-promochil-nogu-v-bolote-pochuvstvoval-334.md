@@ -2,14 +2,11 @@
 layout: post
 title: "2 раза промочил ногу в болоте & почувствовал спокойность Белого моря"
 date: 2025-09-01 15:57:30 +0300
-thumbnail-img: /assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_194@01-09-2025_15-57-30.jpg
+subtitle: "Ласт неделю лета я провел на Русском Севере у Вани в Малошуйке — такой поморской Russian village"
+thumbnail-img: /blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_194@01-09-2025_15-57-30.jpg
 telegram_id: 334
 telegram_url: https://t.me/pioblog/334
 ---
-
-**2 раза промочил ногу в болоте & почувствовал спокойность Белого моря**
-
-Ласт неделю лета я провел на Русском Севере у Вани в Малошуйке — такой поморской Russian village
 
 Мы познакомились на снс-тусе у [Юры](/blog/znakomtes-iura-moi-partner-po-avtostopu-326-2025-08-05/), потом вместе пили чай на [Бессоннице](/blog/trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319-2025-07-23/)
 
@@ -21,14 +18,14 @@ telegram_url: https://t.me/pioblog/334
 
 Если и тебе хочется такого — пиши Ване [@KotKamar](https://t.me/KotKamar), а за фотки спасибо Лене [@bezdna\_slov](https://t.me/bezdna_slov)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_194@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_194@01-09-2025_15-57-30.jpg)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_195@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_195@01-09-2025_15-57-30.jpg)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_196@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_196@01-09-2025_15-57-30.jpg)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_197@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_197@01-09-2025_15-57-30.jpg)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_198@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_198@01-09-2025_15-57-30.jpg)
 
-![](/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_199@01-09-2025_15-57-30.jpg)
+![](/blog/assets/img/posts/2025-09-01-2-raza-promochil-nogu-v-bolote-pochuvstvoval-334/photo_199@01-09-2025_15-57-30.jpg)

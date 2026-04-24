@@ -2,15 +2,13 @@
 layout: post
 title: "0 лидов за 2 месяца или как я протестировал 3 гипотезы монетизации пет-проекта"
 date: 2025-03-19 20:48:41 +0300
+subtitle: "контекст"
 tags: [сторителл]
-thumbnail-img: /assets/img/posts/2025-03-19-0-lidov-za-2-mesiatsa-ili-kak-ia-protestiroval-3-274/photo_144@19-03-2025_20-48-41.jpg
+thumbnail-img: /blog/assets/img/posts/2025-03-19-0-lidov-za-2-mesiatsa-ili-kak-ia-protestiroval-3-274/photo_144@19-03-2025_20-48-41.jpg
 telegram_id: 274
 telegram_url: https://t.me/pioblog/274
 ---
 
-**0 лидов за 2 месяца или как я протестировал 3 гипотезы монетизации пет-проекта** #сторителл
-
-**[контекст]**
 - у меня есть [@dogpsybot](http://t.me/dogpsybot?start=pioblog_monetize), он помогает 3К активным юзерам почувствовать себя лучше и стабильно органически растёт на 300 юзеров\мес
 - до какого-то времени он был некоммерческим и служил моим «тренажёром по продакт-менеджменту», но пришло время его монетизировать, ведь сервер сам за себя не заплатит
 
@@ -27,4 +25,4 @@ telegram_url: https://t.me/pioblog/274
 
 ➡️ про сами гипотезы и результаты их тестирования расскажу во [2 части](/blog/storitell-pro-monetizatsiiu-psaiko-chast-2-kakie-275-2025-03-20/) завтра
 
-![](/assets/img/posts/2025-03-19-0-lidov-za-2-mesiatsa-ili-kak-ia-protestiroval-3-274/photo_144@19-03-2025_20-48-41.jpg)
+![](/blog/assets/img/posts/2025-03-19-0-lidov-za-2-mesiatsa-ili-kak-ia-protestiroval-3-274/photo_144@19-03-2025_20-48-41.jpg)

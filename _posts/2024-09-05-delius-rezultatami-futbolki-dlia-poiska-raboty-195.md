@@ -2,14 +2,13 @@
 layout: post
 title: "Делюсь результатами футболки для поиска работы — нашёл ли я работу продактом"
 date: 2024-09-05 17:32:21 +0300
-thumbnail-img: /assets/img/posts/2024-09-05-delius-rezultatami-futbolki-dlia-poiska-raboty-195/photo_87@05-09-2024_17-32-21.jpg
+subtitle: "100+ запусков @hire\\vova\\bot, из которых только 8 по QR с футболки → 3 касания с нанимающими → feedback pending (пока зиро офферов), детальнее воронку смотрите на фотке"
+thumbnail-img: /blog/assets/img/posts/2024-09-05-delius-rezultatami-futbolki-dlia-poiska-raboty-195/photo_87@05-09-2024_17-32-21.jpg
 telegram_id: 195
 telegram_url: https://t.me/pioblog/195
 ---
 
-**Делюсь результатами футболки для поиска работы —** нашёл ли я работу продактом на ProductCamp лето 2024? **🧮 Результат в числах**
-100+ запусков [@hire\_vova\_bot](http://t.me/hire_vova_bot?start=pioblog_2), из которых только 8 по QR с футболки → 3 касания с нанимающими → feedback pending (пока зиро офферов), детальнее воронку смотрите на фотке
- **🙂 Результат в восприятии**
+**🙂 Результат в восприятии**
 — Было много улыбок и комментов «классная идея», «креативный подход», а к концу конфы уже пошли вопросы «Ну что, нашёл работу?»
 — Из прикольного, засветился в канале Даши CODE:DARIA на 5к сабов — мы познакомились на конфе, она почти сразу сказала, что идея с футболкой классная и что хочет опубликовать селфи со мной в своём канале
 
@@ -27,4 +26,4 @@ telegram_url: https://t.me/pioblog/195
 
 p. s. я продолжаю искать работу продактом, резюме в ботике [@hire\_vova\_bot](http://t.me/hire_vova_bot?start=pioblog_2_push)
 
-![](/assets/img/posts/2024-09-05-delius-rezultatami-futbolki-dlia-poiska-raboty-195/photo_87@05-09-2024_17-32-21.jpg)
+![](/blog/assets/img/posts/2024-09-05-delius-rezultatami-futbolki-dlia-poiska-raboty-195/photo_87@05-09-2024_17-32-21.jpg)

@@ -2,14 +2,11 @@
 layout: post
 title: "Театр как «исцеляющая фантазия» – PMF актёрства с эмоциональными"
 date: 2026-03-27 18:42:01 +0300
-thumbnail-img: /assets/img/posts/2026-03-27-teatr-kak-istseliaiushchaia-fantaziia-pmf-420/photo_265@27-03-2026_18-42-01.jpg
+subtitle: "Заметили, сколько в предыдущем посте эмоциональных потребностей? Целый салатик 🥗"
+thumbnail-img: /blog/assets/img/posts/2026-03-27-teatr-kak-istseliaiushchaia-fantaziia-pmf-420/photo_265@27-03-2026_18-42-01.jpg
 telegram_id: 420
 telegram_url: https://t.me/pioblog/420
 ---
-
-**Театр как «исцеляющая фантазия» – PMF актёрства с эмоциональными потребностями.** Часть 2\2
-
-Заметили, сколько в [предыдущем посте](/blog/chem-menia-tak-zatsepila-eta-ideia-postupleniia-na-419-2026-03-25/) эмоциональных потребностей? Целый салатик 🥗
 
 Вот и у меня, когда визуализировал себя в этой среде, мой *уязвимый ребенок* затопал ножками и в голове сразу обесценился предыдущий путь продакта и [достижения](/blog/rezultat-eto-diff-278-2025-03-29/) в айтишке
 
@@ -24,4 +21,4 @@ So, кажется, правда по-середине: часть – реал�
 --
 *Понимание не исцеляет, исцеляет только физический опыт (с)*
 
-![](/assets/img/posts/2026-03-27-teatr-kak-istseliaiushchaia-fantaziia-pmf-420/photo_265@27-03-2026_18-42-01.jpg)
+![](/blog/assets/img/posts/2026-03-27-teatr-kak-istseliaiushchaia-fantaziia-pmf-420/photo_265@27-03-2026_18-42-01.jpg)

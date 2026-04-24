@@ -2,13 +2,11 @@
 layout: post
 title: "Где ещё соприкасаться с новыми людьми, кроме тус с контекстом знакомства?"
 date: 2024-07-22 17:59:36 +0300
-thumbnail-img: /assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_71@22-07-2024_17-59-36.jpg
+subtitle: "Добавил в доклад про нетворк-тусы три новых слайда, делюсь:"
+thumbnail-img: /blog/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_71@22-07-2024_17-59-36.jpg
 telegram_id: 170
 telegram_url: https://t.me/pioblog/170
 ---
-
-**Где ещё соприкасаться с новыми людьми, кроме тус с контекстом знакомства?**
-Добавил в [доклад](/blog/ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120-2023-03-12/) про нетворк-тусы три новых слайда, делюсь:
 
 1) Ходить на лекции\митапы\конфы и нетворкать после докладов или прямо во время них в кулуарах. Задавать вопросы спикеру, знакомиться с участниками, оставаться на афтепати
 
@@ -23,10 +21,10 @@ telegram_url: https://t.me/pioblog/170
 
 4) Поделитесь в комментах, а где вы соприкасаетесь с новыми людьми и часто ли потом сближаетесь?
 
-![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_71@22-07-2024_17-59-36.jpg)
+![](/blog/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_71@22-07-2024_17-59-36.jpg)
 
-![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_72@22-07-2024_17-59-36.jpg)
+![](/blog/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_72@22-07-2024_17-59-36.jpg)
 
-![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_73@22-07-2024_17-59-36.jpg)
+![](/blog/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_73@22-07-2024_17-59-36.jpg)
 
-![](/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_74@22-07-2024_17-59-36.jpg)
+![](/blog/assets/img/posts/2024-07-22-gde-eshche-soprikasatsia-s-novymi-liudmi-krome-tus-170/photo_74@22-07-2024_17-59-36.jpg)

@@ -2,14 +2,11 @@
 layout: post
 title: "Чем меня так зацепила эта идея поступления на актёра? Часть 1\\2"
 date: 2026-03-25 18:33:00 +0300
-thumbnail-img: /assets/img/posts/2026-03-25-chem-menia-tak-zatsepila-eta-ideia-postupleniia-na-419/photo_264@25-03-2026_18-33-00.jpg
+subtitle: "Смотрите, сколько всего интересного я увидел в образе учебы в театральном"
+thumbnail-img: /blog/assets/img/posts/2026-03-25-chem-menia-tak-zatsepila-eta-ideia-postupleniia-na-419/photo_264@25-03-2026_18-33-00.jpg
 telegram_id: 419
 telegram_url: https://t.me/pioblog/419
 ---
-
-**Чем меня так зацепила эта идея поступления на актёра**? Часть 1\2
-
-Смотрите, сколько всего интересного я увидел в образе учебы в театральном
 
 **— Жизнь в настоящем**
 (✦) Весь день на парах оффлайн irl – наводишь суету, а не неподвижно вайбкодишь в офисе
@@ -26,4 +23,4 @@ telegram_url: https://t.me/pioblog/419
 
 В след. посте расскажу, какой «отрезвляющий фильтр» я словил с этим всем
 
-![](/assets/img/posts/2026-03-25-chem-menia-tak-zatsepila-eta-ideia-postupleniia-na-419/photo_264@25-03-2026_18-33-00.jpg)
+![](/blog/assets/img/posts/2026-03-25-chem-menia-tak-zatsepila-eta-ideia-postupleniia-na-419/photo_264@25-03-2026_18-33-00.jpg)

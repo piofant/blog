@@ -2,13 +2,11 @@
 layout: post
 title: "Как перейти из разработчика в продакты?"
 date: 2026-02-06 18:26:42 +0300
-thumbnail-img: /assets/img/posts/2026-02-06-kak-pereiti-iz-razrabotchika-v-prodakty-394/photo_243@06-02-2026_18-26-42.jpg
+subtitle: "Этот вопрос мне чаще всего задают коворкеры с кронвы и мои одногруппники"
+thumbnail-img: /blog/assets/img/posts/2026-02-06-kak-pereiti-iz-razrabotchika-v-prodakty-394/photo_243@06-02-2026_18-26-42.jpg
 telegram_id: 394
 telegram_url: https://t.me/pioblog/394
 ---
-
-**Как перейти из разработчика в продакты?**
-Этот вопрос мне чаще всего задают коворкеры с кронвы и мои одногруппники
 
 Знакомьтесь, [Арслан](https://t.me/ArsIsChanging) – мой кореш из ИТМО, свопнулся с мидла бекендера в финтехе Яндекса на продакта в Ozon банке
 
@@ -47,4 +45,4 @@ telegram_url: https://t.me/pioblog/394
 - Ильи из T: <https://t.me/easylaneoff/437>
 - Юры из Озона: <https://t.me/kukuyura_blog/53>
 
-![](/assets/img/posts/2026-02-06-kak-pereiti-iz-razrabotchika-v-prodakty-394/photo_243@06-02-2026_18-26-42.jpg)
+![](/blog/assets/img/posts/2026-02-06-kak-pereiti-iz-razrabotchika-v-prodakty-394/photo_243@06-02-2026_18-26-42.jpg)

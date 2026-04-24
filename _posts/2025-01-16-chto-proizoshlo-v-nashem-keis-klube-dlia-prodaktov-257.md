@@ -2,14 +2,12 @@
 layout: post
 title: "Что произошло в нашем кейс-клубе для продактов за год? И почему ты ещё не с"
 date: 2025-01-16 10:07:14 +0300
-thumbnail-img: /assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_132@16-01-2025_10-07-14.jpg
+subtitle: "Из жизни клуба:- разобрали порядка 15-ти кейсовых задач разных типов и размеров (от микро-кейсов с собесов до огромных тестовых на неделю)"
+thumbnail-img: /blog/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_132@16-01-2025_10-07-14.jpg
 telegram_id: 257
 telegram_url: https://t.me/pioblog/257
 ---
 
-**Что произошло в нашем кейс-клубе для продактов за год?** И почему ты ещё не с нами?
-
-> **Из жизни клуба:**- разобрали порядка 15-ти кейсовых задач разных типов и размеров (от микро-кейсов с собесов до огромных тестовых на неделю)
 - много флудили про карьеру, собесы, стажировки в бигтехах
 - несколько раз собрались в зуме: прожарить решения кейсов друг друга, обменяться опытом [про поиск менторов](https://t.me/not_tldr/479) и др.
 - 1 раз очно встретились в коллабе с case runners на кейсик + доклады + пиццу, и 2 раза очно затусили на продукт кемпах
@@ -32,8 +30,8 @@ telegram_url: https://t.me/pioblog/257
 **Почему ты ещё не с нами?**
 [Заполняй форму](https://online-qr.ru/vova_case_club?utm_source=pioblog_second_post) и становись частью нашего микро комьюнити продактов (это бесплатно)
 
-![](/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_132@16-01-2025_10-07-14.jpg)
+![](/blog/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_132@16-01-2025_10-07-14.jpg)
 
-![](/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_133@16-01-2025_10-07-14.jpg)
+![](/blog/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_133@16-01-2025_10-07-14.jpg)
 
-![](/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_134@16-01-2025_10-07-14.jpg)
+![](/blog/assets/img/posts/2025-01-16-chto-proizoshlo-v-nashem-keis-klube-dlia-prodaktov-257/photo_134@16-01-2025_10-07-14.jpg)

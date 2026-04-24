@@ -2,14 +2,11 @@
 layout: post
 title: "Как найти работу стажером/джуном продактом"
 date: 2024-03-01 17:28:03 +0300
-thumbnail-img: /assets/img/posts/2024-03-01-kak-naiti-rabotu-stazherom-dzhunom-prodaktom-142/photo_50@01-03-2024_17-28-26.jpg
+subtitle: "Мой путь до стажировки продактом в Яндексе. Часть 2"
+thumbnail-img: /blog/assets/img/posts/2024-03-01-kak-naiti-rabotu-stazherom-dzhunom-prodaktom-142/photo_50@01-03-2024_17-28-26.jpg
 telegram_id: 142
 telegram_url: https://t.me/pioblog/142
 ---
-
-**Как найти работу стажером/джуном продактом**
-
-**Мой путь до стажировки продактом в Яндексе. Часть 2**
 
 Текущая ситуация на рынке джунов и так не простая, а вакансии на стажера-джуна продакта это вообще что-то супер редкое, потому что чаще всего в продакты переходят из проджектов, маркетологов, аналитиков и разработчиков и др.
 
@@ -30,4 +27,4 @@ telegram_url: https://t.me/pioblog/142
 
 допом: пост с саммари доклада Глеба Кудрявцева про текущий рынок продактов со стороны кандидата и нанимающего <https://t.me/not_tldr/413>
 
-![](/assets/img/posts/2024-03-01-kak-naiti-rabotu-stazherom-dzhunom-prodaktom-142/photo_50@01-03-2024_17-28-26.jpg)
+![](/blog/assets/img/posts/2024-03-01-kak-naiti-rabotu-stazherom-dzhunom-prodaktom-142/photo_50@01-03-2024_17-28-26.jpg)

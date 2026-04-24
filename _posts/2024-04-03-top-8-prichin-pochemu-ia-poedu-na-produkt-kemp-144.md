@@ -2,12 +2,11 @@
 layout: post
 title: "Топ-8 причин почему я поеду на продукт кемп весна 2024"
 date: 2024-04-03 19:55:20 +0300
-thumbnail-img: /assets/img/posts/2024-04-03-top-8-prichin-pochemu-ia-poedu-na-produkt-kemp-144/photo_51@03-04-2024_19-55-20.jpg
+subtitle: "Топ-8 причин почему я поеду на продукт кемп весна 2024"
+thumbnail-img: /blog/assets/img/posts/2024-04-03-top-8-prichin-pochemu-ia-poedu-na-produkt-kemp-144/photo_51@03-04-2024_19-55-20.jpg
 telegram_id: 144
 telegram_url: https://t.me/pioblog/144
 ---
-
-Топ-8 причин почему я поеду на [продукт кемп](https://productcamp.ru/?utm_source=telegram&utm_medium=referral&utm_campaign=pioblog&utm_content=pcamp-spring24&clckid=16bc5e64) весна 2024
 
 > утилизировать выходные с пользой
 > посмотреть на красивых людей
@@ -22,4 +21,4 @@ telegram_url: https://t.me/pioblog/144
 
 Если вы тоже едете на продукт кемп — пишите мне ([@piofant](https://t.me/piofant)), увидимся!
 
-![](/assets/img/posts/2024-04-03-top-8-prichin-pochemu-ia-poedu-na-produkt-kemp-144/photo_51@03-04-2024_19-55-20.jpg)
+![](/blog/assets/img/posts/2024-04-03-top-8-prichin-pochemu-ia-poedu-na-produkt-kemp-144/photo_51@03-04-2024_19-55-20.jpg)

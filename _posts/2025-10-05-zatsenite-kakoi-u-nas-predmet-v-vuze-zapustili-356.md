@@ -2,14 +2,11 @@
 layout: post
 title: "Зацените, какой у нас предмет в ВУЗе запустили — 'Создание продуктов на основе"
 date: 2025-10-05 09:18:16 +0300
-thumbnail-img: /assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_211@05-10-2025_09-18-16.jpg
+subtitle: "Главный суетолог — Александр Меркушев, лид продакт в ai-консалтинге yandex cloud — ребят внедряют ИИ b2b клиентам облака, в общем эксперт из индустрии, прикиньте"
+thumbnail-img: /blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_211@05-10-2025_09-18-16.jpg
 telegram_id: 356
 telegram_url: https://t.me/pioblog/356
 ---
-
-**Зацените, какой у нас предмет в ВУЗе запустили — 'Создание продуктов на основе ИИ'**
-
-Главный суетолог — [Александр Меркушев](https://www.linkedin.com/in/alexander-merkushev-073456184/), лид продакт в ai-консалтинге yandex cloud — ребят внедряют ИИ b2b клиентам облака, в общем эксперт из индустрии, прикиньте
 
 **Так и как создавать?**
 На самом деле обычный *продуктовый флоу*, и решение с ИИ будет просто одним из решений в скориновом списке
@@ -30,16 +27,16 @@ telegram_url: https://t.me/pioblog/356
 
 *> А какие ИИ-продукты то в итоге создали?*Это осталось на самостоятельное изучение, см. в следующих сериях..
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_211@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_211@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_212@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_212@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_213@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_213@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_214@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_214@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_215@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_215@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_216@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_216@05-10-2025_09-18-16.jpg)
 
-![](/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_217@05-10-2025_09-18-16.jpg)
+![](/blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_217@05-10-2025_09-18-16.jpg)

@@ -2,14 +2,12 @@
 layout: post
 title: "Я сбежал с випассаны от себя на 4-й день"
 date: 2025-05-06 16:03:03 +0300
-thumbnail-img: /assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_151@06-05-2025_16-03-03.jpg
+subtitle: "День 1"
+thumbnail-img: /blog/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_151@06-05-2025_16-03-03.jpg
 telegram_id: 284
 telegram_url: https://t.me/pioblog/284
 ---
 
-**Я сбежал с випассаны от себя на 4-й день**
-
-**День 1**
 - когда я слышу песнопения и кучу непонятных незнакомых слов учителя, я чувствую раздражение
 - фоном в голове играет музыка (и играла все дни дальше, оч разная и даже из детства что-то пробиралось)
 - заметил, что сначала смотрю и даю оценку происходящему со стороны, только потом могу стать частью и посмотреть на себя
@@ -52,14 +50,14 @@ telegram_url: https://t.me/pioblog/284
 > you're bound to be successful,
 > bound to be successful
 
-![](/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_151@06-05-2025_16-03-03.jpg)
+![](/blog/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_151@06-05-2025_16-03-03.jpg)
 
-![](/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_152@06-05-2025_16-03-03.jpg)
+![](/blog/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_152@06-05-2025_16-03-03.jpg)
 
-![](/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_153@06-05-2025_16-03-03.jpg)
+![](/blog/assets/img/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/photo_153@06-05-2025_16-03-03.jpg)
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
-  <source src="/assets/video/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/video_2025-05-06_14-19-01.mp4" type="video/mp4">
+  <source src="/blog/assets/video/posts/2025-05-06-ia-sbezhal-s-vipassany-ot-sebia-na-4-i-den-284/video_2025-05-06_14-19-01.mp4" type="video/mp4">
 </video>
 
 [Оригинал в Telegram →](https://t.me/pioblog/284)

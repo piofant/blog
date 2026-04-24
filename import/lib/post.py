@@ -13,6 +13,7 @@ class Post:
     slug: str
     tags: list[str]
     body_md: str
+    subtitle: str | None = None
     thumbnail: str | None = None
     series_id: str | None = None
     series_part: int | None = None
@@ -33,6 +34,8 @@ def render_post_file(p: Post) -> str:
     lines = ["---", "layout: post",
              f'title: "{_escape_yaml_string(p.title)}"',
              f"date: {_format_date(p.date)}"]
+    if p.subtitle:
+        lines.append(f'subtitle: "{_escape_yaml_string(p.subtitle)}"')
     if p.tags:
         lines.append("tags: [" + ", ".join(p.tags) + "]")
     if p.thumbnail:

@@ -2,14 +2,11 @@
 layout: post
 title: "Трип на Бессонницу: телесные практики, полиаморы и изобилие"
 date: 2025-07-23 18:25:07 +0300
-thumbnail-img: /assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_182@23-07-2025_18-25-07.jpg
+subtitle: "Это такой фестиваль в лесу, где ночью показывают мультики, а днем всякие мастер-классы. 4-й год подряд слышал, как много кто из знакомых ездит туда и вот попробовал доехать сам"
+thumbnail-img: /blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_182@23-07-2025_18-25-07.jpg
 telegram_id: 319
 telegram_url: https://t.me/pioblog/319
 ---
-
-**Трип на Бессонницу**: телесные практики, полиаморы и изобилие
-
-Это такой фестиваль в лесу, где ночью показывают мультики, а днем всякие мастер-классы. 4-й год подряд слышал, как много кто из знакомых ездит туда и вот попробовал доехать сам, делюсь опытом
 
 **Пипл**
 Было невероятно много людей — вроде как под 10.000чел, на контрасте с локальным [хиппи-фестивалем](/blog/6-dnei-s-randomami-v-lesu-ili-zhizn-v-313-2025-07-13/), где было порядка 70чел в пике и вайбы большой семьи, было непривычно первый день
@@ -27,14 +24,14 @@ telegram_url: https://t.me/pioblog/319
 
 NPS фестика 4\5, за изобилием практик и знакомых вокруг можно возвращаться
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_182@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_182@23-07-2025_18-25-07.jpg)
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_183@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_183@23-07-2025_18-25-07.jpg)
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_184@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_184@23-07-2025_18-25-07.jpg)
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_185@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_185@23-07-2025_18-25-07.jpg)
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_186@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_186@23-07-2025_18-25-07.jpg)
 
-![](/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_187@23-07-2025_18-25-07.jpg)
+![](/blog/assets/img/posts/2025-07-23-trip-na-bessonnitsu-telesnye-praktiki-poliamory-i-319/photo_187@23-07-2025_18-25-07.jpg)

@@ -2,13 +2,11 @@
 layout: post
 title: "Безусловное принятие"
 date: 2026-01-07 22:28:29 +0300
-thumbnail-img: /assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_238@07-01-2026_22-28-29.jpg
+subtitle: "На состояние 01.26 я нашёл три места в жизни, где оно есть перманентно и стабильно"
+thumbnail-img: /blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_238@07-01-2026_22-28-29.jpg
 telegram_id: 387
 telegram_url: https://t.me/pioblog/387
 ---
-
-**Безусловное принятие**
-На состояние 01.26 я нашёл три места в жизни, где оно есть перманентно и стабильно
 
 **(1) Туса протестантов в коворкинге на Петроге по воскресеньям**
 у них особый вайб, с первого дня с тобой знакомятся, онбордят и вообще всегда рады тебя видеть и спросят как дела; каждую неделю песенки с электронной музыкой и потом лёгкое общение-чай-кофе
@@ -31,12 +29,12 @@ telegram_url: https://t.me/pioblog/387
 --
 А какие места с безусловным принятием есть в вашей жизни?
 
-![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_238@07-01-2026_22-28-29.jpg)
+![](/blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_238@07-01-2026_22-28-29.jpg)
 
-![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_239@07-01-2026_22-28-29.jpg)
+![](/blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_239@07-01-2026_22-28-29.jpg)
 
-![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_240@07-01-2026_22-28-29.jpg)
+![](/blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_240@07-01-2026_22-28-29.jpg)
 
-![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_241@07-01-2026_22-28-29.jpg)
+![](/blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_241@07-01-2026_22-28-29.jpg)
 
-![](/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_242@07-01-2026_22-28-29.jpg)
+![](/blog/assets/img/posts/2026-01-07-bezuslovnoe-priniatie-387/photo_242@07-01-2026_22-28-29.jpg)

@@ -2,13 +2,13 @@
 layout: post
 title: "#я_не_умру_с_голоду"
 date: 2025-12-19 16:01:57 +0300
+subtitle: "я\\не\\умру\\с\\голоду"
 tags: [я_не_умру_с_голоду]
-thumbnail-img: /assets/img/posts/2025-12-19-ia-ne-umru-s-golodu-384/photo_235@19-12-2025_16-01-57.jpg
+thumbnail-img: /blog/assets/img/posts/2025-12-19-ia-ne-umru-s-golodu-384/photo_235@19-12-2025_16-01-57.jpg
 telegram_id: 384
 telegram_url: https://t.me/pioblog/384
 ---
 
-#я\_не\_умру\_с\_голоду
 школьный проектик внезапно стал приносить прибыль
 
 [**в школьные годы**]
@@ -30,4 +30,4 @@ telegram_url: https://t.me/pioblog/384
 в след. посте расскажу про fresh запуск ИИ-зации для роста числа новых сабов, и к чему это привело, а к этому прикрепил фоточку из школьных лет с моими корешами
 upd рассказал – </blog/zapustili-ii-generatsiiu-sammari-v-kontent-mashine-392-2026-01-13/>
 
-![](/assets/img/posts/2025-12-19-ia-ne-umru-s-golodu-384/photo_235@19-12-2025_16-01-57.jpg)
+![](/blog/assets/img/posts/2025-12-19-ia-ne-umru-s-golodu-384/photo_235@19-12-2025_16-01-57.jpg)

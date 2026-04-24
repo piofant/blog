@@ -2,14 +2,11 @@
 layout: post
 title: "⚡️ open-call эдтехам и всем остальным: го дадим ценность 5000 абитуриентам"
 date: 2025-06-13 19:43:06 +0300
-thumbnail-img: /assets/img/posts/2025-06-13-open-call-edtekham-i-vsem-ostalnym-go-dadim-306/photo_171@13-06-2025_19-43-06.jpg
+subtitle: "контексту меня под рукой нишевой ресурс, где тусуются 5К старшеклассников-технарей, средний охват ≈ 2К, ERR ≈ 30%"
+thumbnail-img: /blog/assets/img/posts/2025-06-13-open-call-edtekham-i-vsem-ostalnym-go-dadim-306/photo_171@13-06-2025_19-43-06.jpg
 telegram_id: 306
 telegram_url: https://t.me/pioblog/306
 ---
-
-**⚡️ open-call эдтехам и всем остальным: го дадим ценность 5000 абитуриентам**
-
-**контекст**у меня под рукой нишевой ресурс, где тусуются 5К старшеклассников-технарей, средний охват ≈ 2К, ERR ≈ 30%
 
 **что происходит**
 сейчас большая доля них сдала ЕГЭ и вот-вот вступит во взрослую жизнь: поступит в вузик, переедет в другой город, аудитория максимально «тёплая», после — часть ребят уйдёт
@@ -25,4 +22,4 @@ telegram_url: https://t.me/pioblog/306
 
 Давайте поможем абитуре облегчить старт вузовской жизни!
 
-![](/assets/img/posts/2025-06-13-open-call-edtekham-i-vsem-ostalnym-go-dadim-306/photo_171@13-06-2025_19-43-06.jpg)
+![](/blog/assets/img/posts/2025-06-13-open-call-edtekham-i-vsem-ostalnym-go-dadim-306/photo_171@13-06-2025_19-43-06.jpg)

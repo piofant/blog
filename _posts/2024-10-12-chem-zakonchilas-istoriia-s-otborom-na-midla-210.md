@@ -2,12 +2,11 @@
 layout: post
 title: "Чем закончилась история с отбором на мидла продакта в Доставку"
 date: 2024-10-12 13:44:27 +0300
-thumbnail-img: /assets/img/posts/2024-10-12-chem-zakonchilas-istoriia-s-otborom-na-midla-210/photo_97@12-10-2024_13-44-27.jpg
+subtitle: "Чем закончилась история с отбором на мидла продакта в Доставку"
+thumbnail-img: /blog/assets/img/posts/2024-10-12-chem-zakonchilas-istoriia-s-otborom-na-midla-210/photo_97@12-10-2024_13-44-27.jpg
 telegram_id: 210
 telegram_url: https://t.me/pioblog/210
 ---
-
-**Чем закончилась** [история](/blog/kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207-2024-10-09/) **с отбором на мидла продакта в Доставку**
 
 Дальнейший таймлайн был такой: защита тестового → реджект
 
@@ -19,4 +18,4 @@ telegram_url: https://t.me/pioblog/210
 
 **📍 Вывод по кейсу**: глубокое погружение в роль пользователя продукта, в который отбираешься, позволяет (а) лучше сделать тестовое и (б) показать high мотивацию, но не гарантирует успеха
 
-![](/assets/img/posts/2024-10-12-chem-zakonchilas-istoriia-s-otborom-na-midla-210/photo_97@12-10-2024_13-44-27.jpg)
+![](/blog/assets/img/posts/2024-10-12-chem-zakonchilas-istoriia-s-otborom-na-midla-210/photo_97@12-10-2024_13-44-27.jpg)

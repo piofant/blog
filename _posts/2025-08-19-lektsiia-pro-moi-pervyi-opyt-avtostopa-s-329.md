@@ -2,14 +2,11 @@
 layout: post
 title: "Лекция про мой первый опыт автостопа: с результатами и впечатлениями"
 date: 2025-08-19 20:26:14 +0300
-thumbnail-img: /assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg
+subtitle: "Рассказывал её ребятам на снс-тусе у Юры в июле, а вот и запись подоспела"
+thumbnail-img: /blog/assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg
 telegram_id: 329
 telegram_url: https://t.me/pioblog/329
 ---
-
-**Лекция про мой первый опыт автостопа:** с результатами и впечатлениями
-
-Рассказывал её ребятам на снс-тусе у Юры в июле, а вот и запись подоспела
 
 Внутри:
 00:19 обо мне и моем опыте путешествий
@@ -28,4 +25,4 @@ telegram_url: https://t.me/pioblog/329
 
 [Оригинал в Telegram →](https://t.me/pioblog/329)
 
-![](/assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg)
+![](/blog/assets/img/posts/2025-08-19-lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329/photo_192@19-08-2025_20-26-14.jpg)

@@ -2,12 +2,10 @@
 layout: post
 title: "Самопрезентация для собеса: как составить, что даёт и как конвертит?"
 date: 2025-03-12 12:59:17 +0300
+subtitle: "Делюсь опытом и 2-мя рефами часть 1"
 telegram_id: 271
 telegram_url: https://t.me/pioblog/271
 ---
-
-**Самопрезентация для собеса: как составить, что даёт и как конвертит?**
-Делюсь опытом и 2-мя рефами [часть 1]
 
 **Чтобы что**
 1. Помогает структурировать опыт
@@ -40,7 +38,7 @@ telegram_url: https://t.me/pioblog/271
 Upd: написал </blog/ia-prikrepil-video-samoprezentatsiiu-k-100-272-2025-03-13/>
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
-  <source src="/assets/video/posts/2025-03-12-samoprezentatsiia-dlia-sobesa-kak-sostavit-chto-271/11.03.2025 (6) .mp4" type="video/mp4">
+  <source src="/blog/assets/video/posts/2025-03-12-samoprezentatsiia-dlia-sobesa-kak-sostavit-chto-271/11.03.2025 (6) .mp4" type="video/mp4">
 </video>
 
 [Оригинал в Telegram →](https://t.me/pioblog/271)

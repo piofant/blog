@@ -2,14 +2,12 @@
 layout: post
 title: "Провел первую kinda коучинговую сессию, делюсь впечатлениями"
 date: 2025-10-18 15:42:19 +0300
-thumbnail-img: /assets/img/posts/2025-10-18-provel-pervuiu-kinda-kouchingovuiu-sessiiu-delius-369/photo_221@18-10-2025_15-42-19.jpg
+subtitle: "Контекст"
+thumbnail-img: /blog/assets/img/posts/2025-10-18-provel-pervuiu-kinda-kouchingovuiu-sessiiu-delius-369/photo_221@18-10-2025_15-42-19.jpg
 telegram_id: 369
 telegram_url: https://t.me/pioblog/369
 ---
 
-**Провел первую kinda коучинговую сессию, делюсь впечатлениями**
-
-**Контекст**
 ко мне приходят на [менторство](http://online-qr.ru/vova_mentor?utm_source=pioblog_coaching) по продукту и порой чувствуется, что в запросах менти полезно попросить самим дать ответы на свои вопросы, попушить к самостоятельному действию, а не только делиться своим опытом и советами
 
 **Микро-сетап на коучинг**
@@ -38,4 +36,4 @@ telegram_url: https://t.me/pioblog/369
 
 поэтому.. если вы коучите или хотите попробовать - [го коучить друг друга 1-1](http://t.me/piofant)
 
-![](/assets/img/posts/2025-10-18-provel-pervuiu-kinda-kouchingovuiu-sessiiu-delius-369/photo_221@18-10-2025_15-42-19.jpg)
+![](/blog/assets/img/posts/2025-10-18-provel-pervuiu-kinda-kouchingovuiu-sessiiu-delius-369/photo_221@18-10-2025_15-42-19.jpg)

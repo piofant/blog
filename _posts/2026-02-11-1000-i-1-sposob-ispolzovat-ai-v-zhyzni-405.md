@@ -2,14 +2,11 @@
 layout: post
 title: "1000 и 1 способ использовать ai в жызни"
 date: 2026-02-11 13:53:49 +0300
-thumbnail-img: /assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_254@11-02-2026_13-53-49.jpg
+subtitle: "сгенерил интерактивчик на др друга – квиз с вопросами про него на основе его соц-сетей"
+thumbnail-img: /blog/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_254@11-02-2026_13-53-49.jpg
 telegram_id: 405
 telegram_url: https://t.me/pioblog/405
 ---
-
-**1000 и 1 способ использовать ai в жызни**
-
-сгенерил интерактивчик на др друга – квиз с вопросами про него на основе его соц-сетей
 
 **how to**
 – спарсил курсором соц-сети друга (тележка, ig) за все годы – тексты, картинки и ugc-комменты
@@ -84,8 +81,8 @@ telegram_url: https://t.me/pioblog/405
 
 ps [Миша](https://t.me/misha_light_xx), с др
 
-![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_254@11-02-2026_13-53-49.jpg)
+![](/blog/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_254@11-02-2026_13-53-49.jpg)
 
-![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_255@11-02-2026_13-53-49.jpg)
+![](/blog/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_255@11-02-2026_13-53-49.jpg)
 
-![](/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_256@11-02-2026_13-53-49.jpg)
+![](/blog/assets/img/posts/2026-02-11-1000-i-1-sposob-ispolzovat-ai-v-zhyzni-405/photo_256@11-02-2026_13-53-49.jpg)

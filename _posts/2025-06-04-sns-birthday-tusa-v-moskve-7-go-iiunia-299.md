@@ -2,14 +2,11 @@
 layout: post
 title: "sns-birthday-туса в Москве 7-го июня"
 date: 2025-06-04 16:26:11 +0300
-thumbnail-img: /assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_164@04-06-2025_16-26-11.jpg
+subtitle: "ого, Вове 7-го числа будет 21 годик (а Пушкину шестого было бы двести двадцать шесть), по случаю можно запилить снс-тусу про знакомство и общение"
+thumbnail-img: /blog/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_164@04-06-2025_16-26-11.jpg
 telegram_id: 299
 telegram_url: https://t.me/pioblog/299
 ---
-
-**sns-birthday-туса в Москве 7-го июня**
-
-ого, Вове 7-го числа будет 21 годик (а Пушкину шестого было бы двести двадцать шесть), по случаю можно запилить снс-тусу про знакомство и общение
 
 **sns-туса — это когда**
 максимальный onboarding в social mode: поменьше pre-existing connections, но все заранее dropают свои whois в чат тусы, на входе клеят на себя тег-стикеры с interests & talking points, и весь setup — про soft intro, low-barrier коммуникацию, embedded context of знакомства и organic social graph building прямо на месте
@@ -25,8 +22,8 @@ telegram_url: https://t.me/pioblog/299
 
 **как придти**: написать [@piofant](https://t.me/piofant) → добавиться в чат → прислать хуиз → опционально взять плюсодина
 
-![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_164@04-06-2025_16-26-11.jpg)
+![](/blog/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_164@04-06-2025_16-26-11.jpg)
 
-![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_165@04-06-2025_16-26-11.jpg)
+![](/blog/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_165@04-06-2025_16-26-11.jpg)
 
-![](/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_166@04-06-2025_16-26-11.jpg)
+![](/blog/assets/img/posts/2025-06-04-sns-birthday-tusa-v-moskve-7-go-iiunia-299/photo_166@04-06-2025_16-26-11.jpg)

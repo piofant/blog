@@ -2,14 +2,11 @@
 layout: post
 title: "Я в Яндексе, стажёр менеджер продукта"
 date: 2023-10-07 20:22:09 +0300
-thumbnail-img: /assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_41@07-10-2023_20-22-09.jpg
+subtitle: "Почему я вижу себя в роли продакта — рассказывал здесь, а в следующих постах поделюсь мыслями про путь до стажера-джуна продакта"
+thumbnail-img: /blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_41@07-10-2023_20-22-09.jpg
 telegram_id: 132
 telegram_url: https://t.me/pioblog/132
 ---
-
-Я в Яндексе, стажёр менеджер продукта
-
-Почему я вижу себя в роли продакта — рассказывал [здесь](/blog/pochemu-ia-reshil-stat-prodakt-menedzherom-pm-126-2023-04-19/), а в следующих постах поделюсь мыслями про путь до стажера-джуна продакта
 
 **Мой путь до стажировки продактом в Яндексе**:
 
@@ -21,18 +18,18 @@ telegram_url: https://t.me/pioblog/132
 
 Далее. [Про что для меня работа в Яндексе](/blog/zapis-ot-26-maia-2024-150-2024-05-26/)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_41@07-10-2023_20-22-09.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_41@07-10-2023_20-22-09.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_42@07-10-2023_20-22-09.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_42@07-10-2023_20-22-09.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_43@07-10-2023_20-22-09.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_43@07-10-2023_20-22-09.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_44@07-10-2023_20-22-09.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_44@07-10-2023_20-22-09.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_45@07-10-2023_20-22-09.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_45@07-10-2023_20-22-09.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_46@07-10-2023_20-22-10.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_46@07-10-2023_20-22-10.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_47@07-10-2023_20-22-10.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_47@07-10-2023_20-22-10.jpg)
 
-![](/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_48@07-10-2023_20-22-10.jpg)
+![](/blog/assets/img/posts/2023-10-07-ia-v-iandekse-stazher-menedzher-produkta-132/photo_48@07-10-2023_20-22-10.jpg)

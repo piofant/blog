@@ -2,14 +2,11 @@
 layout: post
 title: "трип в хорошее настроение на продукт кемп весна 2025"
 date: 2025-05-26 23:17:23 +0300
-thumbnail-img: /assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_160@26-05-2025_23-17-23.jpg
+subtitle: "уже в четвертый раз сгонял на самую ламповую не-конференцию для всех, кто связан с разработкой продуктов"
+thumbnail-img: /blog/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_160@26-05-2025_23-17-23.jpg
 telegram_id: 295
 telegram_url: https://t.me/pioblog/295
 ---
-
-**трип в хорошее настроение на продукт кемп весна 2025**
-
-уже в четвертый раз сгонял на самую ламповую не-конференцию для всех, кто связан с разработкой продуктов
 
 Из прикольного в этот раз:
 - на часик поразгоняли за особенности mental health рынка и кастдевы психологов с прекрасной Вероникой из [@custdevica](https://t.me/custdevica), спасибо Никите Буравкину за интро
@@ -21,10 +18,10 @@ telegram_url: https://t.me/pioblog/295
 
 до встречи на кемпе в августе!!
 
-![](/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_160@26-05-2025_23-17-23.jpg)
+![](/blog/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_160@26-05-2025_23-17-23.jpg)
 
-![](/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_161@26-05-2025_23-17-23.jpg)
+![](/blog/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_161@26-05-2025_23-17-23.jpg)
 
-![](/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_162@26-05-2025_23-17-23.jpg)
+![](/blog/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_162@26-05-2025_23-17-23.jpg)
 
-![](/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_163@26-05-2025_23-17-23.jpg)
+![](/blog/assets/img/posts/2025-05-26-trip-v-khoroshee-nastroenie-na-produkt-kemp-vesna-295/photo_163@26-05-2025_23-17-23.jpg)

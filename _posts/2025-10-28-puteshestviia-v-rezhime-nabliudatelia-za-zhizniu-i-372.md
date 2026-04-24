@@ -2,14 +2,11 @@
 layout: post
 title: "Путешествия в режиме наблюдателя [за жизнью и историями людей]"
 date: 2025-10-28 17:41:01 +0300
-thumbnail-img: /assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_223@28-10-2025_17-41-01.jpg
+subtitle: "Вот эта стандартная история, формата: приезжаешь в город, селишься в отель и ходишь смотришь море, архитектуру, да хоть грибы с глазами в Рязани — вообще не вау, там нет эмоций"
+thumbnail-img: /blog/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_223@28-10-2025_17-41-01.jpg
 telegram_id: 372
 telegram_url: https://t.me/pioblog/372
 ---
-
-**Путешествия в режиме наблюдателя** [за жизнью и историями людей]
-
-Вот эта стандартная история, формата: приезжаешь в город, селишься в отель и ходишь смотришь море, архитектуру, да хоть грибы с глазами [в Рязани] — вообще не вау, там нет эмоций
 
 Мне нравится проживать **живые реальные истории**, чувствовать, какая жизнь у других людей, а не чиллить в отельчике в халатике с салатиком
 
@@ -24,8 +21,8 @@ telegram_url: https://t.me/pioblog/372
 
 [2 часть](/blog/puteshestviia-v-rezhime-nabliudatelia-chast-2-375-2025-10-29/)
 
-![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_223@28-10-2025_17-41-01.jpg)
+![](/blog/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_223@28-10-2025_17-41-01.jpg)
 
-![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_224@28-10-2025_17-41-01.jpg)
+![](/blog/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_224@28-10-2025_17-41-01.jpg)
 
-![](/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_225@28-10-2025_17-41-01.jpg)
+![](/blog/assets/img/posts/2025-10-28-puteshestviia-v-rezhime-nabliudatelia-za-zhizniu-i-372/photo_225@28-10-2025_17-41-01.jpg)

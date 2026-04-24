@@ -2,14 +2,11 @@
 layout: post
 title: "Как я решаю тестовые на продакта? Подход «Как на работе» [часть 1\\2]"
 date: 2024-10-04 18:01:07 +0300
-thumbnail-img: /assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_90@04-10-2024_18-01-07.jpg
+subtitle: "Этим подходом со мной поделился Паша, когда я решал тестовое для Яндекс.Доставки, и я решил зафиксировать его здесь себе в будущее, чтоб не забывать"
+thumbnail-img: /blog/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_90@04-10-2024_18-01-07.jpg
 telegram_id: 202
 telegram_url: https://t.me/pioblog/202
 ---
-
-**Как я решаю тестовые на продакта? Подход «Как на работе»** [часть 1\2]
-
-Этим подходом со мной поделился [Паша](https://t.me/beginner_fintech), когда я решал тестовое для Яндекс.Доставки, и я решил зафиксировать его здесь себе в будущее, чтоб не забывать
 
 Идея в том, что бы в решении описывать действия, которые ты бы сделал, если бы такая задачка была на работе, и при недостатке вводных делать assumption'ы (предположения или допущения) и, в идеале, основываясь на них, придти к результатам
 
@@ -29,10 +26,10 @@ telegram_url: https://t.me/pioblog/202
 
 [Часть 2](/blog/kak-ia-reshaiu-testovye-na-prodakta-2-chast-235-2024-11-13/)
 
-![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_90@04-10-2024_18-01-07.jpg)
+![](/blog/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_90@04-10-2024_18-01-07.jpg)
 
-![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_91@04-10-2024_18-01-07.jpg)
+![](/blog/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_91@04-10-2024_18-01-07.jpg)
 
-![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_92@04-10-2024_18-01-07.jpg)
+![](/blog/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_92@04-10-2024_18-01-07.jpg)
 
-![](/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_93@04-10-2024_18-01-07.jpg)
+![](/blog/assets/img/posts/2024-10-04-kak-ia-reshaiu-testovye-na-prodakta-podkhod-kak-na-202/photo_93@04-10-2024_18-01-07.jpg)

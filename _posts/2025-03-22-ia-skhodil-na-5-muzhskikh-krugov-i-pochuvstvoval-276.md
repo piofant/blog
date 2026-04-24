@@ -2,14 +2,12 @@
 layout: post
 title: "я сходил на 5+ мужских кругов и почувствовал радость, близость, объединение"
 date: 2025-03-22 20:19:51 +0300
-thumbnail-img: /assets/img/posts/2025-03-22-ia-skhodil-na-5-muzhskikh-krugov-i-pochuvstvoval-276/photo_145@22-03-2025_20-19-51.jpg
+subtitle: "что это"
+thumbnail-img: /blog/assets/img/posts/2025-03-22-ia-skhodil-na-5-muzhskikh-krugov-i-pochuvstvoval-276/photo_145@22-03-2025_20-19-51.jpg
 telegram_id: 276
 telegram_url: https://t.me/pioblog/276
 ---
 
-**я сходил на 5+ мужских кругов** и почувствовал радость, близость, объединение
-
-**[что это]**
 - это как [практика эмпатии](/blog/freimvork-khoroshego-sostoianiia-i-kucha-ssylok-na-131-2023-08-27/), но в кругу мужчин и с чуть более строгой фасилитацией про тайминги
 - каждый рассказывает свою историю по теме круга, например *«отец внутри меня»* или *«как я проявляюсь в отношениях»*
 - затем парни делятся я-сообщениями «я почувствовал» [узнавание, тепло, злость etc], и никаких непрошенных советов или рационализации
@@ -30,4 +28,4 @@ telegram_url: https://t.me/pioblog/276
 
 *\* еще один пост про круги -* </blog/muzhskie-krugi-stali-chastiu-moei-zhizni-i-vot-333-2025-08-28/>
 
-![](/assets/img/posts/2025-03-22-ia-skhodil-na-5-muzhskikh-krugov-i-pochuvstvoval-276/photo_145@22-03-2025_20-19-51.jpg)
+![](/blog/assets/img/posts/2025-03-22-ia-skhodil-na-5-muzhskikh-krugov-i-pochuvstvoval-276/photo_145@22-03-2025_20-19-51.jpg)

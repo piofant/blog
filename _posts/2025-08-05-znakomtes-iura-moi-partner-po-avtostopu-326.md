@@ -2,14 +2,11 @@
 layout: post
 title: "Знакомьтесь, Юра — мой партнёр по автостопу"
 date: 2025-08-05 20:28:41 +0300
-thumbnail-img: /assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_189@05-08-2025_20-28-41.jpg
+subtitle: "Мы провели вместе 6 дней и проехали от Москвы до Ульяновска"
+thumbnail-img: /blog/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_189@05-08-2025_20-28-41.jpg
 telegram_id: 326
 telegram_url: https://t.me/pioblog/326
 ---
-
-**Знакомьтесь, Юра — мой партнёр по автостопу**
-
-Мы провели вместе 6 дней и проехали от Москвы до Ульяновска
 
 За время совместного путешествия я заметил у Юры **принципы, которые, как мне показалось, помогают ему в автостопе**, ими и поделюсь в этом посте
 
@@ -28,8 +25,8 @@ telegram_url: https://t.me/pioblog/326
 
 Я уже сейчас чувствую, как зеркальными нейронами осознанно и не осознанно забираю в себя кусочки этих принципов, — и мне нравится, как я меняюсь
 
-![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_189@05-08-2025_20-28-41.jpg)
+![](/blog/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_189@05-08-2025_20-28-41.jpg)
 
-![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_190@05-08-2025_20-28-41.jpg)
+![](/blog/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_190@05-08-2025_20-28-41.jpg)
 
-![](/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_191@05-08-2025_20-28-41.jpg)
+![](/blog/assets/img/posts/2025-08-05-znakomtes-iura-moi-partner-po-avtostopu-326/photo_191@05-08-2025_20-28-41.jpg)

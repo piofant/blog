@@ -133,11 +133,17 @@ def copy_media(
 
 
 def render_media_markdown(r: MediaCopyResult, slug: str, tg_id: int) -> str:
-    """Produce the Markdown/HTML fragment to embed this media in a post."""
+    """Produce the Markdown/HTML fragment to embed this media in a post.
+
+    Paths are emitted with the site baseurl prefix because Jekyll is served
+    under /blog/ and kramdown does not process Liquid inside markdown images.
+    """
+    from lib.config import SITE_BASEURL
+    base = SITE_BASEURL
     kind = r.item.kind
     if kind == MediaKind.PHOTO:
         fname = r.staging_path.name
-        return f"![](/assets/img/posts/{slug}/{fname})"
+        return f"![]({base}/assets/img/posts/{slug}/{fname})"
     if kind == MediaKind.VIDEO:
         if r.embed:
             return (
@@ -148,7 +154,7 @@ def render_media_markdown(r: MediaCopyResult, slug: str, tg_id: int) -> str:
         fname = r.staging_path.name
         return (
             f'<video controls preload="metadata" style="width:100%;max-width:620px">\n'
-            f'  <source src="/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
+            f'  <source src="{base}/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
             f'</video>\n\n'
             f'[Оригинал в Telegram →](https://t.me/pioblog/{tg_id})'
         )
@@ -156,16 +162,16 @@ def render_media_markdown(r: MediaCopyResult, slug: str, tg_id: int) -> str:
         fname = r.staging_path.name
         return (
             f'<video controls preload="metadata" style="width:240px;border-radius:50%">\n'
-            f'  <source src="/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
+            f'  <source src="{base}/assets/video/posts/{slug}/{fname}" type="video/mp4">\n'
             f'</video>'
         )
     if kind == MediaKind.VOICE:
         fname = r.staging_path.name
-        return f'<audio controls src="/assets/audio/posts/{slug}/{fname}"></audio>'
+        return f'<audio controls src="{base}/assets/audio/posts/{slug}/{fname}"></audio>'
     if kind == MediaKind.FILE:
         if r.embed:
             return f'📎 [Файл в Telegram →](https://t.me/pioblog/{tg_id})'
         fname = r.staging_path.name
         name = r.item.orig_filename or fname
-        return f'📎 [{name}](/assets/files/posts/{slug}/{fname})'
+        return f'📎 [{name}]({base}/assets/files/posts/{slug}/{fname})'
     raise ValueError(f"Unknown kind {kind}")

@@ -2,13 +2,11 @@
 layout: post
 title: "Я прикрепил видео-самопрезентацию к 100+ откликам: как конвертит и какие выводы?"
 date: 2025-03-13 18:00:48 +0300
-thumbnail-img: /assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_142@13-03-2025_18-00-48.jpg
+subtitle: "Есть гипотеза, что ссылка на видео в отклике помогает зацепить рекрутера в отклике → увеличить шанс того, что позовут пообщаться на интервью"
+thumbnail-img: /blog/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_142@13-03-2025_18-00-48.jpg
 telegram_id: 272
 telegram_url: https://t.me/pioblog/272
 ---
-
-**Я прикрепил видео-самопрезентацию к 100+ откликам: как конвертит и какие выводы?**
-Есть гипотеза, что ссылка на видео в отклике помогает зацепить рекрутера в отклике → **увеличить шанс того, что позовут пообщаться на интервью**
 
 **Результаты и выводы**
 - Видео реально смотрят — по **utm-метке переходят 64%** тех, кто посмотрел отклик. Это даже больше, чем доля переходов на портфолио кейсов (51%)
@@ -26,6 +24,6 @@ telegram_url: https://t.me/pioblog/272
 
 *\*1 часть поста про самопрезентацию:* </blog/samoprezentatsiia-dlia-sobesa-kak-sostavit-chto-271-2025-03-12/>
 
-![](/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_142@13-03-2025_18-00-48.jpg)
+![](/blog/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_142@13-03-2025_18-00-48.jpg)
 
-![](/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_143@13-03-2025_18-00-48.jpg)
+![](/blog/assets/img/posts/2025-03-13-ia-prikrepil-video-samoprezentatsiiu-k-100-272/photo_143@13-03-2025_18-00-48.jpg)

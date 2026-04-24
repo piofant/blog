@@ -2,14 +2,11 @@
 layout: post
 title: "Мой первый опыт автостопа: проверка на прочность и доверие к миру"
 date: 2025-06-22 19:51:06 +0300
-thumbnail-img: /assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_172@22-06-2025_19-51-06.jpg
+subtitle: "Сегодня второй день, как я в трипе, и пишу этот постик уже из Пензы"
+thumbnail-img: /blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_172@22-06-2025_19-51-06.jpg
 telegram_id: 307
 telegram_url: https://t.me/pioblog/307
 ---
-
-**Мой первый опыт автостопа**: проверка на прочность и доверие к миру
-
-Сегодня второй день, как я в трипе, и пишу этот постик уже из Пензы
 
 **Это случилось спонтанно**
 Прогуливался по Чистым прудам, и вдруг встретил [Юру](https://t.me/happy_markelov) Маркелова — физтеха, с которым мы ранее пересекались в общих кругах DFC и Яндекса
@@ -32,14 +29,14 @@ telegram_url: https://t.me/pioblog/307
 
 \* пост с лекцией про эту поездку: </blog/lektsiia-pro-moi-pervyi-opyt-avtostopa-s-329-2025-08-19/>
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_172@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_172@22-06-2025_19-51-06.jpg)
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_173@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_173@22-06-2025_19-51-06.jpg)
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_174@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_174@22-06-2025_19-51-06.jpg)
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_175@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_175@22-06-2025_19-51-06.jpg)
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_176@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_176@22-06-2025_19-51-06.jpg)
 
-![](/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_177@22-06-2025_19-51-06.jpg)
+![](/blog/assets/img/posts/2025-06-22-moi-pervyi-opyt-avtostopa-proverka-na-prochnost-i-307/photo_177@22-06-2025_19-51-06.jpg)

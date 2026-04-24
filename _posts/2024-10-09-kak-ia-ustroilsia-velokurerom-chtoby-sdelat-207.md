@@ -2,14 +2,11 @@
 layout: post
 title: "Как я устроился велокурьером, чтобы сделать тестовое на продакта в Доставку"
 date: 2024-10-09 15:22:47 +0300
-thumbnail-img: /assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_94@09-10-2024_15-22-47.jpg
+subtitle: "Давеча одним летним месяцем я отбирался на мидла продакта в Доставку, прошёл собес с нанимающим → дали тестовое про курьерский продукт"
+thumbnail-img: /blog/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_94@09-10-2024_15-22-47.jpg
 telegram_id: 207
 telegram_url: https://t.me/pioblog/207
 ---
-
-**Как я устроился велокурьером, чтобы сделать тестовое на продакта в Доставку**
-
-Давеча одним летним месяцем я отбирался на мидла продакта в Доставку, прошёл собес с нанимающим → дали тестовое про курьерский продукт
 
 Посмотрел штук пять блогов курьеров на ютюбе, нагенерил гипотез, сделал тестовое, поставили защиту, а потом перенесли её ещё на неделю → я подумал, что это знак, и пора заканчивать теоритезировать в тестовом дома,
 
@@ -31,8 +28,8 @@ telegram_url: https://t.me/pioblog/207
 
 Какой был результат, что сказал нанимающий и чо там с оффером — давайте напишу в следующем [посте](/blog/chem-zakonchilas-istoriia-s-otborom-na-midla-210-2024-10-12/), а то чот уже многобукв тут получилось 🙂
 
-![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_94@09-10-2024_15-22-47.jpg)
+![](/blog/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_94@09-10-2024_15-22-47.jpg)
 
-![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_95@09-10-2024_15-22-47.jpg)
+![](/blog/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_95@09-10-2024_15-22-47.jpg)
 
-![](/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_96@09-10-2024_15-22-47.jpg)
+![](/blog/assets/img/posts/2024-10-09-kak-ia-ustroilsia-velokurerom-chtoby-sdelat-207/photo_96@09-10-2024_15-22-47.jpg)

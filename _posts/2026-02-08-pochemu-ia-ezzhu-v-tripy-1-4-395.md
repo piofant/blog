@@ -2,13 +2,11 @@
 layout: post
 title: "Почему я езжу в трипы (1\\4)"
 date: 2026-02-08 16:05:49 +0300
-thumbnail-img: /assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_244@08-02-2026_16-05-49.jpg
+subtitle: "бегство в настоящее как анестезия"
+thumbnail-img: /blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_244@08-02-2026_16-05-49.jpg
 telegram_id: 395
 telegram_url: https://t.me/pioblog/395
 ---
-
-П**очему я езжу в трипы** (1\4)
-бегство в настоящее как анестезия
 
 **Эдакая эвакуация от трудного/убыточного состояния**– 1.1 боль, когда усилия были умножены на ноль и я ничего не могу с этим сделать,
 – 1.2 страх одиночества \ "пустого календаря" – оттуда вот этот летний гештальт «провести лето не дома»,
@@ -23,20 +21,20 @@ telegram_url: https://t.me/pioblog/395
 
 Кажца, что такой метод shot-term способ помогает, но глобально кажца темка не самая лучшая, не буду ж я всю жизнь так бегать от трудностей?
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_244@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_244@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_245@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_245@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_246@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_246@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_247@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_247@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_248@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_248@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_249@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_249@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_250@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_250@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_251@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_251@08-02-2026_16-05-49.jpg)
 
-![](/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_252@08-02-2026_16-05-49.jpg)
+![](/blog/assets/img/posts/2026-02-08-pochemu-ia-ezzhu-v-tripy-1-4-395/photo_252@08-02-2026_16-05-49.jpg)

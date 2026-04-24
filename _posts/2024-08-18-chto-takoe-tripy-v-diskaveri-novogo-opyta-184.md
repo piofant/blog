@@ -2,14 +2,11 @@
 layout: post
 title: "Что такое Трипы в дискавери [нового опыта, ощущений, людей, контекстов, смыслов]"
 date: 2024-08-18 20:16:30 +0300
-thumbnail-img: /assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_82@18-08-2024_20-16-30.jpg
+subtitle: "Недавно сформулировал для себя определение трипов в дискавери — то, что наполняет жизнь и помогает меняться"
+thumbnail-img: /blog/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_82@18-08-2024_20-16-30.jpg
 telegram_id: 184
 telegram_url: https://t.me/pioblog/184
 ---
-
-Что такое **Трипы в дискавери** [нового опыта, ощущений, людей, контекстов, смыслов]
-
-Недавно сформулировал для себя определение *трипов в дискавери* — то, что наполняет жизнь и помогает меняться
 
 **Трип — это**
 (1) **состояние** свободного **Дискавери** (исследования) нового опыта с фокусом на ощущения
@@ -45,10 +42,10 @@ telegram_url: https://t.me/pioblog/184
 
 📞 [Зовите](http://t.me/piofant) в трипы
 
-![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_82@18-08-2024_20-16-30.jpg)
+![](/blog/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_82@18-08-2024_20-16-30.jpg)
 
-![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_83@18-08-2024_20-16-30.jpg)
+![](/blog/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_83@18-08-2024_20-16-30.jpg)
 
-![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_84@18-08-2024_20-16-30.jpg)
+![](/blog/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_84@18-08-2024_20-16-30.jpg)
 
-![](/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_85@18-08-2024_20-16-30.jpg)
+![](/blog/assets/img/posts/2024-08-18-chto-takoe-tripy-v-diskaveri-novogo-opyta-184/photo_85@18-08-2024_20-16-30.jpg)

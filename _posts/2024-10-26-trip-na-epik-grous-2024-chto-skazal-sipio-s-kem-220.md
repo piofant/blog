@@ -2,14 +2,11 @@
 layout: post
 title: "трип на эпик гроус 2024 — что сказал сипио, с кем сфоткался и какие результаты?"
 date: 2024-10-26 20:03:58 +0300
-thumbnail-img: /assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_104@26-10-2024_20-03-58.jpg
+subtitle: "эпик это высокая концентрация C-lvl (с докладами и без), рекрутёры у стендов компаний-партнёров, и много гуд-лукинг пипл"
+thumbnail-img: /blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_104@26-10-2024_20-03-58.jpg
 telegram_id: 220
 telegram_url: https://t.me/pioblog/220
 ---
-
-**трип на эпик гроус 2024 — что сказал сипио, с кем сфоткался и какие результаты?**
-
-эпик это высокая концентрация C-lvl (с докладами и без), рекрутёры у стендов компаний-партнёров, и много гуд-лукинг пипл
 
 в сравнении с тусовочным форматом [продукт кемпа](/blog/produkt-kemp-leto-2023-eto-kakoi-to-trip-na-2-dnia-130-2023-08-21/), эпик показался более модно-деловым и синьористым
 
@@ -24,14 +21,14 @@ telegram_url: https://t.me/pioblog/220
 
 How to попасть на эпик → либо волонтёришь, либо участвуешь от компании, либо как спикер, либо по билету; у меня было первое, я помогал тудым-сюдым в зале стартап-трека
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_104@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_104@26-10-2024_20-03-58.jpg)
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_105@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_105@26-10-2024_20-03-58.jpg)
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_106@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_106@26-10-2024_20-03-58.jpg)
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_107@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_107@26-10-2024_20-03-58.jpg)
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_108@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_108@26-10-2024_20-03-58.jpg)
 
-![](/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_109@26-10-2024_20-03-58.jpg)
+![](/blog/assets/img/posts/2024-10-26-trip-na-epik-grous-2024-chto-skazal-sipio-s-kem-220/photo_109@26-10-2024_20-03-58.jpg)

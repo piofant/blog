@@ -2,11 +2,10 @@
 layout: post
 title: "Вов, откуда у тебя столько подписчиков в @pioblog?"
 date: 2025-04-18 12:22:53 +0300
+subtitle: "Вов, откуда у тебя столько подписчиков в @pioblog?"
 telegram_id: 281
 telegram_url: https://t.me/pioblog/281
 ---
-
-**Вов, откуда у тебя столько подписчиков в** [@pioblog](https://t.me/pioblog)**?**
 
 Это самый часто задаваемый вопрос, и его в первую очередь надо задать вам — **напишите в комментах, откуда вы узнали об этом канале 🔻**
 
@@ -22,7 +21,7 @@ telegram_url: https://t.me/pioblog/281
 тоже к вам вопрос, я сам подписываюсь на бложики чтоб следить за человеком, как он меняется, чем делится, поэтому сам стараюсь писать посты с личным опытом & результатами & выводами, а не yet another абстрактными советами
 
 <video controls preload="metadata" style="width:100%;max-width:620px">
-  <source src="/assets/video/posts/2025-04-18-vov-otkuda-u-tebia-stolko-podpischikov-v-pioblog-281/16.04.2025 (2).mp4" type="video/mp4">
+  <source src="/blog/assets/video/posts/2025-04-18-vov-otkuda-u-tebia-stolko-podpischikov-v-pioblog-281/16.04.2025 (2).mp4" type="video/mp4">
 </video>
 
 [Оригинал в Telegram →](https://t.me/pioblog/281)

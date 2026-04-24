@@ -2,14 +2,11 @@
 layout: post
 title: "чат, привет, ближайшие 2 недели у меня болит голова про ИИ в коммуникациях"
 date: 2025-11-03 12:36:43 +0300
-thumbnail-img: /assets/img/posts/2025-11-03-chat-privet-blizhaishie-2-nedeli-u-menia-bolit-378/photo_229@03-11-2025_12-36-43.jpg
+subtitle: "активно ресёрчу best practices, как с помощью ИИ\\ИИ-агентов персонализировать триггерные коммуникации, улучшать их перфоманс и экономить время и ресурсы"
+thumbnail-img: /blog/assets/img/posts/2025-11-03-chat-privet-blizhaishie-2-nedeli-u-menia-bolit-378/photo_229@03-11-2025_12-36-43.jpg
 telegram_id: 378
 telegram_url: https://t.me/pioblog/378
 ---
-
-чат, привет, ближайшие 2 недели у меня болит голова про ИИ в коммуникациях
-
-активно ресёрчу best practices, как с помощью ИИ\ИИ-агентов персонализировать триггерные коммуникации, улучшать их перфоманс и экономить время и ресурсы
 
 набираюсь юзкейсов, в том числе из внешнего рынка, чтоб потом имплиментиовать их в продукте коммуникационной платформы
 
@@ -23,4 +20,4 @@ telegram_url: https://t.me/pioblog/378
 
 пишите [@piofant](https://t.me/piofant), с меня результаты рисерча + любая [полезность из списка](https://online-qr.ru/vova_value?utm_source=pioblog_chat_comms) бесплатно
 
-![](/assets/img/posts/2025-11-03-chat-privet-blizhaishie-2-nedeli-u-menia-bolit-378/photo_229@03-11-2025_12-36-43.jpg)
+![](/blog/assets/img/posts/2025-11-03-chat-privet-blizhaishie-2-nedeli-u-menia-bolit-378/photo_229@03-11-2025_12-36-43.jpg)

@@ -2,14 +2,11 @@
 layout: post
 title: "Польза линкедина"
 date: 2024-10-21 12:27:49 +0300
-thumbnail-img: /assets/img/posts/2024-10-21-polza-linkedina-216/photo_102@21-10-2024_12-27-49.jpg
+subtitle: "Прошлый пост в линке (такой же как выше в тг) взлетел на 37К просмотров и 400 лайков, после него мне написало несколько людей, в результате:"
+thumbnail-img: /blog/assets/img/posts/2024-10-21-polza-linkedina-216/photo_102@21-10-2024_12-27-49.jpg
 telegram_id: 216
 telegram_url: https://t.me/pioblog/216
 ---
-
-**Польза линкедина**
-
-Прошлый пост в линке (такой же как [выше](/blog/zanial-14-iz-420-mesto-v-reshenii-keisa-ot-avito-211-2024-10-14/) в тг) взлетел на 37К просмотров и 400 лайков, после него мне написало несколько людей, в результате:
 
 + 1 оффлайн не-особо-рендом-кофе в календаре с чуваком из стратегии
 + 1 супер подробный фидбек на 9 пунктов по моему решению кейса и ревью самопрезентации от хэд оф продуктс
@@ -21,6 +18,6 @@ telegram_url: https://t.me/pioblog/216
 
 часть 2 — </blog/polza-linkedina-chast-2-internet-friends-i-240-2024-12-03/>
 
-![](/assets/img/posts/2024-10-21-polza-linkedina-216/photo_102@21-10-2024_12-27-49.jpg)
+![](/blog/assets/img/posts/2024-10-21-polza-linkedina-216/photo_102@21-10-2024_12-27-49.jpg)
 
-![](/assets/img/posts/2024-10-21-polza-linkedina-216/photo_103@21-10-2024_12-27-49.jpg)
+![](/blog/assets/img/posts/2024-10-21-polza-linkedina-216/photo_103@21-10-2024_12-27-49.jpg)

@@ -85,7 +85,7 @@ def test_render_photo():
     r = MediaCopyResult(item, True, False,
                         Path("/stub/assets/img/posts/post/p.jpg"), None)
     md = render_media_markdown(r, slug="post", tg_id=1)
-    assert md == "![](/assets/img/posts/post/p.jpg)"
+    assert md == "![](/blog/assets/img/posts/post/p.jpg)"
 
 def test_render_video_selfhosted():
     item = MediaItem(MediaKind.VIDEO, "video_files/v.mp4", declared_mb=5.0)
@@ -93,7 +93,7 @@ def test_render_video_selfhosted():
                         Path("/stub/assets/video/posts/post/v.mp4"), None)
     md = render_media_markdown(r, slug="post", tg_id=10)
     assert '<video controls' in md
-    assert 'src="/assets/video/posts/post/v.mp4"' in md
+    assert 'src="/blog/assets/video/posts/post/v.mp4"' in md
     assert 'https://t.me/pioblog/10' in md  # "Оригинал"
 
 def test_render_video_embed_for_large():
@@ -115,4 +115,4 @@ def test_render_file_attachment():
                         Path("/stub/assets/files/posts/post/doc.pdf"), None)
     md = render_media_markdown(r, slug="post", tg_id=1)
     assert "📎" in md
-    assert "(/assets/files/posts/post/doc.pdf)" in md
+    assert "(/blog/assets/files/posts/post/doc.pdf)" in md
