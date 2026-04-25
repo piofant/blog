@@ -6,4 +6,4 @@ telegram_id: 245
 telegram_url: https://t.me/pioblog/245
 ---
 
-
+начинаем через полчаса

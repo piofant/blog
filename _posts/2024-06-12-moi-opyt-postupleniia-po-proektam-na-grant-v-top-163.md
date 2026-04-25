@@ -2,7 +2,7 @@
 layout: post
 title: "Мой опыт поступления по проектам на грант в топ-ВУЗы: МФТИ, МИФИ, ИТМО,"
 date: 2024-06-12 19:10:58 +0300
-subtitle: "В это воскресенье в 12:00 на стриме буду рассказывать про мою историю поступления в топ ВУЗы по проектам, приходите!"
+subtitle: "Иннополис"
 tags: [по_жизни]
 thumbnail-img: /blog/assets/img/posts/2024-06-12-moi-opyt-postupleniia-po-proektam-na-grant-v-top-163/photo_65@12-06-2024_19-10-58.jpg
 telegram_id: 163

@@ -6,4 +6,4 @@ telegram_id: 73
 telegram_url: https://t.me/pioblog/73
 ---
 
-
+Искать любовь у школьных учителей — кажется, плохая затея.

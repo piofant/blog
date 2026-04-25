@@ -8,4 +8,6 @@ telegram_id: 246
 telegram_url: https://t.me/pioblog/246
 ---
 
+уже празднуем и знакомимся с подписчиками
+
 ![](/blog/assets/img/posts/2024-12-22-my-v-zume-prisoediniaites-po-ssylke-246/photo_122@22-12-2024_12-07-34.jpg)

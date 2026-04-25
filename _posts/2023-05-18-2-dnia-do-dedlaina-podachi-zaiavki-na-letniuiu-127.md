@@ -6,4 +6,4 @@ telegram_id: 127
 telegram_url: https://t.me/pioblog/127
 ---
 
-
+🔄 2 дня до дедлайна подачи заявки на летнюю школу 2023

@@ -2,7 +2,7 @@
 layout: post
 title: "Делюсь результатами футболки для поиска работы — нашёл ли я работу продактом"
 date: 2024-09-05 17:32:21 +0300
-subtitle: "100+ запусков @hire\\vova\\bot, из которых только 8 по QR с футболки → 3 касания с нанимающими → feedback pending (пока зиро офферов), детальнее воронку смотрите на фотке"
+subtitle: "на ProductCamp лето 2024? 🧮 Результат в числах"
 thumbnail-img: /blog/assets/img/posts/2024-09-05-delius-rezultatami-futbolki-dlia-poiska-raboty-195/photo_87@05-09-2024_17-32-21.jpg
 telegram_id: 195
 telegram_url: https://t.me/pioblog/195

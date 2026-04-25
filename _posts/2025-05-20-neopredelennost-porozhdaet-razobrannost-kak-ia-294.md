@@ -2,7 +2,7 @@
 layout: post
 title: "неопределенность порождает разобранность, как я пробовал с ней справляться? 4"
 date: 2025-05-20 01:09:37 +0300
-subtitle: "В школе нам давали задачки с правильным ответом в конце учебника, а в жизни никто не скажет, как поступать правильно (если у вас не гиперопека, конечно): в какой вузик поступить"
+subtitle: "способа"
 thumbnail-img: /blog/assets/img/posts/2025-05-20-neopredelennost-porozhdaet-razobrannost-kak-ia-294/photo_159@20-05-2025_01-09-37.jpg
 telegram_id: 294
 telegram_url: https://t.me/pioblog/294

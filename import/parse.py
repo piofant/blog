@@ -28,8 +28,13 @@ def _strip_title_from_body(body_md: str, title: str) -> str:
     """If the body's first non-empty line is (or embeds) the title, drop it.
 
     Title comes from the plain-text decoding of the first TG line, while
-    body_md keeps markdown (links as [text](url), bold as **x**, etc). To
-    compare them reliably we strip both to pure display text.
+    body_md keeps markdown (links as [text](url), bold as **x**, etc).
+
+    Two cases worth distinguishing:
+    * Title equals the whole first line — drop the line, body keeps line 2+
+    * Title is a *prefix* of the first line (because TITLE_MAX_CHARS truncated
+      a long sentence) — keep only the suffix on line 1. Otherwise we lose
+      "сделать меня счастливым…" / "редактуры. Лайфстайл, …" / etc.
     """
     if not body_md.strip():
         return body_md
@@ -39,12 +44,75 @@ def _strip_title_from_body(body_md: str, title: str) -> str:
             continue
         first_text = _markdown_to_plain(line)
         title_text = _markdown_to_plain(title)
-        # title is the first TG line truncated to 80 chars, so the body's
-        # first line either equals it or starts with it
-        if first_text == title_text or first_text.startswith(title_text):
+        if not title_text:
+            break
+        if first_text == title_text:
             return "\n".join(lines[i + 1:]).lstrip("\n")
+        if first_text.startswith(title_text):
+            # Truncated title — keep the suffix in body. We need to slice the
+            # ORIGINAL markdown line by char count. The plain-text title and
+            # markdown line align character-by-character only when there is
+            # no inline markup before the cut, but the typical case is plain
+            # text + maybe a trailing link. Slice by plain-text length and
+            # walk markdown to the same position.
+            suffix_md = _slice_markdown_after_plain_prefix(line, title_text)
+            if suffix_md is None:
+                # markdown alignment failed (decoration before truncation
+                # point). Conservatively drop the line — same as before.
+                return "\n".join(lines[i + 1:]).lstrip("\n")
+            tail = "\n".join(lines[i + 1:])
+            if suffix_md and tail:
+                return suffix_md + "\n" + tail.lstrip("\n")
+            return (suffix_md or "") + ("\n" + tail.lstrip("\n") if tail else "")
         break
     return body_md
+
+
+def _slice_markdown_after_plain_prefix(md_line: str, plain_prefix: str) -> str | None:
+    """Return the part of ``md_line`` whose plain text comes after ``plain_prefix``.
+
+    Walks the markdown char-by-char, skipping ``*`` / ``_`` / ``\`` / ``~`` /
+    backtick decoration and link/image syntax — collecting the same plain
+    sequence the title was derived from. Returns the remaining markdown when
+    it has consumed ``len(plain_prefix)`` plain chars. Returns ``None`` if the
+    plain prefix doesn't align (e.g., heading marker before truncation).
+    """
+    consumed = 0
+    i = 0
+    n = len(md_line)
+    target = len(plain_prefix)
+    while i < n and consumed < target:
+        ch = md_line[i]
+        if ch in "*_`~":
+            i += 1
+            continue
+        if ch == "\\" and i + 1 < n:
+            i += 2
+            consumed += 1
+            continue
+        if ch == "[":
+            # markdown link [text](url) — consume only the text
+            close = md_line.find("](", i)
+            if close == -1:
+                return None
+            text = md_line[i + 1:close]
+            url_close = md_line.find(")", close + 2)
+            if url_close == -1:
+                return None
+            if consumed + len(text) <= target:
+                consumed += len(text)
+                i = url_close + 1
+                continue
+            # truncation falls inside the link text — too messy, bail out
+            return None
+        i += 1
+        consumed += 1
+    if consumed < target:
+        return None
+    # skip whitespace immediately after the prefix
+    while i < n and md_line[i] in " \t":
+        i += 1
+    return md_line[i:]
 
 
 def _extract_subtitle_and_body(body_md: str, title: str) -> tuple[str | None, str]:
@@ -59,7 +127,9 @@ def _extract_subtitle_and_body(body_md: str, title: str) -> tuple[str | None, st
     remainder = _strip_title_from_body(body_md, title)
     stripped = remainder.lstrip("\n")
     if not stripped.strip():
-        return None, remainder
+        # Title-strip already left the body empty — there's nothing more to
+        # split off. Revert: keep the full body so the post isn't blank.
+        return None, body_md
     first_line, _, rest = stripped.partition("\n")
     plain = _markdown_to_plain(first_line)
     if not plain:
@@ -68,13 +138,14 @@ def _extract_subtitle_and_body(body_md: str, title: str) -> tuple[str | None, st
     if len(plain) > SUBTITLE_MAX_CHARS:
         plain = plain[:SUBTITLE_MAX_CHARS].rsplit(" ", 1)[0].rstrip(",.;: ")
         truncated = True
-    # Only drop the line from the body when subtitle captures it losslessly.
-    # Lines with inline markdown links, images, or over the subtitle length
-    # must stay in the body or we'd lose real content (anchor URLs, etc).
     has_links = bool(re.search(r"!?\[[^\]]+\]\([^)]+\)", first_line))
-    if has_links or truncated:
-        return plain, remainder  # subtitle is a preview; body keeps the line
-    return plain, rest.lstrip("\n")
+    new_body = rest.lstrip("\n")
+    # If consuming the line as subtitle would empty the body, OR the line
+    # carries inline links / got truncated, keep it in the body. The
+    # subtitle still acts as a clean plain-text preview for cards.
+    if has_links or truncated or not new_body.strip():
+        return plain, remainder
+    return plain, new_body
 
 
 def _markdown_to_plain(s: str) -> str:

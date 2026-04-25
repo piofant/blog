@@ -2,7 +2,7 @@
 layout: post
 title: "Зацените, какой у нас предмет в ВУЗе запустили — 'Создание продуктов на основе"
 date: 2025-10-05 09:18:16 +0300
-subtitle: "Главный суетолог — Александр Меркушев, лид продакт в ai-консалтинге yandex cloud — ребят внедряют ИИ b2b клиентам облака, в общем эксперт из индустрии, прикиньте"
+subtitle: "ИИ'"
 thumbnail-img: /blog/assets/img/posts/2025-10-05-zatsenite-kakoi-u-nas-predmet-v-vuze-zapustili-356/photo_211@05-10-2025_09-18-16.jpg
 telegram_id: 356
 telegram_url: https://t.me/pioblog/356

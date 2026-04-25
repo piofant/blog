@@ -2,9 +2,9 @@
 layout: post
 title: "Второй мой канал с кусочками жизни, про каждодневность, без правок и"
 date: 2022-05-16 13:12:52 +0300
-subtitle: "<t.me/nottldr>"
+subtitle: "редактуры. Лайфстайл, щитпостинг и вот это вот всё."
 telegram_id: 100
 telegram_url: https://t.me/pioblog/100
 ---
 
-
+<t.me/not_tldr>

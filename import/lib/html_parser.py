@@ -17,6 +17,12 @@ def _parse_date(title: str) -> datetime:
     return datetime.strptime(dt_part, "%d.%m.%Y %H:%M:%S").replace(tzinfo=tz)
 
 
+_MEDIA_CLASSES = [
+    "photo_wrap", "video_file_wrap", "voice_message",
+    "round_video_message", "file_wrap", "sticker_wrap",
+]
+
+
 def _is_pure_sticker(msg: Tag) -> bool:
     """True if message has no text div AND media is only a sticker."""
     if msg.find("div", class_="text"):
@@ -27,6 +33,24 @@ def _is_pure_sticker(msg: Tag) -> bool:
                      "round_video_message", "file_wrap"]
     )
     return bool(stickers) and not other_media
+
+
+def _is_empty(msg: Tag) -> bool:
+    """True when a head message carries no text and no embeddable media.
+
+    TG occasionally exports stub `<div class="message default">` blocks with
+    neither a text div nor any of the wrapped media anchors. Importing them
+    produces a post titled "Запись от …" with an empty body — useless and
+    confusing on the feed. Album-followers (`joined`) are exempt: their
+    media still gets absorbed into the preceding head.
+    """
+    if "joined" in msg.get("class", []):
+        return False
+    if msg.find("div", class_="text"):
+        return False
+    if msg.find("a", class_=_MEDIA_CLASSES):
+        return False
+    return True
 
 
 def parse_dump(html_path: Path) -> list[dict]:
@@ -40,6 +64,8 @@ def parse_dump(html_path: Path) -> list[dict]:
         if "default" not in classes:
             continue
         if _is_pure_sticker(msg):
+            continue
+        if _is_empty(msg):
             continue
         mid_str = msg.get("id", "")
         if not mid_str.startswith("message"):

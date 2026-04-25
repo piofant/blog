@@ -2,7 +2,7 @@
 layout: post
 title: "Театр как «исцеляющая фантазия» – PMF актёрства с эмоциональными"
 date: 2026-03-27 18:42:01 +0300
-subtitle: "Заметили, сколько в предыдущем посте эмоциональных потребностей? Целый салатик 🥗"
+subtitle: "потребностями. Часть 2\\2"
 thumbnail-img: /blog/assets/img/posts/2026-03-27-teatr-kak-istseliaiushchaia-fantaziia-pmf-420/photo_265@27-03-2026_18-42-01.jpg
 telegram_id: 420
 telegram_url: https://t.me/pioblog/420
