@@ -229,7 +229,7 @@ timezone: "Russia/Moscow"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title-:year-:month-:day/
-paginate: 8
+paginate: 16
 
 kramdown:
   input: GFM
