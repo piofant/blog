@@ -3,7 +3,7 @@ layout: "page"
 title: "Чем могу быть полезен"
 permalink: "/about/"
 notion_id: "d0d67ebeb5504322b875bf22dac51e56"
-notion_last_edited: "2026-04-25T08:55:00.000Z"
+notion_last_edited: "2026-04-25T09:23:00.000Z"
 ---
 
 <div class="callout gray_background" markdown="1">
@@ -53,7 +53,4 @@ notion_last_edited: "2026-04-25T08:55:00.000Z"
 </div>
 
 
-
-
----
 
