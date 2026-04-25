@@ -79,6 +79,16 @@ article.blog-post pre {
 }
 .callout.insight { border-left-color: #1e8a4a; }
 .callout.warning { border-left-color: #c0392b; }
+/* Notion-API цветовые алиасы (gray_background, brown_background и т.д.) */
+.callout.gray_background,
+.callout.brown_background,
+.callout.blue_background,
+.callout.purple_background,
+.callout.pink_background,
+.callout.yellow_background { border-left-color: #888; }
+.callout.green_background  { border-left-color: #1e8a4a; }
+.callout.red_background,
+.callout.orange_background { border-left-color: #c0392b; }
 .callout > p:first-child strong:first-child {
   color: #222;
 }
