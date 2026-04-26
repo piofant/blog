@@ -20,7 +20,6 @@ import/staging/
 scripts/node_modules/
 import/tests/fixtures_dump/
 
-# Pioblog sync state and telethon session
-import/pioblog_sync/.state.json
-import/pioblog_sync/.session
-import/pioblog_sync/.session-journal
+# Pioblog sync — venv and downloads
+import/.venv/
+import/downloads/
