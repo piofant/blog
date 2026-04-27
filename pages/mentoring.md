@@ -3,7 +3,7 @@ layout: "page"
 title: "Менторство по продакт менеджменту"
 permalink: "/mentoring/"
 notion_id: "3118a5b81e9d469183c26a8b0aa96ad8"
-notion_last_edited: "2026-04-27T09:07:00.000Z"
+notion_last_edited: "2026-04-27T16:00:00.000Z"
 ---
 
 ## О себе
@@ -17,9 +17,9 @@ notion_last_edited: "2026-04-27T09:07:00.000Z"
 
 ## Результаты моих менти:
 
-- оффер на **джуна продакта в Авито** - [отзыв и история менти](https://t.me/pioblog/261)
-- офер на **джуна продакта в Miro** - [отзыв и история менти](https://t.me/pioblog/293)
-- **приглашение на ШМЯ** 2024 - [отзыв и история менти](https://t.me/pioblog/280)
+- оффер на джуна продакта в Авито - [отзыв и история менти](https://piofant.github.io/blog/rezultaty-moikh-menti-chast-1-ot-direktora-261/)
+- офер на джуна продакта в Miro - [отзыв и история менти](https://piofant.github.io/blog/zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/)
+- приглашение на ШМЯ 2024 - [отзыв и история менти](https://piofant.github.io/blog/proiti-pervyi-v-zhizni-keis-sobes-i-otobratsia-v-280/)
 
 <details>
 <summary><h3>💼 Мой опыт работы продактом</h3></summary>
