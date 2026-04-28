@@ -3,19 +3,19 @@ layout: "page"
 title: "Менторство по продакт менеджменту"
 permalink: "/mentoring/"
 notion_id: "3118a5b81e9d469183c26a8b0aa96ad8"
-notion_last_edited: "2026-04-27T16:00:00.000Z"
+notion_last_edited: "2026-04-28T21:10:00.000Z"
 ---
 
 ## О себе
 
 
-Привет, я Вова, ai-продакт с опытом в Яндексе, ChatRoulette и своих пет-проектах. Перешёл в продакты из некоммерческой разработки на C++, Python, SQL
+Привет, я Вова, ai-продакт с опытом в Яндексе, ChatRoulette и своих пет-проектах. Перешёл в продакты из backend-разработчика
 
 
 Буду очень рад видеть на своих консультациях продактов и тех, кто только задумался о переходе в эту роль
 
 
-## Результаты моих менти:
+## Результаты моих менти
 
 - оффер на джуна продакта в Авито - [отзыв и история менти](https://piofant.github.io/blog/rezultaty-moikh-menti-chast-1-ot-direktora-261/)
 - офер на джуна продакта в Miro - [отзыв и история менти](https://piofant.github.io/blog/zareshat-keis-i-otobratsia-na-dzhuna-prodakta-v-293/)
