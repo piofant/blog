@@ -3,7 +3,7 @@ layout: "page"
 title: "Портфолио кейсов"
 permalink: "/portfolio/"
 notion_id: "b9e7ade0f6844fe1b91079390c0119b4"
-notion_last_edited: "2026-04-23T23:28:00.000Z"
+notion_last_edited: "2026-05-07T08:35:00.000Z"
 ---
 
 ### Кейсы
@@ -29,7 +29,7 @@ notion_last_edited: "2026-04-23T23:28:00.000Z"
 [**🌐 [еком, веб]** ](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)[Как решить проблему низкой конверсии в корзину на сайте интернет магазина](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)
 
 
-**:2025-03-04_00-11:** [**[ecom, b2b]** ](https://drive.google.com/file/d/1kA_9PB35Nqvmw_Cc1JU0eUo1X5VPdjFe/view?usp=sharing)[Как улучшить качество контента у карточек товаров на Яндекс.Маркете](https://drive.google.com/file/d/1kA_9PB35Nqvmw_Cc1JU0eUo1X5VPdjFe/view?usp=sharing)
+[**[ecom, b2b]** ](https://online-qr.ru/vova_cv_market_case/)[Как улучшить качество контента у карточек товаров на Маркетплейсе](https://online-qr.ru/vova_cv_market_case/)
 
 
 ---
