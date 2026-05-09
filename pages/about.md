@@ -3,7 +3,7 @@ layout: "page"
 title: "Чем могу быть полезен"
 permalink: "/about/"
 notion_id: "d0d67ebeb5504322b875bf22dac51e56"
-notion_last_edited: "2026-04-28T21:06:00.000Z"
+notion_last_edited: "2026-05-09T08:31:00.000Z"
 ---
 
 <div class="callout gray_background" markdown="1">
@@ -16,8 +16,8 @@ notion_last_edited: "2026-04-28T21:06:00.000Z"
 ## **🥕 Продуктовое**
 
 - [менторю](/3118a5b81e9d469183c26a8b0aa96ad8) продактов по карьерным и рабочим вопросам
-- создал открытый кейс-клуб для продактов, где мы разбираем кейсы с интервью –[ вступить в комьюнити](https://v0-kasem-club-website.vercel.app/)
-- нанять продактом: [CV](http://online-qr.ru/vova_cv?utm_source=vova_value)
+- создал открытый кейс-клуб для продактов, где мы разбираем кейсы с интервью – [вступить в комьюнити](https://piofant.github.io/case-club?utm_source=vova_value_pioblog)
+- нанять продактом: [CV](https://piofant.github.io/cv?utm_source=vova_value_piofant)
 - могу привлечь лидов для вашего бизнеса:
 <details>
 <summary>5.000+ старшеклассников-технарей 9-11 класс;</summary>
