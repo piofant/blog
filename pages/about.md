@@ -3,7 +3,7 @@ layout: "page"
 title: "Чем могу быть полезен"
 permalink: "/about/"
 notion_id: "d0d67ebeb5504322b875bf22dac51e56"
-notion_last_edited: "2026-05-09T08:31:00.000Z"
+notion_last_edited: "2026-05-09T10:07:00.000Z"
 ---
 
 <div class="callout gray_background" markdown="1">
@@ -16,7 +16,6 @@ notion_last_edited: "2026-05-09T08:31:00.000Z"
 ## **🥕 Продуктовое**
 
 - [менторю](/3118a5b81e9d469183c26a8b0aa96ad8) продактов по карьерным и рабочим вопросам
-- создал открытый кейс-клуб для продактов, где мы разбираем кейсы с интервью – [вступить в комьюнити](https://piofant.github.io/case-club?utm_source=vova_value_pioblog)
 - нанять продактом: [CV](https://piofant.github.io/cv?utm_source=vova_value_piofant)
 - могу привлечь лидов для вашего бизнеса:
 <details>
@@ -41,12 +40,19 @@ notion_last_edited: "2026-05-09T08:31:00.000Z"
 </details>
 
 
+### 👥 Мои комьюнити 
+
+
+
+- создал открытый кейс-клуб для продактов, где мы разбираем кейсы с интервью – [вступить в комьюнити](https://piofant.github.io/case-club?utm_source=vova_value_pioblog) (100 участников)
+- чатик друзей-вабйкодеров \ ии-агентов – [вступить](https://t.me/+faPebkaeB1AwODli)
+- зову вместе ходить на нетворкинг\околоайтишные эвенты в Москве в [@sns_go](https://t.me/sns_go/56)
+
 ## **🤝 Социальное**
 
 - организую нетворк-эвент и [рассказажу доклад](https://piofant.github.io/blog/ia-sdelal-prezentatsiiu-pro-netvorking-tusy-kak-120/) про то, как перезнакомить группу людей на тусе
 - помогу внедрить любую полезную привычку с помощью социального коммитмента в [@hub_hub_bot](http://t.me/hub_hub_bot)
 - делюсь опытом про карьерный путь до продакт-лида и экспериментами про выход из зоны комфорта в [@pioblog](http://t.me/pioblog) (1К читателей)
-- зову вместе ходить на нетворкинг\околоайтишные эвенты в Москве в открытом [@sns_go](https://t.me/sns_go/56)
 
 <div class="callout gray_background" markdown="1">
 ✏️ **Напиши мне в Telegram **[@piofant](http://t.me/piofant), если чувствуешь импульс пообщаться / видишь возможность заколлаборировать
