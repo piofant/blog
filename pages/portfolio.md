@@ -3,7 +3,7 @@ layout: "page"
 title: "Портфолио кейсов"
 permalink: "/portfolio/"
 notion_id: "b9e7ade0f6844fe1b91079390c0119b4"
-notion_last_edited: "2026-05-07T08:35:00.000Z"
+notion_last_edited: "2026-05-09T10:18:00.000Z"
 ---
 
 ### Кейсы
@@ -26,7 +26,7 @@ notion_last_edited: "2026-05-07T08:35:00.000Z"
 **:доставка-лого-2:** [**[Доставка, b2e]** ](https://drive.google.com/file/d/11CbE27AGeIhCBVP3CG85T4I4esIZGytR/view?usp=sharing)[Как снизить долгое ожидание курьера в Яндекс Доставке [вышел в поля курьером]](https://drive.google.com/file/d/11CbE27AGeIhCBVP3CG85T4I4esIZGytR/view?usp=sharing)
 
 
-[**🌐 [еком, веб]** ](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)[Как решить проблему низкой конверсии в корзину на сайте интернет магазина](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)
+[**[еком, веб]** ](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)[Как решить проблему низкой конверсии в корзину на сайте интернет магазина](https://drive.google.com/file/d/1K1vJceB8ugHg4tlX9dPWGTpUDyYX5QEV/view?usp=sharing)
 
 
 [**[ecom, b2b]** ](https://online-qr.ru/vova_cv_market_case/)[Как улучшить качество контента у карточек товаров на Маркетплейсе](https://online-qr.ru/vova_cv_market_case/)
@@ -98,17 +98,6 @@ notion_last_edited: "2026-05-07T08:35:00.000Z"
 </details>
 
 
-
-
-### Чем ещё могу быть полезен (доклады, менторство, эвент-менеджмент)
-
-
-
-
-[link_to_page](https://www.notion.so/d0d67ebe-b550-4322-b875-bf22dac51e56)
-
-
-Веду [Telegram-блог](https://t.me/pioblog) про путь до продакт-лида (1K подписчиков)
 
 > Вова Луценко, продакт, telegram: [@piodao](/17314f9d628247edb248a8afff0d93d3)
 <details>
