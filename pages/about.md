@@ -3,7 +3,7 @@ layout: "page"
 title: "Чем могу быть полезен"
 permalink: "/about/"
 notion_id: "d0d67ebeb5504322b875bf22dac51e56"
-notion_last_edited: "2026-05-09T11:17:00.000Z"
+notion_last_edited: "2026-06-12T09:23:00.000Z"
 ---
 
 <div class="callout gray_background" markdown="1">
@@ -45,7 +45,7 @@ notion_last_edited: "2026-05-09T11:17:00.000Z"
 
 
 - [кейс-клуб](https://piofant.github.io/case-club?utm_source=vova_value_pioblog) для продактов, где мы разбираем кейсы с интервью (50+ участников)
-- [чатик](https://t.me/+faPebkaeB1AwODli) друзей-вабйкодеров \ ии-агентов
+- [чатик](https://t.me/+faPebkaeB1AwODli) друзей-вайбкодеров \ ии-агентов
 - зову вместе ходить на нетворкинг\околоайтишные эвенты в Москве в [@sns_go](https://t.me/sns_go/56)
 
 ## **🤝 Социальное**
